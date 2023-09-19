@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Choice of Plausible Alternatives</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div id="content">
+
+      <img src="images/performance.png" />
+      <p><a href="index.html">Andrew S. Gordon</a></p>
+
+      <h2>Choice of Plausible Alternatives (COPA)</h2>
+
+      <h4>An evaluation of commonsense causal reasoning</h4>
+
+
+      <p>The Choice Of Plausible Alternatives (COPA) evaluation provides researchers with a tool for assessing progress in open-domain commonsense causal reasoning. COPA consists of 1000 questions, split equally  into development and test sets of 500 questions  each. Each question is composed of a premise and two alternatives, where the task is to select the alternative that more plausibly has a causal relation with the premise. The correct alternative is randomized so that the expected performance of randomly guessing is 50%. More details about the creation of the COPA evaluation are described in the following paper:</p>
+      <ul class="publist">
+        <li>Roemmele, M., Bejan, C., and Gordon, A. (2011) Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning. AAAI Spring Symposium on Logical Formalizations of Commonsense Reasoning, Stanford University, March 21-23, 2011. <a href="publications/AAAI-SPRING11A.PDF">pdf</a></li>
+      </ul>
+
+      <h3>1. Examples  </h3>
+
+      <blockquote>
+        <p>Premise: The man broke his toe. What was the CAUSE of this?<br />
+          Alternative 1: He got a hole in his sock. <br />
+          Alternative 2: He dropped a hammer on his foot.    </p>
+        <p>Premise: I tipped the bottle. What happened as a RESULT?<br />
+          Alternative 1: The liquid in the bottle froze.<br />
+          Alternative 2: The liquid in the bottle poured out.</p>
+        <p>Premise: I knocked on my neighbor's door. What happened as a RESULT?<br />
+          Alternative 1: My neighbor invited me in.<br />
+          Alternative 2: My neighbor left his house.</p>
+      </blockquote>
+
+      <p>For the humans on your team, the  set of 500 questions in the development set can be found here: <a href="downloads/COPA-questions-dev.txt">COPA-questions-dev.txt</a></p>
+
+      <h3>2. The complete COPA package</h3>
+
+      <p>The entire collection of resources for the COPA evaluation can be downloaded here: <a href="downloads/COPA-resources.tgz">COPA-resources.tgz</a></p>
+
+      <p>Included in this package are the following resources:</p>
+
+      <ul>
+        <li><tt>datasets/copa-dev.xml</tt> : 500 questions of the development set</li>
+        <li><tt>datasets/copa-test.xml</tt> : 500 questions of the test set</li>
+        <li><tt>datasets/copa-all.xml</tt> : 1000 questions of both the development and test sets</li>
+        <li><tt>datasets/copa.dtd</tt> : The format of the XML question files</li>
+        <br />
+        <li><tt>results/gold.*</tt> : Correct answers for each set of questions</li>
+        <li><tt>results/baselineFirst.*</tt> : Choices where the first alternative is always selected</li>
+        <li><tt>results/PMIgutenbergW5.*</tt> : Choices made by the best-performing baseline system of Roemmele et al, 2011. </li>
+        <br />
+        <li><tt>copa-eval.jar</tt> : A java package for computing statistical significance of differences in answer sets</li>
+        <li><tt>copa-eval.sh</tt> : A simple shell script for using the java package</li>
+      </ul>
+
+      <h3>3. Statistical significance test</h3>
+
+      <p>To determine whether two systems are significantly different in their performance on the COPA datasets, we make available a software that implements a significance test. The significance test is based on approximate randomization (Noreen, 1989) that involves a stratified shuffling approach in order to build a distribution of differences in performance between the two systems. </p>
+
+      <p>The software is implemented in java and can be executed with a bash script (<tt>copa-eval.sh</tt>) that receives as arguments the file with the gold-standard answers and the files with the choices of two reasoning systems to compare. The files with the systems' choices can be in any order. For example, try the following command:</p>
+
+      <blockquote>
+        <tt>./copa-eval.sh results/gold.dev results/baselineFirst.dev results/PMIgutenbergW5.dev</tt>
+      </blockquote>
+
+      <p>In this example, the function calculates the significance level (p-value) to determine whether or not the results obtained by the baselineFirst and PMIgutenbergW5 systems are significantly different on the COPA development set. P-values of .05, .01, and .001 are commonly viewed as statistically significant, where the lower the significance level, the more likely the two systems are significantly different.</p>
+
+      <p>The choices file is a text file where each line encodes a system's choice for one item. The format of such a line is either [<tt>item_id 1 0</tt>] or [<tt>item_id 0 1</tt>]. The format [<tt>item_id 1 0</tt>] indicates that the response for the item <tt>item_id</tt> from the dataset was selected to be the first alternative; similarly, [<tt>item_id 0 1</tt>] indicates that the second alternative was selected as response for the item <tt>item_id</tt>. </p>
+
+      <h3>4. Research ethics </h3>
+
+      <p>In providing both the development and test sets, we are relying on competitors to exercise ethical research practices.</p>
+
+      <ul>
+        <li>Researchers should not study the 500 questions in the COPA test set, and avoid any temptation to alter their systems toward the content of this particular set of questions. </li>
+        <li>Researchers should evaluate the performance of their systems on the COPA test set only once, after they have concluded all of their efforts to improve perfromance on the COPA development set. </li>
+      </ul>
+
+      <p>Findings of unethical research practices can ruin your career, so obey the rules.</p>
+
+      <h3>5. SemEval 2012 Task 7</h3>
+
+      <p>COPA was used a shared task (Task 7) in the 6th International Workshop on Semantic Evaluation (SemEval 2012). The winning system was created by Travis Goodwin, Bryan Rink, Kirk Roberts, and Sanda M. Harabagiu from the University of Texas at Dallas, Human Language Technology Research Institute. Details about this shared task and the performance of competing systems are provided in the following paper:</p>
+
+      <ul><li>Gordon, A., Kozareva, Z., and Roemmele, M. (2012) SemEval-2012 Task 7: Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning. Proceedings of the 6th International Workshop on Semantic Evaluation (SemEval 2012), June 7-8, 2012, Montreal, Canada. <a href="publications/SEMEVAL12.PDF">pdf</a></li></ul>
+
+      <h3>6. SuperGLUE benchmark for general-purpose language understanding</h3>
+
+      <p>As of 2019, the COPA evaluation is included in the "SuperGLUE" benchmark for general-purpose language understanding, as one of ten tasks. Website: <a href="https://super.gluebenchmark.com/">https://super.gluebenchmark.com/</a> and Leaderboard: <a href="https://super.gluebenchmark.com/leaderboard">https://super.gluebenchmark.com/leaderboard</a></p>
+
+      <h3>7. Competitive results</h3>
+
+      <p>To encourage progress in this research area, we would like to offer here all of the results generated by competing systems. This will allow us to benchmark different approaches to the problem, and allow us to compute the statistical significance of the differences between systems without having to re-implement them.</p>
+
+      <ul>
+        <li>Baseline results (provided in the COPA-resources package): PMIgutenbergW5 achieves 58.8% on the test set</li>
+        <li>Gordon, A., Bejan, C., and Sagae, K. (2011) Commonsense Causal Reasoning Using Millions of Personal Stories. Twenty-Fifth Conference on Artificial Intelligence (AAAI-11), August 7–11, 2011, San Francisco, CA. <a href="publications/AAAI11.PDF">pdf</a> (<a href="downloads/COPA-Gordon-2011.tgz">COPA-Gordon-2011.tgz</a>): Best system achieves 65.4% on the test set</li>
+        <li>Goodwin, T., Rink, B., Roberts, K., and Harabagiu, S. (2012) UTDHLT: COPACETIC System for Choosing Plausible Alternatives. Proceedings of the 6th International Workshop on Semantic Evaluation (SemEval 2012), June 7-8, 2012, Montreal, Canada. (<a href="downloads/COPA-Goodwin-2012.tgz">COPA-Goodwin-2012.tgz</a>): Best system achieves 63.4% on the test set</li>
+	<li>Jabeen, S., Gao, X., Andreae, P. (2014). Using Asymmetric Associations for Commonsense Causality Detection. 13th Pacific Rim International Conference on Artificial Intelligence, Gold Coast, QLD, Australia, December 1-5, 2014. Best system achieves 58.8% on the test set</li>
+	<li>Luo, Z., Sha, Y., Zhu, K., Hwang, S., and Wang, Z. (2016) Commonsense Causal Reasoning between Short Texts. 15th International Conference on Principles of Knowledge Representation and Reasoning (KR-2016), April 25-29, 2016, Cape Town, South Africa. Achieves 70.2% on test set.</li>
+	<li>Sasaki, S., Takase, S., Inoue, N., Okazaki, N., and Inui, K. (2017) Handling Multiword Expressions in Causality Estimation. 12th International Conference on Computational Semantics (IWCS), 19-22 September 2017 Montpellier, France. (<a href="downloads/COPA-Sasaki-2017.tgz">COPA-Sasaki-2017.tgz</a>): Achieves 71.2% on COPA test set. <a href="http://aclweb.org/anthology/W/W17/W17-6937.pdf">PDF at ACL Anthology</a></li>
+	<li>Roemmele, M. and Gordon, A. (2018) An Encoder-decoder Approach to Predicting Causal Relations in Stories. Storytelling Workshop at the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2018), New Orleans, LA, June 5, 2018.	  <a href="publications/NAACL-WS18A.PDF">pdf</a>. Achieves 66.2% on the COPA test set.</li>
+	<li>Radford, A. (2018) Improving Language Understanding with Unsupervised Learning. <a href="https://openai.com/blog/language-unsupervised/">Blog post, June 11, 2018</a>, and <a href="https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf">related paper</a>. Reports 78.6% on the COPA test set.</li>
+	<li>Li, Z., Chen, T., and Van Durme, B. (2019) Learning to Rank for Plausible Plausibility. Proceedings of ACL-2019: 57th Annual Meeting of the Association for Computational Linguistics, Florence, Italy, July 28-August 2, 2019. <a href="https://arxiv.org/abs/1906.02079v1">ArXiV page</a>. Achieves 75.4% on the COPA test set.</li>
+	<li>Sap, M., Rashkin, H., Chen, D., Le Bras, R., and Choi, Y. (2019) Social IQa: Commonsense Reasoning about Social Interactions. 2019 Conference on Empirical Methods in Natural Language Processing, Hong Kong. <a href="https://arxiv.org/abs/1904.09728">ArXiV page</a>. Achieves 84.4% using BERT tuned with crowdsourced commonsense social knowledge.</li>
+        <li><em>&lt; your results here &gt;</em></li>
+      </ul>
+
+      <h3>8. Other related publications</h3>
+
+      <p>Several other papers discuss the COPA evalution and describe novel approaches to its solution.</p>
+
+      <ul>
+	<li>Maslan, N., Roemmele, M., and Gordon, A. (2015) One Hundred Challenge Problems for Logical Formalizations of Commonsense Psychology. Twelfth International Symposium on Logical Formalizations of Commonsense Reasoning (Commonsense-2015), March 23-25, 2015, Stanford, CA. <a href="publications/AAAI-SPRING15.PDF">pdf</a></li>
+	<li>Blass, J. & Forbus, K. (2017). Analogical Chaining with Natural Language Instruction for Commonsense Reasoning. Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17), February 4–9, 2017, San Francisco, CA.</li>
+	<li>Zhang, S., Rudinger, R., Duh, K., and Van Durme, B. (2017) Ordinal Common-sense Inference. Sixteenth conference on Theoretical Aspects of Rationality and Knowledge (TARK 2017), Liverpool, UK, July 24-26, 2017.</li>
+      </ul>
+
+      <h3>9. License (BSD 2-Clause License)</h3>
+
+      <pre>Copyright (c) 2010, University of Southern California
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+</pre>
+
+
+				     
+    </div>
+  </body>
+</html>

@@ -1,0 +1,14267 @@
+# 768 Commonsense activities w/ LCTGM terms (c) 1999 Andrew S. Gordon
+# Last modified March 8, 2000
+
+A jousting competition
+:Events
+Horseback riding
+Jousting
+Tournaments
+:Places
+Castles & palaces
+:People
+Knights
+Lancers
+Nobility
+:Things
+Armor
+Coats of arms
+Horses
+Shields
+:Misc
+Chivalry
+
+Performing an abortion in a clinic
+:Events
+Abortions
+Teenage pregnancy
+:Places
+Clinics
+:People
+Physicians
+Pregnant women
+Single women
+:Things
+Surgical instruments
+
+Performing a back-alley abortion
+:Events
+Abortions
+:Places
+Alleys
+:People
+Pregnant women
+Single women
+:Misc
+Hygiene
+
+Parents physically abusing their children
+:Events
+Beating
+Children crying
+Children misbehaving
+Temper tantrums
+:People
+Abused children
+Fathers & children
+Mothers & children
+:Things
+Belts (Clothing)
+Wounds & injuries
+:Misc
+Child discipline
+Children's rights
+Family violence
+
+Men physically abusing their women partners
+:Events
+Beating
+Swearing
+Threats
+:People
+Abused women
+Men
+:Things
+Wounds & injuries
+:Misc
+Family violence
+
+Women going to abused women's shelters
+:Events
+Examinations
+:Places
+Women's shelters
+:People
+Abused women
+Social workers
+:Things
+Wounds & injuries
+:Misc
+Family violence
+
+Going polka dancing in a dance hall
+:Events
+Folk dancing
+:Places
+Dance halls
+Ethnic neighborhoods
+:People
+Couples
+Ethnic groups
+:Things
+Accordions
+Bands
+Beer
+Sausages
+
+Going to church for a Christian religious service
+:Events
+Benedictions
+Communion
+Prayer
+Preaching
+Religious services
+Sabbaths
+:Places
+Chancels
+Churches
+:People
+Acolytes
+Choirboys
+Preachers
+:Things
+Bibles
+Chalices
+Choirs (Music)
+Church vestments
+Crosses
+Pews
+Pulpits
+:Misc
+Christianity
+
+A circus performance at a show tent
+:Events
+Acrobatics
+Circuses & shows
+Juggling
+Sword swallowing
+Trick riding
+:Places
+Show tents
+:People
+Acrobats
+Aerialists
+Circus performers
+Clowns
+Daredevils
+Human curiosities
+Magicians
+Strong men
+:Things
+Circus posters
+Trained animals
+Unicycles
+
+A gymnastic competition
+:Events
+Acrobatics
+Coaching (Athletics)
+Falling
+Gymnastics
+Jumping
+:Places
+Gymnasiums
+:People
+Athletes
+Sports spectators
+:Things
+Scoreboards
+
+A cheerleading squad performing a routine
+:Events
+Acrobatics
+Cheering
+Cheerleading
+Jumping
+Shouting
+:Places
+Athletic fields
+Gymnasiums
+Stadiums
+:People
+Athletes
+Sports spectators
+
+An audition for a theatrical production
+:Events
+Auditions
+:Places
+Stages (Platforms)
+Theaters
+:People
+Actors
+Actresses
+Theatrical producers & directors
+:Things
+Queues
+:Misc
+Anxiety
+
+Going to a theatrical production
+:Events
+Bowing
+Hand clapping
+Theatrical productions
+Whispering
+:Places
+Lobbies
+Stages (Platforms)
+Theaters
+Ticket offices
+:People
+Actors
+Actresses
+Children performing in theatrical productions
+Theater audiences
+Theatrical producers & directors
+:Things
+Costumes
+Playbills
+Stage lighting
+Stage props
+Theater programs
+Theatrical posters
+Tickets
+
+An entertainment industry awards ceremony
+:Events
+Hand clapping
+Rites & ceremonies
+:Places
+Theaters
+:People
+Actors
+Actresses
+Celebrities
+Musicians
+Photographers
+Socialites
+Theatrical producers & directors
+:Things
+Awards
+Envelopes
+Flash photographs
+Limousines
+Podiums
+Tuxedoes
+:Misc
+Fame
+
+A film or video production shoot
+:Events
+Cinematography
+Sound recording
+Television broadcasting
+:Places
+Photographic studios
+Television studios
+:People
+Actors
+Actresses
+Daredevils
+Theatrical producers & directors
+:Things
+Film negatives
+Lighting
+Motion picture cameras
+Motion pictures
+Set design drawings
+Studio props
+:Misc
+Motion picture industry
+
+Performing acupuncture treatment
+:Events
+Acupuncture
+Acupuncture anesthesia
+Healing
+:Places
+Clinics
+Medical offices
+:People
+Sick persons
+:Things
+Pins & needles
+:Misc
+Pain
+
+Advertising by distributing pamphlets on the street
+:Events
+Advertising
+:Places
+Business districts
+Commercial streets
+:Things
+Advertisements
+Fliers (Printed matter)
+Pamphlets
+Refuse
+Sandwich boards
+:Misc
+Publicity
+
+Delivering the daily mail
+:Events
+Postal service
+:Places
+Dwellings
+:People
+Letter carriers
+:Things
+Advertising mail
+Bags
+Correspondence
+Envelopes
+Mail trucks
+Mailboxes
+Periodicals
+
+An aerial bombing attack
+:Events
+Aerial bombings
+Air operations
+Bridge failures
+Building failures
+Explosions
+Fires
+Shouting
+War
+:Places
+Air raid shelters
+:People
+Military air pilots
+:Things
+Barrage balloons
+Bombers
+Bombs
+War damage
+Warnings
+
+Going to a county fair
+:Events
+Agricultural exhibits
+Animal shows
+Art exhibitions
+Circuses & shows
+Fairs
+Flower shows
+Fortune telling
+Livestock judging
+:Places
+Exhibition buildings
+Midways
+Portable buildings
+:People
+Food vendors
+:Things
+Amateur works
+Amusement rides
+Balloons
+Livestock
+Vending stands
+
+Harvesting a crop at the end of a farming season
+:Events
+Farming
+Harvesting
+:Places
+Croplands
+Food storage buildings
+:People
+Agricultural laborers
+Farmers
+:Things
+Farm produce
+Harvesting machinery
+Haystacks
+Pitchforks
+Plants
+Scythes
+Tractors
+:Misc
+Agricultural productivity
+Autumn
+
+A military air show over an air base
+:Events
+Military air shows
+Stunt flying
+:Places
+Air bases
+Runways (Aeronautics)
+:People
+Audiences
+Military air pilots
+Military officers
+:Things
+Fighter planes
+
+Pumping gas into an automobile at a gas station
+:Events
+Parking
+Vehicle maintenance & repair
+Window cleaning
+:Places
+Automobile service stations
+:People
+Mechanics (Persons)
+:Things
+Air compressors
+Automobiles
+Gasoline
+Gasoline pumps
+:Misc
+Gasoline prices
+Gasoline taxes
+Petroleum industry
+
+Using an air conditioner
+:Places
+Apartments
+Automobiles
+Houses
+Office buildings
+:Things
+Air conditioners
+Thermometers
+Windows
+:Misc
+Air conditioning industry
+Cold
+Heat
+Temperature
+
+Transporting mail by airplane
+:Events
+Air mail service
+:Places
+Airports
+:People
+Air pilots
+Postal service employees
+:Things
+Advertising mail
+Bags
+Correspondence
+Mail trucks
+Periodicals
+Transport planes
+:Misc
+Postal service rates
+
+Flying on a passenger airplane
+:Events
+Aerial views
+Air travel
+:Places
+Airplanes
+Runways (Aeronautics)
+:People
+Air pilots
+Flight crews
+Passengers
+Stewards
+:Things
+Beverages
+Cities & towns
+Intercommunication systems
+Luggage
+Periodicals
+Windows
+
+Operations in an air traffic control tower
+:Events
+Air traffic control
+Navigation
+:Places
+Airports
+:People
+Air pilots
+:Things
+Airplanes
+Binoculars
+Radar
+Radiophones
+Radios
+:Misc
+Noise pollution
+Safety
+
+Commuting on a crowded expressway
+:Events
+Automobile driving
+Automobile travel
+Radio broadcasting
+Traffic congestion
+:Places
+Express highways
+Toll roads
+:People
+Commuters
+:Things
+Automobiles
+Helicopters
+Horns (Communication devices)
+:Misc
+Air pollution
+
+Fixing a flat tire on an automobile
+:Places
+Roads
+Streets
+:Things
+Air pumps
+Automobile equipment & supplies
+Automobiles
+Bolts & nuts
+Flat tires
+Hoisting machinery
+Tires
+:Misc
+Tire industry
+
+An air raid drill during wartime
+:Events
+Air raid drills
+Evacuations
+War blackouts
+:Places
+Air raid shelters
+:Things
+Horns (Communication devices)
+Queues
+:Misc
+Aerial bombings
+Bombardment
+War
+
+In-flight refueling of aircraft
+:Events
+Air refueling
+Flights around the world
+:People
+Military air pilots
+:Things
+Airtankers
+Bombers
+Fuel
+
+An air show of stunt flying
+:Events
+Air shows
+Parachuting
+Stunt flying
+:People
+Air pilots
+Daredevils
+Parachutists
+:Things
+Biplanes
+Fighter planes
+
+Going to the airport to catch a flight
+:Events
+Air travel
+Arrivals & departures
+Circulation (Architecture)
+Customs inspections
+Farewells
+:Places
+Airports
+Concourses
+Ticket offices
+:People
+Guards
+Passengers
+:Things
+Luggage
+Schedules (Time plans)
+Security systems
+Taxicabs
+Tickets
+
+An in-flight battle between military aircraft
+:Events
+Air warfare
+Campaigns & battles
+Explosions
+:Places
+Clouds
+:People
+Fighter pilots
+:Things
+Ammunition
+Bullet holes
+Fighter planes
+Machine guns
+Radar
+Rockets
+
+An airplane crash and rescue
+:Events
+Aircraft accidents
+Death
+Explosions
+Fire fighting
+Fires
+Investigation
+Rescue work
+:Places
+Runways (Aeronautics)
+:People
+Dead persons
+Disaster victims
+Fire fighters
+:Things
+Airplanes
+Ambulances
+Fire engines & equipment
+Wounds & injuries
+
+Aircraft taking off and landing from an aircraft carrier
+:Events
+Air traffic control
+Air warfare
+:Places
+Aircraft carriers
+Decks (Ships)
+Seas
+:People
+Fighter pilots
+:Things
+Fighter planes
+Signal flags
+
+Waking up in the morning
+:Events
+Hangovers
+Sleeping
+Sunrises & sunsets
+Waking
+:Places
+Bedrooms
+:Things
+Alarm clocks
+Beds
+Sleepwear
+:Misc
+Fatigue
+
+Cooking a meal at home in a kitchen
+:Events
+Cookery
+Dishwashing
+:Places
+Kitchens
+Pantries
+:People
+Cooks
+:Things
+Alarm clocks
+Cooking utensils
+Dishwashing machines
+Food
+Herbs
+Ovens
+Refrigerators
+Stoves
+:Misc
+Domestic life
+Hygiene
+Temperature
+
+Playing music on a stereo system
+:Places
+Discotheques
+:People
+Disc jockeys
+:Things
+Album covers
+High-fidelity sound systems
+Phonographs
+Sound recordings
+:Misc
+Acoustical engineering
+
+Working in an alchemist's laboratory
+:Events
+Alchemy
+Chemistry
+Magic
+:Places
+Laboratories
+:People
+Wizards
+:Things
+Fire
+Gold
+Kettles
+Magical devices
+Skulls
+Smoke
+Vats
+
+Having a drink in a bar
+:Events
+Eating & drinking
+Intoxication
+Smoking
+:Places
+Barrooms
+Bars
+:People
+Waiters
+Waitresses
+:Things
+Alcoholic beverages
+Bars (Furniture)
+Jukeboxes
+Smoke
+:Misc
+Alcoholism
+Temperance
+
+Going to a college fraternity party
+:Events
+Eating & drinking
+Intoxication
+Nausea
+Parties
+Rock & roll dancing
+Smoking
+:Places
+Fraternities & sororities
+Universities & colleges
+:People
+Students
+:Things
+Alcoholic beverages
+Music
+Smoke
+:Misc
+Alcoholism
+Social life
+
+Tending to a bar
+:Events
+Dishwashing
+Measuring
+Shaking
+:Places
+Barrooms
+Bars
+:People
+Waiters
+Waitresses
+:Things
+Alcoholic beverages
+Bars (Furniture)
+Bottles
+Carbonated beverages
+Cherries
+Drinking vessels
+Glassware
+Ice
+Lemons
+Limes
+Olives
+Refrigerators
+
+Driving an automobile while intoxicated
+:Events
+Automobile driving
+Drunk driving
+Intoxication
+:Places
+Roads
+Streets
+:People
+Traffic police
+:Things
+Alcoholic beverages
+Automobiles
+Narcotics
+:Misc
+Safety
+
+Going to a liquor store
+:Places
+Liquor stores
+Wine cellars
+:Things
+Alcoholic beverages
+Licenses
+Refrigerators
+Tobacco products
+:Misc
+Brewing industry
+Distilling industries
+Wine industry
+
+Going to an alcoholics support group meeting
+:Events
+Conversation
+Discussion
+Hangovers
+Meetings
+:Places
+Conference rooms
+:People
+Social workers
+:Misc
+Alcoholism
+Temperance
+
+Getting sick from drinking too much alcohol
+:Events
+Dizziness
+Intoxication
+Loss of consciousness
+Nausea
+:Places
+Bathrooms
+:People
+Sick persons
+Young adults
+:Things
+Alcoholic beverages
+Toilets
+:Misc
+Alcoholism
+Temperance
+
+Having an allergy attack
+:Events
+Allergies
+Sneezing
+:Things
+Flowers
+Handkerchiefs
+Noses
+Pets
+Plants
+
+Being assaulted in an dark alley
+:Events
+Rapes
+Robberies
+Self-defense
+Threats
+Violence
+:Places
+Alleys
+:People
+Criminals
+Victims
+:Things
+Handbags
+Handguns
+Purses
+Shadows
+Wounds & injuries
+
+Municipal garbage collection
+:Events
+Civil service
+Garbage collecting
+Recycling
+:Places
+Alleys
+Residential streets
+:Things
+Aluminum
+Bottles
+Newspapers
+Refuse
+Trucks
+
+Hunting for alligators in a swamp
+:Events
+Alligator hunting
+Poaching
+Shooting
+:Places
+Wetlands
+:Things
+Alligators
+Amphibious vehicles
+Rifles
+
+A wedding at a church
+:Events
+Crying
+Kissing
+Marriage
+Weddings
+:Places
+Altars
+Chapels
+Churches
+:People
+Brides
+Families
+Grooms (Weddings)
+Photographers
+Priests
+:Things
+Bouquets
+Certificates
+Invitations
+Limousines
+Marriage certificates
+Marriage licenses
+Rice
+Rings
+Veils
+Wedding costume
+
+A school reunion anniversary party
+:Events
+Anniversaries
+Parties
+Reminiscing
+Reunions
+:Places
+Schools
+Universities & colleges
+:People
+Alumni & alumnae
+Students
+:Things
+Photograph albums
+Photographs
+Time capsules
+:Misc
+Baldness
+Obesity
+Occupations
+Then & now comparisons
+
+Going to a college football game
+:Events
+Cheering
+Cheerleading
+Football
+:Places
+Stadiums
+Universities & colleges
+:People
+Alumni & alumnae
+Football players
+Marching bands
+Mascots
+Referees
+Sports spectators
+Students
+:Things
+Balls (Sporting goods)
+Scoreboards
+
+A peace conference between warring countries
+:Events
+Armistices
+Detente
+Military demobilizations
+Peace conferences
+Peace negotiations
+Surrenders
+:People
+Ambassadors
+Generals
+Heads of state
+War allies
+:Things
+Peace treaties
+:Misc
+International relations
+Military occupations
+Peace
+Reparations
+War
+War claims
+
+A meeting of an international congress
+:Events
+Debates
+International agricultural assistance
+International communication
+International competition
+International economic assistance
+International relations
+Peace negotiations
+Voting
+:People
+Ambassadors
+:Things
+International organizations
+:Misc
+Free trade & protection
+International economic integration
+International organization
+Parliamentary practice
+Peace
+
+A government confirmation hearing
+:Events
+Confirmations
+Governmental investigations
+Presidential appointments
+Questioning
+:Places
+Capitols
+:People
+Ambassadors
+Cabinet officers
+Legislators
+Supreme Court justices
+:Misc
+Financial disclosure
+Presidents & the Congress
+
+An automobile wreck and emergency effort
+:Events
+Automobile driving
+Death
+Emergency medical services
+Explosions
+Fire fighting
+Fires
+Traffic accidents
+Traffic congestion
+:Places
+Roads
+Streets
+:People
+Dead persons
+Fire fighters
+Traffic police
+:Things
+Ambulances
+Automobiles
+Broken glass
+Fire engines & equipment
+Litters
+Wounds & injuries
+
+Having a heart attack
+:Events
+Artificial respiration
+Death
+Emergency medical services
+Loss of consciousness
+:Places
+Emergency rooms
+Hospitals
+:People
+Dead persons
+Sick persons
+:Things
+Ambulances
+Cardiovascular system
+Hearts
+Litters
+:Misc
+Obesity
+Pain
+Physical fitness
+
+An army ambushing an enemy in the field of battle
+:Events
+Ambushes
+Campaigns & battles
+Hiding
+Silence
+War
+:Places
+Battlefields
+:People
+Casualties
+Soldiers
+:Things
+Armies
+Camouflage (Military science)
+:Misc
+Courage
+Cowardice
+Surprise
+
+Sightseeing at a famous place
+:Events
+Travel
+:Places
+Historic buildings
+Historic sites
+Souvenir shops
+:People
+Americans in foreign countries
+Guides & scouts
+Sightseers
+Tourists
+:Things
+Cameras
+Historical markers
+Monuments & memorials
+Postcards
+:Misc
+Tourist trade
+
+Going through customs when entering a foreign country
+:Events
+Bribery
+Customs inspections
+Questioning
+Searching
+Smuggling
+Travel
+:Places
+Boundaries
+Customhouses
+Guardhouses
+:People
+Americans in foreign countries
+Guards
+Police
+:Things
+Identification photographs
+Luggage
+:Misc
+Tariffs
+
+Going frog hunting in a shallow lake or pond
+:Events
+Country life
+Hunting
+Wading
+:Places
+Lakes & ponds
+:Things
+Amphibians
+Fishing nets
+Frogs
+Lilies
+Moonlight
+Pitchforks
+:Misc
+Night
+
+Begging for money on a city street
+:Events
+Pleading (Begging)
+:Places
+Business districts
+Commercial streets
+:People
+Amputees
+Beggars
+Blind persons
+Homeless persons
+Mentally ill persons
+:Things
+Coins
+Tin cups
+:Misc
+Charity
+
+Moving around in a wheelchair
+:Events
+Circulation (Architecture)
+Human locomotion
+:Places
+Elevators
+Sidewalks
+:People
+Aged persons
+Amputees
+Paraplegics
+:Things
+Wheelchairs
+
+A surgery in an operating room
+:Events
+Anesthesia
+Blood transfusions
+Surgery
+:Places
+Hospitals
+Operating rooms
+:People
+Amputees
+Health care personnel
+Nurses
+Physicians
+Sick persons
+:Things
+Blood
+Human body
+Hypodermic needles
+Splints (Surgery)
+Surgical instruments
+Wounds & injuries
+:Misc
+Hygiene
+
+Going to an amusement park
+:Places
+Amusement parks
+Midways
+:People
+Food vendors
+Mascots
+:Things
+Amusement rides
+Balloons
+Karts (Midget cars)
+Monorail railroads
+Queues
+Vending stands
+:Misc
+Summer
+
+Going to an amusement pier
+:Events
+Roller skating
+:Places
+Amusement piers
+Beaches
+Boardwalks
+Piers & wharves
+Seas
+:People
+Food vendors
+Skaters
+:Things
+Amusement rides
+Gulls
+Vending stands
+:Misc
+Summer
+
+Medical students dissecting a human cadaver
+:Events
+Anatomy
+Dissections
+Examinations
+Medical education
+Nausea
+:Places
+Laboratories
+:People
+Dead persons
+Physicians
+Students
+:Things
+Human body
+Medical illustrations
+Skeletons
+Surgical instruments
+
+Putting down an anchor while in a boat
+:Events
+Mooring
+Ocean travel
+Parking
+:Places
+Bodies of water
+:People
+Fishermen
+Sailors
+:Things
+Anchors
+Chains
+Hoisting machinery
+Mud
+Rocks
+Ropes
+Shackles
+Ship equipment & rigging
+Vessels
+Weeds
+
+Making a fire in a fireplace during the winter
+:Places
+Dens
+Living rooms
+:Things
+Andirons
+Blankets
+Chimneypieces
+Chimneys
+Fire
+Fire screens
+Fireplaces
+Mantels
+Matches
+Newspapers
+Smoke
+
+Being escorted by angels through the gates of heaven
+:Events
+Death
+:Places
+Clouds
+Heaven
+:People
+Angels
+Dead persons
+Ghosts
+Gods
+Saints
+:Things
+Gates
+Harps
+:Misc
+Christianity
+Religion
+
+Wild cats hunting for prey on the savanna
+:Events
+Animal attacks
+Animal locomotion
+Chasing
+Hiding
+Hunting
+Running
+:Places
+Plains
+Prairies
+:Things
+Cheetahs
+Dead animals
+Gazelles
+Leopards
+Lions
+Panthers
+Rifles
+Tigers
+Vultures
+
+A police officer using a police dog to pursue a criminal
+:Events
+Animal attacks
+Bites & stings
+Chasing
+Law enforcement
+Running
+Surrenders
+:People
+Criminals
+Police
+:Things
+Working dogs
+
+Going to an animal auction
+:Events
+Animal auctions
+Animal grooming
+Selling
+:Places
+Corrals
+Stockyards
+:People
+Farmers
+:Things
+Horses
+Livestock
+Sheep
+Swine
+:Misc
+Meat industry
+
+Experimenting on animals in a science laboratory
+:Events
+Animal experimentation
+Animal treatment
+Electric shocks
+Experiments
+Surgery
+:Places
+Laboratories
+:People
+Scientists
+:Things
+Cages
+Communicable diseases
+Hypodermic needles
+Incubators
+Medicines
+Mice
+Monkeys
+Rats
+:Misc
+Ethics
+
+Feeding a pet a meal in the kitchen
+:Events
+Animal feeding
+Eating & drinking
+:Places
+Kitchens
+:Things
+Bowls (Tableware)
+Cats
+Dogs
+Meat
+Pet supplies
+Water
+:Misc
+Domestic life
+
+Feeding the livestock on a farm or ranch
+:Events
+Animal feeding
+Farming
+:Places
+Barns
+Farms
+Poultry houses
+Ranches
+Stables
+:People
+Farmers
+:Things
+Boots
+Grains
+Horses
+Livestock
+Poultry
+Sheep
+Swine
+Watering troughs
+:Misc
+Farm life
+Meat industry
+
+Going to a horse show
+:Events
+Animal grooming
+Animal training
+Horse shows
+Horseback riding
+Show jumping
+:Places
+Exhibition buildings
+:People
+Upper class
+:Things
+Fences
+Saddles
+Show horses
+Teeth
+Trained animals
+Whips
+
+Birds migrating because of seasonal change
+:Events
+Animal locomotion
+:Places
+Clouds
+:Things
+Birds
+Winds
+:Misc
+Seasons
+
+Fishing for salmon during a salmon run
+:Events
+Animal locomotion
+Fishing
+Jumping
+Swimming
+Wading
+:People
+Fishermen
+:Things
+Fishing nets
+Fishing & hunting gear
+Rocks
+Salmon
+Streams
+
+Picking out a pet at a shelter, kennel, or shop
+:Events
+Adoption
+:Places
+Animal shelters
+Animal welfare organizations
+Kennels
+Pet shops
+:Things
+Cages
+Cats
+Collars
+Dog licenses
+Dogs
+Pets
+
+Hunting for deer in the woods
+:Events
+Deer hunting
+Population control
+Searching
+Silence
+:Places
+Forests
+Game preserves
+National parks & reserves
+:Things
+Animal tracks
+Bullets
+Dead animals
+Deer
+Rifles
+
+Fox hunting on horseback with hunting dogs
+:Events
+Chasing
+Fox hunting
+Horseback riding
+Jumping (Horsemanship)
+Searching
+:Places
+Forests
+:People
+Upper class
+:Things
+Animal tracks
+Foxes
+Horses
+Hunting dogs
+
+Taking a dog to dog obedience school
+:Events
+Animal training
+Beating
+Walking
+:Places
+Kennels
+:Things
+Chains
+Collars
+Dogs
+Feces
+Pets
+Trained animals
+
+An artist making an animated cartoon
+:Events
+Drawing
+Painting
+:People
+Cartoonists
+:Things
+Animation cels
+Artists' materials
+Colors
+Desks
+Paints & varnishes
+Pens
+
+A couple celebrating a wedding anniversary
+:Events
+Anniversaries
+Celebrations
+Marriage
+Toasting
+:People
+Aged persons
+Families
+Spouses
+:Things
+Rings
+
+Going to an antique store
+:Events
+Searching
+Shopping
+:Places
+Antique stores
+:Things
+Antiquities
+Furniture
+Memorabilia
+:Misc
+History
+
+Going to an art or history museum
+:Events
+Art exhibitions
+:Places
+Galleries & museums
+:People
+Guards
+Guides & scouts
+Sightseers
+Tourists
+:Things
+Antiquities
+Art
+Art objects
+Dinosaurs
+Drawings
+Paintings
+Showcases
+
+Having a picnic in a park
+:Events
+Eating & drinking
+Outdoor cookery
+Picnics
+:Places
+Parks
+Picnic grounds
+:People
+Couples
+:Things
+Ants
+Blankets
+Flies
+Food
+Silverware
+Wine
+
+Taking an important test in school
+:Events
+Examinations
+Perspiration
+Thinking
+:Places
+Classrooms
+Schools
+Universities & colleges
+:People
+Students
+:Things
+Clocks & watches
+Pencils
+:Misc
+Anxiety
+Education
+Stress
+
+Apartment neighbors complaining about noise
+:Events
+Knocking
+Parties
+Shouting
+:Places
+Apartment houses
+Apartments
+:People
+Neighbors
+:Things
+Doors & doorways
+High-fidelity sound systems
+Music
+:Misc
+Acoustical engineering
+Anger
+Noise pollution
+
+Bobbing for apples
+:Events
+Bobbing for apples
+Children's parties
+:Things
+Apples
+Barrels
+Basins
+Teeth
+Wash tubs
+
+A craftsman teaching their trade to an apprentice
+:Events
+Handicraft
+Vocational education
+:Places
+Workshops
+:People
+Apprentices
+:Things
+Arts & crafts
+Equipment
+:Misc
+Education
+Guilds
+Teaching methods
+
+Going to an aquarium
+:Events
+Animal feeding
+Swimming
+:Places
+Aquariums
+:People
+Guides & scouts
+Sightseers
+Tourists
+:Things
+Aquatic animals
+Water
+Water tanks
+:Misc
+Oceanography
+
+An offshore oil spill and cleanup effort
+:Events
+Cleaning
+Oil spills
+Shipwrecks
+:Places
+Beaches
+Seas
+Waterfronts
+:Things
+Aquatic animals
+Dead animals
+Tankers
+:Misc
+Petroleum industry
+Water pollution
+
+Excavation at an archaeological site
+:Events
+Archaeology
+Digging
+Excavation
+Measuring
+Paleontology
+Sweeping & dusting
+:Places
+Archaeological sites
+Cliff dwellings
+Pyramids
+Ruins
+:People
+Scientists
+:Things
+Antiquities
+Brooms & brushes
+Fossils
+Measured drawings
+Pottery
+Shovels
+:Misc
+Extinct animals
+
+Architects working on the schematics of a new building
+:Events
+Architecture
+Building construction
+:Places
+Architects' offices
+:People
+Architects
+:Things
+Architectural drawings
+Architectural models
+Architectural photographs
+Blueprints
+Computer graphics
+Computers
+Computer-aided designs
+Design drawings
+Floor plans
+Plans
+
+A swordfight between two knights on a battlefield
+:Events
+Action & adventure dramas
+Dueling
+Fighting
+:Places
+Battlefields
+:People
+Gladiators
+Knights
+:Things
+Armor
+Coats of arms
+Daggers & swords
+Wounds & injuries
+:Misc
+Chivalry
+
+A royal procession at a castle or palace
+:Events
+Bowing
+Curtsying
+Parades & processions
+:Places
+Castles & palaces
+:People
+Guards
+Nobility
+Rulers
+:Things
+Armor
+Coats of arms
+Crowns
+Flags
+Uniforms
+
+Forging horseshoes or weaponry in a forge shop
+:Events
+Blacksmithing
+Fire
+Forging
+Heat
+:Places
+Forge shops
+:People
+Armorers
+Blacksmiths
+:Things
+Armor
+Daggers & swords
+Hammers
+Horseshoes
+Ironwork
+Kilns
+Steel
+
+Firing a nuclear warhead at an enemy country
+:Events
+Explosions
+Fires
+Heat
+War
+:People
+Generals
+Nuclear weapons victims
+Presidents
+:Things
+Mushroom clouds
+Nuclear weapons
+Rockets
+:Misc
+Arms control
+Arms race
+Moral aspects of war
+Radioactivity
+
+Going to an Army-Navy store
+:Events
+Secondhand sales
+Shopping
+:Places
+Army-Navy stores
+:People
+Veterans
+:Things
+Camouflage (Military science)
+Gas masks
+Military uniforms
+Surplus government property
+Tents
+
+A battle between American Indians and U.S. Military
+:Events
+Archery
+Bareback riding
+Campaigns & battles
+Frontier & pioneer life
+Scalping
+:Places
+Battlefields
+Forts & fortifications
+:People
+Casualties
+Indians of North America
+Pioneers
+Soldiers
+:Things
+Arrows
+Bows (Archery)
+Bugles
+Cavalry
+Horses
+Rifles
+Tomahawks
+:Misc
+Westerns
+Westward movement
+
+Going to an art auction
+:Events
+Art auctions
+:Places
+Commercial art galleries
+:People
+Art collectors
+Art dealers
+Upper class
+:Things
+Art objects
+Auction catalogs
+:Misc
+Extravagance
+Wealth
+
+Going to a opening at a commercial art gallery
+:Events
+Art exhibitions
+Flattery
+:Places
+Commercial art galleries
+:People
+Art collectors
+Art dealers
+Artists
+Bohemians
+Critics
+:Things
+Art objects
+Artists' signatures
+Champagne (Wine)
+Paintings
+
+Figure painting or drawing in an art class
+:Events
+Art education
+Drawing
+Painting
+:Places
+Artists' studios
+:People
+Artists
+Artists' models
+Nudes
+Students
+:Things
+Amateur works
+Artists' materials
+Drawings
+Female figure drawings
+Figure drawings
+Human body
+Paintings
+
+Going to an outdoor arts and crafts festival
+:Events
+Art festivals
+:Places
+Markets
+Midways
+Parks
+:People
+Art dealers
+Food vendors
+:Things
+Art objects
+Arts & crafts
+Jewelry
+Vending stands
+
+Stealing a valuable art object from a museum
+:Events
+Art thefts
+:Places
+Galleries & museums
+:People
+Criminals
+Guards
+Watchmen
+:Things
+Art objects
+Fingerprints
+Gems
+Security systems
+Showcases
+:Misc
+Insurance
+
+A lifeguard saving a drowning victim at a beach
+:Events
+Artificial respiration
+Drowning
+Floating
+Lifesaving
+Loss of consciousness
+Swimming
+:Places
+Beaches
+Bodies of water
+Lifesaving stations
+:People
+Children playing in water
+Drowning victims
+Lifeguards
+Swimmers
+:Things
+Life preservers
+
+Stargazing on a clear night with a telescope
+:Events
+Auroras
+Stargazing
+:Places
+Hills
+Meadows
+Plains
+Prairies
+:Things
+Artificial satellites
+Celestial bodies
+Moonlight
+Telescopes
+:Misc
+Astronomy
+Night
+Unidentified flying objects
+
+A launch of a rocket for space flight
+:Events
+Fire
+Space flight
+:Places
+Air bases
+:People
+Astronauts
+Scientists
+:Things
+Artificial satellites
+Rockets
+Smoke
+:Misc
+Excitement
+
+An artist working in an artist studio
+:Events
+Art
+:Places
+Artists' studios
+:People
+Artists
+Artists' models
+:Things
+Art objects
+Artists' materials
+Drawings
+Paintings
+Paints & varnishes
+Palettes
+
+Assassination of a public figure at a public appearance
+:Events
+Assassinations
+Covert operations
+Political parades & rallies
+Public appearances
+Shooting
+:People
+Anarchists
+Criminals
+Crowds
+Diplomats
+Government officials
+Guards
+Heads of state
+Politicians
+Rulers
+:Things
+Firearms
+:Misc
+Anarchism
+Secret service
+
+Assassinating someone using a car bomb
+:Events
+Assassinations
+Bombings
+Explosions
+Terrorism
+:Places
+Parking garages
+Parking lots
+:People
+Activists
+Criminals
+Government officials
+Heads of state
+Politicians
+Rulers
+Statesmen
+:Things
+Automobiles
+Bombs
+Gasoline engines
+:Misc
+Organized crime
+
+Working on an assembly line in a factory
+:Events
+Assembly-line methods
+Industry
+Product inspection
+Welding
+:Places
+Factories
+:People
+Laborers
+Working class
+:Things
+Conveying systems
+Gloves
+Goggles
+Helmets
+Machinery
+Products
+Robots
+:Misc
+Boredom
+Employee rights
+Labor unions
+
+Going to a fortune teller or astrologist
+:Events
+Astrology
+Divination
+Fortune telling
+Witchcraft
+:People
+Witches
+Wizards
+:Things
+Amulets
+Candles
+Crystal balls
+Fortune telling cards
+Incense
+Ouija boards
+Talismans
+Tarot cards
+:Misc
+Prophecy
+Warnings
+Zodiac
+
+Making a moon landing 
+:Events
+Experiments
+Radio broadcasting
+Space flight
+:Places
+Craters
+Moon
+:People
+Astronauts
+:Things
+Artificial satellites
+Flags
+Footprints
+
+Astronauts traveling in a space ship
+:Events
+Experiments
+Floating
+Radio broadcasting
+Space flight
+Sunrises & sunsets
+Voyages around the world
+:People
+Astronauts
+Scientists
+:Things
+Celestial bodies
+Earth
+Scientific equipment
+
+Working in an astronomical observatory
+:Events
+Astronomy
+Measuring
+Stargazing
+:Places
+Astronomical observatories
+:People
+Scientists
+:Things
+Celestial bodies
+Galaxies
+Moonlight
+Night photographs
+Stars
+Telescopes
+:Misc
+Night
+
+Going to a planetarium
+:Events
+Astronomy
+:Places
+Circular buildings
+Circular rooms
+Planetaria
+:People
+Audiences
+:Things
+Celestial bodies
+Domes
+Motion picture devices
+Motion pictures
+Stars
+:Misc
+History
+Night
+
+An awards ceremony at an olympic competition
+:Events
+Boycotts
+International competition
+National songs
+Sports
+Victories
+:Places
+Athletic fields
+Gymnasiums
+Stadiums
+:People
+Americans in foreign countries
+Athletes
+:Things
+Medals
+Olympic flame
+Podiums
+:Misc
+Patriotism
+
+Working out at an athletic club
+:Events
+Calisthenics
+Perspiration
+Physical fitness
+Weight lifting
+Weight loss
+:Places
+Athletic clubs
+Locker rooms
+:People
+Strong men
+:Things
+Bicycles & tricycles
+Towels
+Treadmills
+Weights & measures
+:Misc
+Health
+Obesity
+
+Going to a locker room in an athletic club
+:Events
+Bathing
+Grooming
+:Places
+Athletic clubs
+Bathrooms
+Locker rooms
+:Things
+Bathtubs & showers
+Cosmetics & soap
+Dressing & grooming equipment
+Scales
+Towels
+
+Going to a book signing in a bookstore
+:Events
+Autographing
+Book talks
+Bookselling
+Celebrity touring
+:Places
+Bookstores
+:People
+Authors
+:Things
+Autographs
+Book covers
+Book jackets
+Book & magazine posters
+Books
+Pens
+Queues
+:Misc
+Publishing industry
+
+Catching a fly ball while watching a baseball game
+:Events
+Autographing
+Baseball
+Raising hands
+:Places
+Stadiums
+:People
+Baseball players
+Sports spectators
+:Things
+Autographs
+Balls (Sporting goods)
+Hands
+
+Asking a celebrity for an autograph
+:Events
+Autographing
+:People
+Celebrities
+:Things
+Autographs
+Writing materials
+:Misc
+Adoration
+Fame
+Gratitude
+Snobbishness
+
+Test driving and buying a car from an dealership
+:Events
+Automobile driving
+Deals
+Document signings
+Kicking
+:Places
+Automobile dealerships
+Parking lots
+Showrooms
+:People
+Consumers
+Sales personnel
+:Things
+Automobiles
+Contracts
+Keys (Hardware)
+Tires
+
+Getting an automobile inspection, repair, or tune-up
+:Events
+Automobile inspections
+Vehicle maintenance & repair
+:Places
+Automobile service stations
+:People
+Mechanics (Persons)
+:Things
+Automobile equipment & supplies
+Automobiles
+Hoisting machinery
+License plates
+Licenses
+Stickers
+
+Going to a automobile racing track
+:Events
+Automobile racing
+Drag racing
+Parachuting
+:Places
+Grandstands
+Racetracks
+:People
+Automobile racing drivers
+Mechanics (Persons)
+Sports spectators
+:Things
+Flags
+Gasoline
+Gasoline engines
+Gasoline pumps
+Hot rods
+Racing automobiles
+Signal lights
+
+Going on a family road trip
+:Events
+Automobile driving
+Automobile travel
+Children fighting
+Sleeping
+:Places
+Automobile service stations
+Express highways
+Rest stops
+:People
+Families
+:Things
+Automobiles
+Billboards
+Maps
+Radios
+
+Going trick-or-treating on Halloween
+:Events
+Children walking
+Holidays
+Knocking
+:Places
+Porches
+Sidewalks
+:People
+Children
+:Things
+Candy
+Costumes
+Doors & doorways
+Jack-o-lanterns
+Masks
+:Misc
+Autumn
+Children & safety
+
+Raking up fallen leaves in Autumn
+:Events
+Children jumping
+Children playing outdoors
+Raking (Sweeping)
+:Things
+Gardening equipment & supplies
+Leaves
+Plastic bags
+Trees
+:Misc
+Autumn
+
+Being caught in an snow avalanche
+:Events
+Avalanches
+Mountaineering
+Search & rescue operations
+Snowshoeing
+:Places
+Mountains
+:Things
+Axes
+Ice
+Snow
+Sound waves
+:Misc
+Cold
+Despair
+
+Chopping wood by a log cabin in the woods
+:Events
+Fuelwood gathering
+Woodcutting
+:Places
+Forests
+Log cabins
+:People
+Woodcutters
+:Things
+Axes
+Crosscut saws
+Fuelwood
+Logs
+Trees
+
+Firefighters fighting a fire and rescuing trapped people
+:Events
+Bucket brigades
+Fire fighting
+Fires
+Lifesaving at fires
+:Places
+Buildings
+Fire escapes
+:People
+Disaster victims
+Fire fighters
+:Things
+Axes
+Burns & scalds
+Fire alarms
+Fire engines & equipment
+Fire extinguishers
+Fire hydrants
+Floor plans
+Hoses
+Smoke
+Water
+:Misc
+Courage
+Danger
+Fire prevention
+Fire-resistive construction
+Heat
+
+Children working on a 4-H Club project on a farm
+:Events
+4-H clubs
+Farming
+Gardening
+:Places
+Farms
+:People
+Children
+Farmers
+:Things
+Livestock
+Poultry
+Swine
+Tractors
+:Misc
+Farm life
+
+Homeless people finding a place to sleep
+:Events
+Sleeping
+:Places
+Abandoned buildings
+Alleys
+Parks
+Shelters
+:People
+Churches
+Homeless persons
+Police
+:Things
+Boxes
+Newspapers
+Refuse
+
+Demolishing an abandoned building
+:Events
+Building failures
+Demolition
+Explosions
+:Places
+Abandoned buildings
+Ruins
+:People
+Architects
+Construction workers
+Spectators
+:Things
+Barricades
+Bulldozers
+Dump trucks
+Dynamite
+Helmets
+
+Children living at an orphanage seeking adoption
+:Events
+Adoption
+Child rearing
+Public service
+:Places
+Orphanages
+:People
+Abandoned children
+Abused children
+Children & adults
+Orphans
+Sick children
+:Misc
+Custody of children
+Foster home care
+
+Living in a Monastery or a Convent
+:Events
+Meditation
+Prayer
+Religious services
+:Places
+Abbeys
+Convents
+Monasteries
+Scriptoria
+:People
+Monks
+Nuns
+Religious orders
+:Things
+Religious articles
+Religious books
+Scrolls
+:Misc
+Christianity
+Religion
+
+The coronation of a new monarch
+:Events
+Abdication
+Coronations
+Parades & processions
+:Places
+Castles & palaces
+:People
+Clergy
+Flags
+Guards
+Kings
+Nobility
+Rulers
+Uniforms
+:Things
+Crowns
+Thrones
+:Misc
+Monarchy
+Red carpet
+
+An ablution ritual as part of a religious ceremony
+:Events
+Bathing
+Cleaning
+Rites & ceremonies
+:Places
+Churches
+:People
+Clergy
+:Things
+Ablution fountains
+Hands
+Heads (Anatomy)
+Water
+
+Going to a slave auction
+:Events
+Auctions
+Slave trade
+Slavery
+:Places
+Plantations
+Slave ships
+:People
+Afro-Americans
+Agricultural laborers
+Plantation owners
+Slaves
+:Things
+Chains
+Shackles
+:Misc
+Abolition movement
+Civil rights
+
+Abolitionists helping slaves move through northern states
+:Events
+Assistance
+Hiding
+:Places
+Boundaries
+Caches
+:People
+Abolitionists
+Activists
+Afro-Americans
+Fugitive slaves
+Slaves
+:Misc
+Abolition movement
+Underground railroad system
+
+Staying home in bed due to illness
+:Events
+Communicable diseases
+Coughing
+Sleeping
+Sneezing
+:Places
+Bedrooms
+:People
+Sick persons
+:Things
+Bacteria
+Beds
+Medicines
+Thermometers
+:Misc
+Absenteeism (Labor)
+Temperature
+
+Musicians recording in a recording studio
+:Events
+Acoustical engineering
+Music
+Rehearsals
+Sound recording
+:Places
+Music rooms
+Studios
+:People
+Engineers
+Musicians
+:Things
+High-fidelity sound systems
+Music stands
+Musical instruments
+Rock groups
+Sheet music covers
+Sound recordings
+:Misc
+Musicians' unions
+Sound recording industry
+
+A criminal trial in a courtroom
+:Events
+Actions & defenses
+Judicial proceedings
+Legal aid
+:Places
+Courthouses
+Courtrooms
+:People
+Bailiffs
+Criminals
+Informers
+Judges
+Juries
+Lawyers
+Police
+Prisoners
+Victims
+:Things
+Courtroom sketches
+Gavels
+:Misc
+Crimes
+Criminal investigations
+Ethics
+Justice
+Laws
+Quotations
+
+Staging a demonstration for some political issue
+:Events
+Civil disobedience
+Demonstrations
+Political parades & rallies
+Protest movements
+Public speaking
+:Places
+Capitols
+City & town halls
+Student unions
+Universities & colleges
+:People
+Activists
+Dissenters
+Police
+Students
+:Things
+Banners
+:Misc
+Civil rights
+Freedom of speech
+Opposition (Political science)
+Student movements
+
+Working in a government administrative office
+:Events
+Civil service
+Government regulation
+:Places
+Administrative agencies
+Office buildings
+Offices
+:People
+Government employees
+Office workers
+:Things
+Documents
+Forms
+Office equipment & supplies
+Office furniture
+Paperwork
+:Misc
+Civil service reform
+Red tape
+
+Planning military action in a war room
+:Events
+Campaigns & battles
+Military maneuvers
+Military mobilizations
+Troop movements
+War
+:Places
+Military camps
+Military headquarters
+:People
+Admirals
+Generals
+Heads of state
+:Things
+Aerial photographs
+Maps
+:Misc
+Military intelligence
+Military leadership
+Military policy
+
+Building an adobe structure
+:Events
+Bricklaying
+Building construction
+:Places
+Mesas
+Pueblos
+:People
+Indians of Central America
+Indians of North America
+Indians of South America
+:Things
+Adobe buildings
+Brickwork
+Hay
+Mud
+Walls
+:Misc
+Building deterioration
+Heat
+
+Living in a religious community as part of a cult
+:Events
+Adoration
+Deception
+Meditation
+Prayer
+Preaching
+Prophecy
+:Places
+Collective settlements
+:People
+Evangelists
+Healers
+Hippies
+Prophets
+Spiritual leaders
+:Misc
+Cults
+End of the world
+Freedom of religion
+
+Going to a business seminar
+:Events
+Adult education
+Business education
+Public speaking
+:Places
+Auditoriums
+Lecture halls
+:People
+Businessmen
+:Things
+Business cards
+Podiums
+Writing materials
+
+Pregnant women and spouses going to a natural birth class
+:Events
+Adult education
+Discussion
+Pregnancy
+:Places
+Clinics
+Maternity hospitals
+:People
+Midwives
+Physicians
+Pregnant women
+Spouses
+
+Going to a hotel or brothel for prostitution
+:Events
+Adultery
+Massage
+Prostitution
+Sex
+:Places
+Brothels
+Hotels
+:People
+Masseurs
+:Things
+Beds
+Birth control
+:Misc
+Lust
+Sexually transmitted diseases
+
+Making a sales pitch to a corporate interest
+:Events
+Deals
+Selling
+:Places
+Advertising agencies
+Architects' offices
+Conference rooms
+:People
+Businessmen
+Sales personnel
+:Things
+Presentation albums
+Presentation drawings
+:Misc
+Customer relations
+Slogans
+
+A weatherman making a weather forecast
+:Events
+Broadcasting
+Disasters
+Forecasting
+Warnings
+Weather
+:Places
+Newsrooms
+Television studios
+:People
+Disaster victims
+Reporters
+:Things
+Aerial photographs
+Barometers
+Maps
+Radar
+Thermometers
+Weather vanes
+:Misc
+Emergency housing
+
+Going to the observation floor of a skyscraper
+:Events
+Aerial views
+Cityscapes
+Panoramic views
+:Places
+Clouds
+Elevators
+Roofs
+Skyscrapers
+:People
+Sightseers
+Tourists
+:Things
+Cameras
+Telescopes
+Windows
+
+Navigating at sea using stars or landmarks
+:Events
+Measuring
+Navigation
+Sounding
+:Places
+Bodies of water
+Decks (Ships)
+Vessels
+:Things
+Alidades
+Beacons
+Buoys
+Compasses
+Lighthouses
+Lightships
+Map cases
+Maps
+Sextants
+Stars
+
+Becoming a citizen during a citizenship ceremony
+:Events
+Emigration & immigration
+Flag salutes
+Naturalization
+Pledges of allegiance
+:Places
+Social & civic facilities
+Stadiums
+:People
+Aliens
+Judges
+:Misc
+Allegiance
+Citizenship
+Patriotism
+
+Getting a soft drink or snack out of a vending machine
+:Places
+Automobile service stations
+Cafeterias
+:Things
+Aluminum
+Candy
+Cans
+Carbonated beverages
+Chewing gum
+Coins
+Vending machines
+:Misc
+Beverage industry
+
+Pushing around an infant in a baby carriage
+:Events
+Child rearing
+Walking
+:Places
+Walkways
+:People
+Fathers & children
+Infants
+Mothers & children
+Pedestrians
+:Things
+Baby carriages
+Rattles
+Toys
+
+Babysitting for young children in their home
+:Events
+Babysitting
+Children misbehaving
+Children sleeping
+Day care
+Practical jokes
+Temper tantrums
+:Places
+Dwellings
+:People
+Children
+Governesses
+Teenagers
+Young adults
+:Things
+Telephones
+Televisions
+:Misc
+Children & safety
+
+Single people going to a bar to meet people
+:Events
+Conversation
+Courtship
+Leering
+Lust
+Rock & roll dancing
+Winking
+:Places
+Barrooms
+Bars
+:People
+Bachelors
+Single women
+:Things
+Music
+:Misc
+Relations between the sexes
+
+Getting a massage from a professional masseurs
+:Events
+Massage
+Physical therapy
+:Places
+Clinics
+:People
+Athletes
+Masseurs
+Nudes
+:Things
+Back (Anatomy)
+Hands
+:Misc
+Pain
+
+Having a backyard barbecue
+:Events
+Barbecues
+Cookery
+Eating & drinking
+Fire
+:Places
+Backyards
+Neighborhoods
+Patios
+:People
+Families
+Neighbors
+:Things
+Barbecue grilles
+Charcoal
+Condiments
+Cooking utensils
+Matches
+Meat
+Natural gas
+Outdoor furniture
+Smoke
+:Misc
+Heat
+Suburban life
+Summer
+
+Mowing the lawn and lawn care at a house
+:Events
+Domestic life
+Gardening
+Housework
+Mowing
+Perspiration
+Pruning
+:Places
+Backyards
+Meadows
+:People
+Teenagers
+:Things
+Gardening equipment & supplies
+Hedges (Plants)
+Hoses
+Mowing machines
+Plastic bags
+Shrubs
+Yard ornaments
+
+Shopping in a grocery store
+:Events
+Shopping
+:Places
+Grocery stores
+:People
+Sales personnel
+:Things
+Bags
+Baskets
+Cash registers
+Food
+Price lists
+Queues
+Shelving
+:Misc
+Food industry
+Food prices
+
+Going to get a haircut in a barbershop or beauty shop
+:Events
+Conversation
+Grooming
+Hair preparations
+Hairdressing
+Sweeping & dusting
+:Places
+Barbershops
+Beauty shops
+:People
+Barbershop quartets
+:Things
+Brooms & brushes
+Dressing & grooming equipment
+Heads (Anatomy)
+Scalps
+Scissors & shears
+Wigs
+:Misc
+Baldness
+Fads
+Hairstyles
+Individuality
+
+Going to a ball at a private club or dancehall
+:Events
+Ballroom dancing
+Balls (Parties)
+Curtsying
+:Places
+Ballrooms
+Country clubs
+Dance halls
+:People
+Couples
+Debutantes
+:Things
+Ball dresses
+Beverages
+Big bands
+Dance floors
+:Misc
+Ballads
+Jazz
+Romances
+
+Going to the ballet
+:Events
+Ballet
+Choreography
+Hand clapping
+Whispering
+:Places
+Lobbies
+Stages (Platforms)
+Theaters
+Ticket offices
+:People
+Audiences
+Ballerinas
+Socialites
+Upper class
+:Things
+Binoculars
+Costumes
+Dance posters
+Hand lenses
+Orchestras
+Stage lighting
+Stage props
+Tickets
+Tuxedoes
+
+A child's birthday party
+:Events
+Birthday parties
+Birthdays
+Children playing
+Children's parties
+Games
+Wishing
+:Places
+Dwellings
+:People
+Children
+Clowns
+Families
+:Things
+Balloons
+Birthday cards
+Boxes
+Cakes
+Candles
+Festive decorations
+Gifts
+Ice cream & ices
+Invitations
+Packaging
+Toys
+:Misc
+Human life cycle
+Popularity
+
+Riding in a hot air balloon
+:Events
+Aerial views
+Air travel
+Balloon racing
+:Places
+Clouds
+Meadows
+:People
+Balloonists
+Passengers
+:Things
+Balloons (Aircraft)
+Baskets
+Electric lines
+Fire
+Radiophones
+Ropes
+Weights & measures
+Winds
+
+Voting in a voting booth for a candidate or issue
+:Events
+Political elections
+Referendums
+Vote counting
+Voting
+:Places
+Social & civic facilities
+:People
+Electoral college
+Politicians
+:Things
+Ballots
+Political posters
+Punched card systems
+Registers
+:Misc
+Democracy
+Gerrymandering
+Political issues
+Political platforms
+Public opinion
+Suffrage
+Voter apathy
+Voter registration
+
+Going to a music club to see a live band
+:Events
+Concerts
+Hand clapping
+Music
+Rock & roll dancing
+Singing
+:Places
+Concert halls
+Music halls
+Nightclubs
+Ticket offices
+:People
+Audiences
+Musicians
+Rock groups
+Singers
+:Things
+Bands
+Concert posters
+Ears
+Musical instruments
+Rubber stamps
+Smoke
+Tickets
+:Misc
+Deafness
+
+Going into a bank to make a transaction
+:Events
+Banking
+Document signings
+Saving & investment
+:Places
+Banks
+:People
+Bankers
+Guards
+:Things
+Cash registers
+Coin counting machines
+Coins
+Identification photographs
+Money
+Security systems
+Wages
+:Misc
+Paydays
+Wealth
+
+A bank robbery
+:Events
+Escapes
+Robberies
+Threats
+:Places
+Banks
+:People
+Bankers
+Criminals
+Guards
+Police
+:Things
+Bags
+Cash registers
+Handguns
+Money
+Safes
+Security systems
+Vaults (Strong rooms)
+:Misc
+Insurance
+
+Going to a political rally for a candidate
+:Events
+Political elections
+Political parades & rallies
+Public appearances
+Public speaking
+Shaking hands
+Whistle-stop campaigning
+:Places
+Plazas
+Social & civic facilities
+:People
+Activists
+Dissenters
+Politicians
+:Things
+Banners
+Bumper stickers
+Campaign insignia
+Podiums
+Political posters
+Railroad cabooses
+:Misc
+Political issues
+Political parties
+Political platforms
+
+Going to a fundraising banquet
+:Events
+Banquets
+Eating & drinking
+Fund raising
+Pleading (Begging)
+Public speaking
+:Places
+Banquet halls
+:People
+Celebrities
+Socialites
+:Things
+Banquet camera photographs
+Dining tables
+Gifts
+Ice sculpture
+Public address systems
+:Misc
+Charitable organizations
+Political campaign funds
+Political organizations
+
+A christian baptism ceremony
+:Events
+Baptisms
+Outdoor religious services
+:Places
+Churches
+Streams
+:People
+Infants
+Priests
+:Things
+Baptismal certificates
+Baptisteries
+Church vestments
+Fonts
+Water
+
+Escaping from a prison
+:Events
+Chasing
+Digging
+Prison escapes
+Running
+:Places
+Guardhouses
+Prisons
+Tunnels
+:People
+Guards
+Prisoners
+:Things
+Ball & chain
+Barbed wire
+Fences
+Keys (Hardware)
+Locks (Hardware)
+Prison uniforms
+Searchlights
+Security systems
+Shackles
+Working dogs
+
+A parent giving their child a haircut
+:Events
+Barbering
+Grooming
+Hair preparations
+Hairdressing
+:People
+Fathers & children
+Mothers & children
+:Things
+Bowls (Tableware)
+Combs
+Heads (Anatomy)
+Scalps
+Scissors & shears
+:Misc
+Hairstyles
+
+Making wine at a vineyard
+:Places
+Bottling industry
+Wine cellars
+Wine industry
+:People
+Coopers
+:Things
+Bacteria
+Barrels
+Bottles
+Cork
+Drinking vessels
+Grapes
+Grapevines
+Harvesting machinery
+Labels
+Microorganisms
+Presses
+Vats
+Wine
+
+Rescue and protection efforts at a flooded river
+:Events
+Bridge failures
+Drowning
+Evacuations
+Flood control
+Floods
+Rain
+Search & rescue operations
+:Places
+Basements
+Fords (Stream crossings)
+Levees
+Roofs
+Streams
+Waterfronts
+Wetlands
+:People
+Disaster victims
+:Things
+Bags
+Barricades
+Boats
+Water
+
+Going to a baseball game
+:Events
+Baseball
+Coaching (Athletics)
+National songs
+:Places
+Stadiums
+:People
+Baseball managers
+Baseball players
+Baseball scouts
+Food vendors
+Referees
+Sports spectators
+:Things
+Balls (Sporting goods)
+Beer
+Candy
+Frankfurters
+Hats
+Peanuts
+Popcorn
+Scoreboards
+Vending stands
+
+Doing the laundry at home
+:Events
+Cleaning
+Domestic life
+Housework
+Laundry
+:Places
+Basements
+Closets
+Laundries (Rooms & spaces)
+:People
+Housewives
+Servants
+:Things
+Basins
+Clothes chests
+Clotheslines
+Clothespins
+Clothing & dress
+Household soap
+Irons (Pressing)
+Wash tubs
+Washboards
+Washing machines
+
+Going to a basketball game
+:Events
+Basketball
+Cheering
+Cheerleading
+Coaching (Athletics)
+National songs
+:Places
+Gymnasiums
+Stadiums
+:People
+Basketball players
+Celebrities
+Food vendors
+Referees
+Sports spectators
+:Things
+Balls (Sporting goods)
+Baskets
+Scoreboards
+Vending stands
+
+Going suntanning at the beach
+:Events
+Sleeping
+Sunbathing
+Sunburns
+Swimming
+Tanning
+:Places
+Bathhouses
+Beaches
+Bodies of water
+:People
+Bathing beauties
+Children playing in sand
+Children playing in water
+Lifeguards
+:Things
+Balls (Sporting goods)
+Bathing suits
+Footprints
+Freckles
+Gulls
+Radios
+Sand sculpture
+Shells
+Sun
+Towels
+Umbrellas
+Watch towers
+:Misc
+Summer
+
+Taking a bath in a bathtub
+:Events
+Bathing
+Shaving
+:Places
+Bathrooms
+:People
+Nudes
+:Things
+Bathtubs & showers
+Bubbles
+Cosmetics & soap
+Shaving equipment
+Towels
+Water
+:Misc
+Hygiene
+
+Going to a beauty contest
+:Events
+Beauty contests
+Performances
+Questioning
+Singing
+Victories
+Walking
+:Places
+Stages (Platforms)
+Theaters
+:People
+Bathing beauties
+Beauty contestants
+:Things
+Bathing suits
+Crowns
+Envelopes
+Evening gowns
+
+Swimming in a swimming pool
+:Events
+Diving
+Swimming
+:Places
+Bathhouses
+Swimming pools
+:People
+Children playing in water
+Lifeguards
+Swimmers
+:Things
+Bathing suits
+Towels
+
+Using a restroom
+:Events
+Sewerage
+:Places
+Bathrooms
+Privies
+Public comfort stations
+Rest rooms
+Sewers
+:Things
+Cosmetics & soap
+Feces
+Plumbing fixtures
+Plumbing systems
+Toilets
+:Misc
+Hygiene
+Sanitation
+
+A holiday parade on a city street
+:Events
+Baton twirling
+Celebrations
+Drum majoring
+Holidays
+Parades & processions
+:Places
+Commercial streets
+Reviewing stands
+:People
+Drum majorettes
+Drum majors
+Fraternal organizations
+Labor unions
+Mounted police
+:Things
+Balloons
+Convertible automobiles
+Drill teams
+Festive decorations
+Floats (Parades)
+Marching bands
+Motorcades
+
+Exploring a cave
+:Events
+Crawling & creeping
+Discovery & exploration
+Erosion
+:Places
+Cave dwellings
+Caves
+Passageways
+:People
+Explorers
+:Things
+Bats
+Cave drawings
+Helmets
+Lanterns
+Rock formations
+Shadows
+Stalactites & stalagmites
+:Misc
+Air quality
+Cold
+
+Making a siege on a castle or fort
+:Events
+Action & adventure dramas
+Archery
+Bombardment
+Campaigns & battles
+War
+:Places
+Castles & palaces
+Forts & fortifications
+Gatehouses
+Moats
+:People
+Armies
+Casualties
+:Things
+Arrows
+Barricades
+Battering rams
+Battlements
+Bows (Archery)
+Crossbows
+Daggers & swords
+Drawbridges
+Gates
+Spears
+
+Men shaving a beard or mustache
+:Events
+Reflections
+Shaving
+:Places
+Bathrooms
+:People
+Men
+:Things
+Beards
+Blood
+Cosmetics & soap
+Mirrors
+Mustaches
+Razor blades
+Shaving equipment
+Wounds & injuries
+
+Going to bed at night
+:Events
+Dreaming
+Sleeping
+Somnambulism
+Sunrises & sunsets
+Yawning
+:Places
+Bedrooms
+:People
+Children praying
+:Things
+Alarm clocks
+Bedbugs
+Beds
+Sleepwear
+Teddy bears
+:Misc
+Fatigue
+Night
+
+Having sex with a spouse or lover
+:Events
+Kissing
+Pregnancy
+Sex
+:Places
+Bedrooms
+:People
+Couples
+Nudes
+Spouses
+:Things
+Beds
+Birth control
+Lingerie
+Spermatozoa
+:Misc
+Free love
+Love
+Lust
+
+Going to a beer hall for a beer drinking festival
+:Events
+Festivals
+Folk dancing
+Folk music
+Singing
+:Places
+Beer halls
+:People
+Waiters
+Waitresses
+:Things
+Bands
+Beer
+Drinking vessels
+Lederhosen
+Sausages
+
+Ringing the bells in a bell tower
+:Events
+Pulling
+Signals & signaling
+:Places
+Bell towers
+Clock towers
+:Things
+Bells
+Clocks & watches
+Metals
+Ropes
+:Misc
+Grief
+Time
+Warnings
+
+Staying in a hotel on a trip
+:Events
+Sleeping
+Travel
+Waking
+:Places
+Hotels
+Suites
+Swimming pools
+:People
+Hotel employees
+:Things
+Art reproductions
+Beds
+Bibles
+Cosmetics & soap
+Ice
+Ice buckets
+Keys (Hardware)
+Televisions
+Towels
+:Misc
+Night
+
+Going to a bicycle race
+:Events
+Accidents
+Bicycle racing
+Cycling
+:Places
+Roads
+Streets
+:People
+Athletes
+:Things
+Air pumps
+Banners
+Barricades
+Bicycles & tricycles
+Emblems
+Helmets
+Logos
+Winds
+Wounds & injuries
+
+Going for a bicycle ride in a neighborhood
+:Events
+Cycling
+:Places
+Neighborhoods
+Residential streets
+:People
+Children riding bicycles & tricycles
+:Things
+Air pumps
+Bells
+Bicycles & tricycles
+Helmets
+
+Lobbying an elected official by special interests groups
+:Events
+Bribery
+Deals
+Fund raising
+Lobbying
+Political representation
+:Places
+Capitols
+:People
+Legislators
+Organizations
+:Things
+Defense contracts
+Gifts
+Legislation
+Political campaign funds
+:Misc
+Big business
+Corruption
+Special interests
+
+Going fishing in a fishing boat or on the shoreline
+:Events
+Children fishing
+Fishing
+Measuring
+Silence
+:Places
+Bodies of water
+National parks & reserves
+Piers & wharves
+Waterfronts
+:People
+Fishermen
+:Things
+Boat engines
+Fish
+Fishing boats
+Fishing lures
+Fishing & hunting gear
+Gasoline
+Ice buckets
+Worms
+:Misc
+Retirements
+
+Going big game hunting on a safari
+:Events
+Animal attacks
+Big game hunting
+Chasing
+Poaching
+Safaris
+:Places
+Game preserves
+Plains
+Prairies
+:People
+Guides & scouts
+:Things
+Animal tracks
+Bullets
+Dead animals
+Extinct animals
+Jeep automobiles
+Rifles
+
+Playing billiards in a billiard parlor
+:Events
+Billiards
+Smoking
+Wagers
+:Places
+Billiard parlors
+Billiard rooms
+:Things
+Cigars
+Gin
+Whiskey
+:Misc
+Billiard table industry
+Geometry
+Organized crime
+
+Birdwatching in a nature reserve
+:Events
+Bird watching
+Silence
+:Places
+National parks & reserves
+State parks & reserves
+:People
+Biologists
+:Things
+Binoculars
+Birds
+Birds' eggs & nests
+Cameras
+Camouflage (Biology)
+:Misc
+Wildlife conservation
+
+Using a microscope to look at microorganisms
+:Events
+Biology
+Winking
+:Places
+Laboratories
+Medical offices
+:People
+Biologists
+Physicians
+:Things
+Bacteria
+Cells (Biology)
+Eyes
+Microorganisms
+Microscopes
+
+Working as a miner in an underground mine
+:Events
+Digging
+Mining
+:Places
+Caves
+:People
+Miners
+:Things
+Axes
+Birdcages
+Birds
+Candles
+Lanterns
+Mine railroads
+Minerals
+Mining equipment
+Natural gas
+Rocks
+Shovels
+:Misc
+Black lung
+Mine accidents
+Miners' unions
+Ore industry
+
+Birds feeding insects to their young 
+:Events
+Animal feeding
+:Places
+Birdhouses
+Trees
+:Things
+Birds
+Birds' eggs & nests
+Insects
+
+Skydiving out of an airplane
+:Events
+Aerial views
+Bird's-eye views
+Falling
+Jumping
+Parachuting
+Shouting
+:Places
+Clouds
+:People
+Parachutists
+:Things
+Airplanes
+Goggles
+Helmets
+:Misc
+Anxiety
+Courage
+Cowardice
+Excitement
+Fear
+Parachute industry
+
+A woman giving birth
+:Events
+Births
+Children crying
+Pregnancy
+Shouting
+:Places
+Birthplaces
+Maternity hospitals
+:People
+Health care personnel
+Infants
+Midwives
+Mothers
+Nurses
+Physicians
+Pregnant women
+Quadruplets
+Quintuplets
+Spouses
+Triplets
+Twins
+:Things
+Birth certificates
+Blood
+:Misc
+Birth defects
+Happiness
+Human life cycle
+Illegitimacy
+Names
+Pain
+
+Gathering honey from a beehive
+:Events
+Bee culture
+Bites & stings
+Foraging
+:Places
+Trees
+:Things
+Bears
+Beehives
+Bees
+Honey
+Honeycombs
+
+A race riot between African Americans and police
+:Events
+Beating
+Race riots
+Riot control
+Violence
+:Places
+Afro-Americans
+Slums
+:People
+Police
+:Things
+Hoses
+Nightsticks
+Shields
+Tear gas
+:Misc
+Black power
+Race discrimination
+Race relations
+Racism
+
+Giving a class lesson in a school classroom
+:Events
+Children reading & writing
+Discussion
+Education
+Examinations
+Questioning
+Raising hands
+Thinking
+:Places
+Classrooms
+Schools
+:People
+School children
+Students
+Teachers
+:Things
+Blackboards
+Desks
+Writing materials
+:Misc
+Teaching methods
+
+Children having a fistfight on a school playground
+:Events
+Blaming
+Children fighting
+Children misbehaving
+Fighting
+Kicking
+School recesses
+Temper tantrums
+:Places
+Playgrounds
+:People
+School children
+Teachers
+:Things
+Fists
+Wounds & injuries
+:Misc
+School discipline
+
+Blind people walking with a seeing-eye dog
+:Events
+Navigation
+Walking
+:Places
+Crosswalks
+Streets
+Walkways
+:People
+Blind persons
+Pedestrians
+:Things
+Braille
+Traffic signs & signals
+Working dogs
+:Misc
+Blindness
+
+An execution by firing squad
+:Events
+Executions
+Shooting
+Smoking
+:Places
+Rifle ranges
+:People
+Dead persons
+Firing squads
+Political prisoners
+Prisoners of war
+Soldiers
+:Things
+Blindfolds
+Cigarettes
+Handcuffs
+Rifles
+
+Driving on a road during a blizzard
+:Events
+Blizzards
+Sliding
+Snow removal
+Street cleaning
+Traffic accidents
+:Places
+Roads
+Streets
+:Things
+Automobiles
+Shovels
+Snow
+Trucks
+:Misc
+Danger
+Salt industry
+
+Donating blood at a blood drive
+:Events
+Blood donations
+Loss of consciousness
+Questioning
+:Places
+Schools
+Social & civic facilities
+Universities & colleges
+:People
+Nurses
+:Things
+Beverages
+Blood
+Cardiovascular system
+Confections
+Forms
+Hypodermic needles
+Plastic bags
+
+Working at a construction site of a new building
+:Events
+Architecture
+Bricklaying
+Building construction
+Welding
+:People
+Architects
+Construction workers
+:Things
+Barricades
+Blueprints
+Brickwork
+Building materials
+Design drawings
+Foundations
+Girders
+Helmets
+Hoisting machinery
+Plans
+Progress photographs
+Steel
+Structural frames
+Trusses
+Wheelbarrows
+
+Going to a coffeehouse or a cafe
+:Events
+Eating & drinking
+Folk music
+:Places
+Cafes
+Coffeehouses
+:People
+Bohemians
+Poets
+Restaurant workers
+Waiters
+Waitresses
+:Things
+Board games
+Cakes
+Cigarettes
+Coffee
+Coffeepots
+Outdoor furniture
+Periodicals
+Pies
+Smoking
+
+The dedication of a new boat or ship
+:Events
+Dedications
+Launchings
+Naval parades & ceremonies
+Ship trials
+:Places
+Boat & ship companies
+Harbors
+Naval yards & naval stations
+:People
+Ship captains
+:Things
+Broken glass
+Champagne (Wine)
+Inclined planes
+Ship figureheads
+Tugboats
+Vessels
+:Misc
+Boat & ship industry
+
+Going to an olympic winter games competition
+:Events
+Ice hockey
+Ice skating
+International competition
+Ski jumping
+Skiing
+Speed skating
+:Places
+Ice skating rinks
+Mountains
+:People
+Americans in foreign countries
+Athletes
+Skaters
+:Things
+Bobsleds
+Olympic flame
+Snow
+:Misc
+Winter
+World records
+
+Competing in a triathlon
+:Events
+Bicycle racing
+Body marking
+Contests
+Running
+Running races
+Swimming
+:People
+Runners (Sports)
+Swimmers
+:Things
+Bathing suits
+Bicycles & tricycles
+Clocks & watches
+:Misc
+Time
+
+Running a boiler
+:Places
+Power plants
+Public utility companies
+Ships
+Steamboats
+:Things
+Boilers
+Coal
+Fire
+Fuel
+Heat
+Shovels
+Steam engines
+Water pumps
+:Misc
+Boiler industry
+Ore industry
+
+Building something in a carpenter's workshop
+:Events
+Cabinetmaking
+Carpentry
+Drilling
+Joinery
+Painting
+Wood carving
+:Places
+Carpenter shops
+:People
+Carpenters
+:Things
+Bolts & nuts
+Chisels & mallets
+Drills (Equipment)
+Furniture
+Glue
+Hammers
+Lathes
+Paints & varnishes
+Saws
+Wood carvings
+Woodwork
+:Misc
+Furniture industry
+
+A terrorist bombing attack at a crowded public space
+:Events
+Bombings
+Explosions
+Terrorism
+:Places
+Bombproof construction
+Shopping centers
+Subway stations
+Subways
+:People
+Crowds
+Dead persons
+Disaster victims
+Police
+:Things
+Bombs
+Wounds & injuries
+
+A dog burying a bone in the ground
+:Events
+Digging
+:Places
+Backyards
+Holes
+:Things
+Bones
+Dogs
+Mud
+Pets
+
+Treating a broken bone by putting it in a cast
+:Events
+Autographing
+Emergency medical services
+Fractures
+Radiography
+Wounds & injuries
+:Places
+Emergency rooms
+:People
+Physicians
+Radiologists
+:Things
+Autographs
+Bones
+Orthopedic braces
+Radiographs
+Splints (Surgery)
+
+A book burning rally prompted by religious activism
+:Events
+Book burning
+Fires
+:Places
+Churches
+Libraries
+Plazas
+:People
+Evangelists
+Religious groups
+Spiritual leaders
+:Things
+Book covers
+Book jackets
+Books
+Censored works
+:Misc
+Church & education
+Conservatism
+Freedom of speech
+
+Finding and checking out a book from a library
+:Events
+Reading
+Searching
+Whispering
+:Places
+Libraries
+Reading rooms
+:People
+Librarians
+:Things
+Book ends
+Bookcases
+Books
+Bookstacks
+Card catalogs
+Identification photographs
+:Misc
+Alphabets (Writing systems)
+
+A bookmobile van going to a rural town
+:Events
+Automobile driving
+Country life
+:Places
+Libraries
+Roads
+Rural schools
+Villages
+:People
+Librarians
+:Things
+Bookmobiles
+Books
+Trucks
+
+Working in a botanical garden
+:Events
+Botany
+Digging
+Gardening
+:Places
+Botanical gardens
+Greenhouses
+:People
+Biologists
+:Things
+Botanical illustrations
+Gardening equipment & supplies
+Hoses
+Plant containers
+Plants
+Seeds
+Shovels
+Spades
+
+Feeding milk to an infant child
+:Events
+Bottle feeding
+Breast feeding
+Children crying
+:People
+Infants
+Mothers
+Mothers & children
+:Things
+Bottles
+Breasts
+Milk
+:Misc
+Nutrition
+
+Rock climbing on a mountain or a boulder
+:Events
+Mountaineering
+:Places
+Boulders
+Cliffs
+Mountains
+:Things
+Belts (Clothing)
+Rock formations
+Rocks
+Ropes
+Shoes
+:Misc
+Danger
+
+Bowling in a bowling alley
+:Events
+Bowling
+Pinsetting
+:Places
+Bowling alleys
+:People
+Bowlers
+Pin boys
+:Things
+Balls (Sporting goods)
+Gloves
+Scoreboards
+Shoes
+
+Going to a soup kitchen for a meal
+:Events
+Bread & soup lines
+Charity
+Community service
+Eating & drinking
+:Places
+Churches
+Welfare facilities
+:People
+Charitable organizations
+Homeless persons
+Poor persons
+:Things
+Bowls (Tableware)
+Bread
+Dining tables
+Kettles
+:Misc
+Poverty
+
+A boxing match at a boxing arena
+:Events
+Boxing
+Cheering
+Coaching (Athletics)
+Falling
+Fighting
+Raising hands
+:Places
+Gymnasiums
+Stadiums
+:People
+Boxers (Sports)
+Referees
+Sports spectators
+:Things
+Bells
+Blood
+Fists
+Gloves
+Wounds & injuries
+
+Moving to a new house or apartment
+:Events
+Internal migration
+Lifting & carrying
+Packaging
+Shipping
+:Places
+Dwellings
+Lease & rental services
+:Things
+Boxes
+Dollies (Moving equipment)
+Furniture
+Keys (Hardware)
+Trucks
+:Misc
+Moving & storage trade
+
+Children playing pin-the-tail-on-the-donkey
+:Events
+Blindness
+Children playing
+Children's parties
+Dizziness
+Laughter
+Pin-the-tail-on-the-donkey
+Spinning
+:People
+Children
+:Things
+Blindfolds
+Donkeys
+Pins & needles
+
+Playing in a marching band
+:Events
+Baton twirling
+Drum majoring
+Marching
+Music
+Parades & processions
+:People
+Drum majorettes
+Drum majors
+Marching bands
+:Things
+Band uniforms
+Brass instruments
+Drums
+Marching percussion
+Musical notation
+Sheet music covers
+
+Having a morning breakfast at home
+:Events
+Domestic life
+Eating & drinking
+:Places
+Breakfast rooms
+Kitchens
+:Things
+Coffee
+Coffeepots
+Dining tables
+Eggs
+Fruit
+Grapefruit
+Milk
+Newspapers
+Pancakes & waffles
+Prepared cereals
+Preserves
+Tableware
+Toasters
+
+Bribing the police to avoid being arrested
+:Events
+Bribery
+Capture & imprisonment
+Crimes
+Law enforcement
+:People
+Criminals
+Police
+:Things
+Money
+Narcotics
+:Misc
+Corruption
+
+A wedding reception and party
+:Events
+Ballroom dancing
+Banquets
+Dance parties
+Intoxication
+Kissing
+Receiving lines
+Receptions
+Rock & roll dancing
+Toasting
+Weddings
+:Places
+Banquet halls
+:People
+Brides
+Families
+Grooms (Weddings)
+Music ensembles
+Photographers
+:Things
+Banquet camera photographs
+Invitations
+Limousines
+Wedding costume
+
+An earthquake in an urban area
+:Events
+Bridge failures
+Building failures
+Earthquakes
+Fires
+Floods
+Landslides
+Rescue work
+Rescues
+Shaking
+Tidal waves
+:Places
+Bridges
+Buildings
+Doors & doorways
+Elevated highways
+:People
+Disaster victims
+:Misc
+Danger
+Fear
+
+Committing suicide by jumping off a bridge
+:Events
+Death
+Drowning
+Falling
+Jumping
+Lifesaving
+Suicides
+:Places
+Bridges
+Streams
+:People
+Drowning victims
+Mentally ill persons
+:Things
+Correspondence
+Railings
+:Misc
+Depression (Mental state)
+
+Activating the emergency broadcasting system
+:Events
+Announcements
+Broadcasting
+Civil defense
+:Places
+Newsrooms
+:People
+Reporters
+:Things
+Horns (Communication devices)
+Radios
+Sound waves
+Televisions
+:Misc
+Danger
+
+Cleaning a house
+:Events
+Domestic life
+Housework
+Sweeping & dusting
+Window cleaning
+:Places
+Dwellings
+:People
+Housewives
+Servants
+:Things
+Brooms & brushes
+Cobwebs
+Floor coverings
+Gloves
+Household soap
+Pails
+Upholstery
+Vacuum cleaners
+
+Chewing a piece of chewing gum
+:Events
+Grinding
+:Things
+Bubbles
+Chairs
+Chewing gum
+Mouths
+Packaging
+:Misc
+Chewing gum industry
+
+Children blowing soap bubbles
+:Events
+Children blowing bubbles
+Children playing outdoors
+:People
+Children
+:Things
+Bubbles
+Household soap
+Rainbows
+Trays
+Winds
+
+Playing with a miniature train set
+:Events
+Children playing with toys
+Model vehicles
+Modeling (Sculpture)
+:Things
+Building models
+Electric railroads
+Model railroads
+
+A drive-by shooting as part of gang warfare
+:Events
+Automobile driving
+Homicides
+Shooting
+:Places
+Housing
+Slums
+Streets
+:People
+Gangs
+Juvenile delinquents
+Pedestrians
+:Things
+Automobiles
+Bullet holes
+Bullets
+Firearms
+Symbols
+
+Shooting a firearm at a shooting range
+:Events
+Sharpshooting
+:Places
+Rifle ranges
+Shooting galleries
+:People
+Police
+Soldiers
+:Things
+Bullet holes
+Bullets
+Ears
+Firearms
+Goggles
+Licenses
+Targets (Sports)
+
+Going to a bullfight
+:Events
+Bullfighting
+Chasing
+Cheering
+:Places
+Corrals
+Stadiums
+:People
+Bullfighters
+:Things
+Bulls
+Capes (Outerwear)
+Daggers & swords
+Spears
+
+Executing a witch by burning them at the stake
+:Events
+Burning at the stake
+Shouting
+Witchcraft
+Witchcraft trials
+:Places
+Plazas
+:People
+Spectators
+Witches
+:Things
+Fires
+Fuelwood
+
+Tending to a crying infant
+:Events
+Burping
+Children crying
+Children sleeping
+Hugging
+Lifting & carrying
+Singing
+:Places
+Cradles
+Nurseries
+:People
+Infants
+Mothers
+Mothers & children
+:Things
+Intercommunication systems
+Rattles
+:Misc
+Nursery rhymes
+
+Waiting for the bus at a bus stop
+:Events
+Chasing
+Mass transit
+:Places
+Bus stops
+Bus terminals
+Streets
+:People
+Commuters
+Passengers
+:Things
+Benches
+Buses
+Clocks & watches
+Newspapers
+Queues
+Schedules (Time plans)
+Tickets
+
+Taking a bus trip between cities
+:Events
+Sleeping
+Travel
+:Places
+Bus terminals
+Buses
+Cities & towns
+Rest rooms
+Rest stops
+Ticket offices
+:People
+Passengers
+:Things
+Luggage
+Schedules (Time plans)
+Tickets
+
+School children taking a school bus
+:Events
+Busing (School integration)
+Children misbehaving
+:Places
+Bus stops
+Driveways
+Neighborhoods
+Residential streets
+Schools
+:People
+Passengers
+School children
+:Things
+Buses
+Signal lights
+Traffic signs & signals
+:Misc
+Traffic regulations
+
+Making a call on the telephone
+:Events
+Conversation
+Salutations
+:Places
+Telephone booths
+:People
+Children using telephones
+Telephone operators
+:Things
+Bells
+Business cards
+Telephone directories
+Telephone lines
+Telephone switchboards
+Telephones
+:Misc
+Telephone companies
+Telephone industry
+
+Going to a business meeting
+:Events
+Discussion
+Meetings
+Salutations
+Shaking hands
+:Places
+Business enterprises
+Conference rooms
+Office buildings
+:People
+Businessmen
+:Things
+Charts
+Documents
+Tables
+Writing materials
+
+Applying and interviewing for a job
+:Events
+Employment
+Employment interviewing
+Questioning
+Shaking hands
+Stereotyping
+:Places
+Commercial facilities
+Offices
+:People
+Businessmen
+Employees
+Unemployed
+:Things
+Documents
+Forms
+Neckties
+Portfolios
+:Misc
+Employment agencies
+Occupations
+Race discrimination
+Sexism
+
+Going to the butcher shop
+:Events
+Food adulteration & inspection
+Meat cutting
+Packaging
+:Places
+Butcher shops
+:Things
+Bacteria
+Fat
+Freezers
+Knives
+Meat
+Scales
+:Misc
+Meat industry
+
+Using a churn to make butter
+:Events
+Butter making
+Dairying
+:Places
+Farms
+:People
+Farmers
+:Things
+Butter
+Churns
+Fat
+Milk
+:Misc
+Farm life
+
+Collecting and cataloging butterflies
+:Events
+Zoology
+:Places
+Meadows
+Plains
+Prairies
+:Things
+Butterflies
+Butterfly nets
+Cans
+Dead animals
+Labels
+Pins & needles
+
+A parent giving a child a spanking
+:Events
+Child discipline
+Children crying
+Children misbehaving
+Spanking
+Temper tantrums
+:People
+Fathers & children
+Mothers & children
+:Things
+Buttocks
+Hands
+:Misc
+Child rearing
+
+Sewing to create or repair clothing & dress
+:Events
+Children sewing
+Domestic life
+Housework
+Sewing
+Tailoring
+:People
+Housewives
+Seamstresses
+:Things
+Buttons
+Clothing & dress
+Pins & needles
+Sewing equipment & supplies
+Sewing machines
+Thread
+
+A presidential cabinet meeting
+:Events
+Discussion
+Meetings
+:Places
+Capitols
+Official residences
+:People
+Cabinet officers
+Presidents
+Vice presidents
+:Things
+Legislation
+:Misc
+Administrative agencies
+Political issues
+Presidential appointments
+
+Vacationing at a cabin in the woods
+:Events
+Fishing
+Leisure
+Sunbathing
+Swimming
+Vacations
+Water skiing
+:Places
+Boathouses
+Cabins
+Forests
+Lakes & ponds
+Private camps
+Summer houses
+:Things
+Fireplaces
+Fishing & hunting gear
+Motorboats
+
+Playing a game of golf on a golf course
+:Events
+Golf
+:Places
+Clubhouses
+Country clubs
+Meadows
+:People
+Caddies
+Golfers
+:Things
+Balls (Sporting goods)
+Electric automobiles
+Flags
+Gloves
+Holes
+
+Eating in a cafeteria at a school
+:Events
+Children eating & drinking
+School meals
+:Places
+Cafeterias
+Schools
+:People
+School children
+Students
+Teachers
+:Things
+Dining tables
+Food
+Milk
+Queues
+Silverware
+Tableware
+Trays
+:Misc
+Nutrition
+
+Eating in a public or business cafeteria
+:Events
+Eating & drinking
+:Places
+Cafeterias
+Employee eating facilities
+:People
+Employees
+:Things
+Cash registers
+Dining tables
+Food
+Price lists
+Queues
+Silverware
+Tableware
+Trays
+
+Going to the zoo
+:Events
+Animal feeding
+Animal treatment
+School excursions
+Zoology
+:Places
+Aviaries
+Rookeries
+Zoos
+:People
+Biologists
+Children & animals
+Sightseers
+Tourists
+:Things
+Cages
+Cameras
+Zoo animals
+:Misc
+Evolution
+
+Going to a physical education class in school
+:Events
+Bathing
+Calisthenics
+Children exercising
+Children playing
+Coaching (Athletics)
+Perspiration
+Physical education
+Sports
+:Places
+Gymnasiums
+Locker rooms
+Playgrounds
+Schools
+:People
+School children
+:Things
+Bathtubs & showers
+Sporting goods
+Towels
+:Misc
+Health
+
+Going on a caravan across the desert
+:Events
+Caravans
+Mirages
+Sunburns
+:Places
+Caravansaries
+Deserts
+Dunes
+Oases
+Water holes
+:People
+Guides & scouts
+Merchants
+:Things
+Camels
+Pack animals
+Packtrains
+Sun
+Turbans
+Water
+:Misc
+Water supply
+
+Going gambling in a casino
+:Events
+Card games
+Gambling
+Victories
+Wagers
+:Places
+Casinos
+Flatboats
+:People
+Losers
+:Things
+Coins
+Crossed fingers
+Electric signs
+Playing cards
+Slot machines
+:Misc
+Organized crime
+Wealth
+
+Going to a magic show
+:Events
+Card tricks
+Circuses & shows
+Escapes
+Hypnotism
+Levitation
+Magic
+Optical illusions
+Telepathy
+:Places
+Theaters
+:People
+Audiences
+Magicians
+:Things
+Capes (Outerwear)
+Mirrors
+Pigeons
+Playing cards
+Rabbits
+Smoke
+Top hats
+Trapdoors
+
+Being a stowaway on a ship
+:Events
+Hiding
+Ocean travel
+:Places
+Cargo holds
+Loading docks
+Piers & wharves
+Seas
+Ships
+:People
+Longshoremen
+Passengers
+Stowaways
+:Things
+Crates
+
+Transporting goods by cargo ships
+:Events
+Lifting & carrying
+Shipping
+:Places
+Cargo holds
+Cargo ships
+Loading docks
+Locks (Hydraulic engineering)
+Piers & wharves
+Seas
+Warehouses
+:People
+Longshoremen
+Sailors
+Ship captains
+:Things
+Crates
+Dollies (Moving equipment)
+Hoisting machinery
+Pilot boats
+Trucks
+:Misc
+Longshoremen's unions
+
+Children caroling at Christmas time
+:Events
+Caroling
+Children singing
+Holidays
+:Places
+Neighborhoods
+Plazas
+:People
+Children
+:Things
+Christmas decorations
+Christmas trees
+Snow
+Songs
+:Misc
+Winter
+
+Building a residential home
+:Events
+Bricklaying
+Building construction
+Carpentry
+Drilling
+:Places
+Houses
+:People
+Architects
+Carpenters
+Construction workers
+:Things
+Brickwork
+Building materials
+Drills (Equipment)
+Hammers
+Ladders
+Sawhorses
+Saws
+Shovels
+Structural systems
+Woodwork
+Wrenches
+
+An artist making a cartoon or comic book
+:Events
+Drawing
+Painting
+:People
+Cartoonists
+:Things
+Artists' materials
+Caricatures
+Cartoons (Commentary)
+Colors
+Comic books
+Comics
+Desks
+Paints & varnishes
+Pens
+:Misc
+Fictitious characters
+
+A photo shoot of a fashion model in a photo studio
+:Events
+Grooming
+Hair preparations
+Lighting
+Photography
+Posing
+Smiling
+:Places
+Photographic studios
+:People
+Fashion models
+Photographers
+:Things
+Cameras
+Clothing & dress
+Cosmetics & soap
+Dressing & grooming equipment
+Negatives
+Photographic apparatus & supplies
+Studio props
+:Misc
+Magazine covers
+Photography industry
+
+A fashion show with models and photographers
+:Events
+Fashion shows
+Photography
+Posing
+Walking
+:Places
+Stages (Platforms)
+:People
+Designers
+Fashion models
+Photographers
+:Things
+Cameras
+Clothing & dress
+Cosmetics & soap
+Dressing & grooming equipment
+Fashion design drawings
+Fashion photographs
+:Misc
+Fads
+
+Going on a backpacking trip through a nature reserve
+:Events
+Camping
+Fuelwood gathering
+Hiking
+Outdoor cookery
+:Places
+Forest reserves
+Forests
+Mountains
+National parks & reserves
+State parks & reserves
+:Things
+Bags
+Boots
+Campfires
+Compasses
+Fuelwood
+Tents
+Topographic maps
+:Misc
+Nature
+
+Going camping at a campground
+:Events
+Camping
+Fuelwood gathering
+Outdoor cookery
+:Places
+Camps
+Forests
+National parks & reserves
+Picnic grounds
+Public comfort stations
+State parks & reserves
+:People
+Rangers
+:Things
+Campfires
+Fuelwood
+Mobile homes
+Observation towers
+Tents
+
+Going to the hospital for cancer treatment
+:Events
+Cancer
+Healing
+Radioactivity
+Therapy
+:Places
+Hospitals
+:People
+Radiologists
+Sick persons
+:Misc
+Baldness
+
+A power blackout at night
+:Events
+Power shortages
+:Places
+Dwellings
+Transformer rooms
+:Things
+Candles
+Clocks & watches
+Electric batteries
+Electric generators
+Electric lighting
+Electric lines
+Lanterns
+:Misc
+Electricity
+Fear
+Night
+Power plants
+
+Carving a pumpkin into a Jack-o-lantern on Halloween
+:Events
+Carving
+Holidays
+Shadows
+:Things
+Candles
+Fire
+Jack-o-lanterns
+Knives
+Newspapers
+Pies
+Pumpkins
+Seeds
+
+Being captured by cannibals on an island
+:Events
+Cannibalism
+Capture & imprisonment
+Dismemberment
+Outdoor cookery
+:Places
+Islands
+:People
+Captives
+Castaways
+Indigenous peoples
+:Things
+Campfires
+Drums
+Kettles
+Meat
+Shrunken heads
+Skulls
+Spears
+
+An American civil war battle reenactment
+:Events
+Campaigns & battles
+Civil wars
+Historical reenactments
+:Places
+Battlefields
+:People
+Actors
+Soldiers
+Spectators
+:Things
+Bayonets
+Cannon balls
+Cannons
+Drums
+Rifles
+:Misc
+History
+
+A pirate attack on another tall sailing ship
+:Events
+Action & adventure dramas
+Campaigns & battles
+Fighting
+Naval warfare
+Shipwrecks
+:Places
+Sailing ships
+Seas
+:People
+Pirates
+:Things
+Cannon balls
+Cannons
+Daggers & swords
+Eye patches
+Peg legs
+Treasure-trove
+:Misc
+Death's head
+Navies
+
+Going on a canoe trip down a stream
+:Events
+Floating
+Portages
+Shooting rapids
+:Places
+Dams
+Rapids
+Rivers
+Streams
+Waterfalls
+:People
+Canoeists
+:Things
+Canoes
+Life preservers
+Rocks
+Snakes
+
+A salesman selling things door-to-door
+:Events
+Canvassing
+Knocking
+Salutations
+:Places
+Doors & doorways
+:People
+Housewives
+Peddlers
+:Things
+Business cards
+Vacuum cleaners
+:Misc
+Obstinacy
+
+Legislative debate in congress
+:Events
+Debates
+Filibustering
+Legislation
+Parliamentary practice
+Political representation
+Public speaking
+Vote counting
+Voting
+:Places
+Capitols
+:People
+Capitol pages
+Legislators
+:Things
+Laws
+Legislative bodies
+Podiums
+Resolutions
+:Misc
+Coalition (Social sciences)
+Democracy
+Government policy
+Political issues
+Political parties
+
+Presidential state of the union address
+:Events
+Hand clapping
+Public speaking
+Speechwriting
+Television broadcasting
+:Places
+Capitols
+:People
+Cabinet officers
+Cabinet officers' spouses
+Legislators
+Legislators' spouses
+Presidents
+Presidents' spouses
+Supreme Court justices
+:Misc
+Constitutions
+
+A captured criminal being processed at a police station
+:Events
+Capture & imprisonment
+Law enforcement
+Recording & registration
+:Places
+Jails
+Police stations
+:People
+Bailiffs
+Captives
+Criminals
+Police
+:Things
+Fingerprints
+Handcuffs
+Identification photographs
+Paperwork
+
+A police office arresting a captured criminal on scene
+:Events
+Capture & imprisonment
+Chasing
+Frisking
+Law enforcement
+Surrenders
+Suspicion
+:People
+Captives
+Criminals
+Police
+:Things
+Handcuffs
+Handguns
+Nightsticks
+:Misc
+Civil liberties
+Laws
+
+Going to a car wash facility
+:Events
+Cleaning
+Sweeping & dusting
+Window cleaning
+Winds
+:Places
+Automobile service stations
+Car washes
+:Things
+Automobiles
+Brooms & brushes
+Conveying systems
+Hoses
+Towels
+Upholstery
+Vacuum cleaners
+Windows
+
+An artists making a sculpture in their studio
+:Events
+Carving
+Marble
+:Places
+Artists' studios
+:People
+Artists
+Artists' models
+:Things
+Chisels & mallets
+Knives
+Ladders
+Pedestals
+Sculpture
+:Misc
+Human body
+
+Going shopping in a retail clothing store
+:Events
+Shopping
+:Places
+Clothing stores
+Department stores
+Shopping centers
+:People
+Sales personnel
+:Things
+Cash registers
+Clothing & dress
+Mannequins
+Mirrors
+Money
+:Misc
+Clothing industry
+
+Being a castaway on a deserted island
+:Events
+Hallucinations & illusions
+Marooned
+Search & rescue operations
+Shipwrecks
+Starvation
+:Places
+Islands
+Seas
+Tropical forests
+:People
+Castaways
+:Things
+Beards
+Bottles
+Coconuts
+Correspondence
+
+Firemen rescuing a kitten stuck up a tree
+:Events
+Rescues
+:Places
+Residential streets
+:People
+Fire fighters
+:Things
+Cats
+Fire engines & equipment
+Ladders
+Trees
+
+Cats chasing mice around the house
+:Events
+Chasing
+Ratcatching
+:Places
+Dwellings
+Holes
+:Things
+Cats
+Mice
+Mousetraps
+Rats
+:Misc
+Rodent control
+
+Branding cattle for identification
+:Events
+Cattle branding
+:Places
+Cattle ranches
+:People
+Cowboys
+:Things
+Cattle
+Fire
+Hides & skins
+Logos
+Ownership marks
+:Misc
+Heat
+
+Cattle herding and cattle drives
+:Events
+Cattle herding
+Horseback riding
+Westerns
+:Places
+Cattle ranches
+Meadows
+:People
+Cowboys
+:Things
+Cattle
+Horses
+Working dogs
+:Misc
+Meat industry
+
+A cattle raid on a cattle ranch
+:Events
+Cattle raids
+Roping
+:Places
+Cattle ranches
+Corrals
+:People
+Cowboys
+Criminals
+:Things
+Cattle
+Logos
+Ownership marks
+Rifles
+Ropes
+
+Going to a rodeo
+:Events
+Rodeos
+Roping
+Trick riding
+Wild west shows
+:Places
+Corrals
+:People
+Clowns
+Cowboys
+Cowgirls
+:Things
+Barrels
+Broncos
+Cattle
+Horses
+Ropes
+
+Cave people living in a cave community
+:Places
+Cave dwellings
+Caves
+Cliff dwellings
+Cliffs
+:People
+Cave dwellers
+:Things
+Campfires
+Extinct animals
+Fur garments
+Hides & skins
+:Misc
+Civilization
+
+Pirates burying their treasure
+:Events
+Digging
+:Places
+Caves
+Islands
+:People
+Pirates
+:Things
+Chests
+Eye patches
+Maps
+Parrots
+Peg legs
+Shovels
+Treasure-trove
+
+Painting the interior rooms of a building
+:Events
+Painting
+:Things
+Brooms & brushes
+Ceilings
+Ladders
+Newspapers
+Paints & varnishes
+Plastics
+Trays
+Wallpaper
+Walls
+:Misc
+Buildings
+Color in architecture
+Colors
+Paint industry
+
+A New Year's Eve Party
+:Events
+Celebrations
+Holidays
+Intoxication
+Kissing
+New Year resolutions
+Parties
+Rock & roll dancing
+:Places
+Bars
+Dance halls
+Discotheques
+Nightclubs
+:Things
+Champagne (Wine)
+Clocks & watches
+Kazoos
+New Year cards
+:Misc
+Time
+
+A celebrity interview on a talk show
+:Events
+Celebrity touring
+Interviews
+Laughter
+Television broadcasting
+:Places
+Television studios
+:People
+Audiences
+Celebrities
+:Things
+Chairs
+Desks
+Motion picture cameras
+
+A funeral at a cemetery
+:Events
+Crying
+Funeral processions
+Funeral rites & ceremonies
+Gravedigging
+Grief
+Lifting & carrying
+Prayer
+Undertaking
+:Places
+Cemeteries
+:People
+Dead persons
+Families
+Preachers
+Widowers
+Widows
+:Things
+Coffins
+Crosses
+Flowers
+Graves
+Hearses
+Mourning clothes
+Shovels
+Tombs & sepulchral monuments
+Veils
+:Misc
+Human life cycle
+
+A native American Indian religious ceremony
+:Events
+Dance
+:Places
+Indian encampments
+Indian reservations
+Tipis
+:People
+Ceremonial dancers
+Indians of North America
+Shamans
+Tribal chiefs
+:Things
+Calumets
+Campfires
+Drums
+Totem poles
+:Misc
+Religion
+
+A graduation ceremony for a high school or college
+:Events
+Graduation ceremonies
+Public speaking
+Shaking hands
+:Places
+Auditoriums
+Universities & colleges
+:People
+Alumni & alumnae
+Celebrities
+Students
+:Things
+Diplomas
+:Misc
+Pride
+
+Laboring as part of a prison chain gang
+:Events
+Garbage collecting
+Quarrying
+:Places
+Express highways
+:People
+Chain gangs
+Guards
+:Things
+Chains
+Hammers
+Prison uniforms
+Refuse
+Shackles
+Shovels
+
+Going to a psychiatrist or psychotherapist for therapy
+:Events
+Hypnotism
+Psychiatry
+Psychotherapy
+Questioning
+:Places
+Medical offices
+:People
+Mentally ill persons
+Physicians
+Social workers
+:Things
+Chairs
+Couches
+Diplomas
+Writing materials
+:Misc
+Mental health
+Mental states
+
+Children playing with chalk outside on a sidewalk
+:Events
+Children drawing & painting
+Children playing outdoors
+Hopscotch
+:Places
+Residential streets
+Sidewalks
+:People
+Children
+:Things
+Chalk drawings
+Children's art
+Colors
+Graffiti
+
+Going to a Roman chariot race
+:Events
+Chariot racing
+Whipping
+:Places
+Racetracks (Horse racing)
+Stadiums
+:People
+Emperors
+Empresses
+Freedmen
+Slaves
+:Things
+Armor
+Chariots
+Helmets
+Race horses
+Whips
+
+A military parade
+:Events
+Flag salutes
+Goose stepping
+Marching
+Military parades & ceremonies
+:People
+Dictators
+Flag bearers
+Military officers
+Soldiers
+:Things
+Artillery (Weaponry)
+Flags
+Military bands
+Military standards
+Military vehicles
+:Misc
+Chauvinism & jingoism
+Nationalism
+Parades & processions
+Patriotism
+
+Working in a chemist's laboratory
+:Events
+Chemistry
+Experiments
+Explosions
+:Places
+Laboratories
+:People
+Scientists
+:Things
+Chemicals
+Fire
+Glassware
+Goggles
+Natural gas
+
+Collecting eggs from a henhouse on a farm
+:Events
+Farming
+:Places
+Farms
+Poultry houses
+:People
+Farmers
+:Things
+Baskets
+Chickens
+Eggs
+Roosters
+:Misc
+Chicken industry
+Farm life
+
+Shopping in a toy store
+:Events
+Children playing with toys
+Shopping
+:People
+Children & money
+:Things
+Toys
+:Misc
+Toy industry
+
+Flying a kite in a park or meadow
+:Events
+Children flying kites
+Running
+:Places
+Meadows
+Parks
+:Things
+Electric lines
+Kites
+Winds
+:Misc
+Lightning
+
+Going to a miniature golf course
+:Events
+Children golfing
+Golf
+Miniature golf
+:Things
+Balls (Sporting goods)
+Holes
+Windmills
+
+A children's slumber party
+:Events
+Children jumping
+Children pillow fighting
+Children sleeping
+Children's parties
+:Places
+Bedrooms
+Playrooms
+:Things
+Sleepwear
+
+Building a snowman
+:Events
+Children playing in snow
+:Places
+Parks
+:Things
+Carrots
+Coal
+Gloves
+Snow
+Snowballs
+Snowmen
+:Misc
+Winter
+
+Snow sledding down a hill in the winter
+:Events
+Children playing in snow
+:Places
+Hills
+Parks
+:Things
+Sleds & sleighs
+Snow
+:Misc
+Winter
+
+Having a snowball fight
+:Events
+Children fighting
+Children playing in snow
+Children playing soldiers
+:Things
+Gloves
+Snow
+Snowballs
+:Misc
+Winter
+
+Practicing a musical instrument in a music room
+:Events
+Children playing musical instruments
+Music
+Music education
+Rehearsals
+:Places
+Music rooms
+:People
+Musicians
+:Things
+Music stands
+Musical instrument cases
+Musical instruments
+Musical notation
+:Misc
+Preparedness
+
+Playing in a school youth orchestra or band
+:Events
+Children playing musical instruments
+Music
+Noise pollution
+Rehearsals
+:Places
+Music rooms
+:People
+Conductors
+School children
+Youth bands
+Youth orchestras
+:Things
+Music stands
+Musical instrument cases
+Musical instruments
+Musical notation
+
+A parent reading a bedtime story to a child
+:Events
+Children reading & writing
+Reading
+Storytelling
+Sunrises & sunsets
+:Places
+Bedrooms
+:People
+Fathers & children
+Mothers & children
+:Things
+Beds
+Books
+Fables
+Fairy tales
+Myths
+Sleepwear
+Stuffed animals (Toys)
+:Misc
+Fatigue
+Night
+
+School students smoking in the school restroom
+:Events
+Children misbehaving
+Children smoking
+Hiding
+:Places
+Rest rooms
+Schools
+:People
+School children
+:Things
+Cigarettes
+Smoke
+Toilets
+
+Shoplifting items from a store  in a shopping center
+:Events
+Children stealing
+Robberies
+Shopping
+:Places
+Clothing stores
+Department stores
+Shopping centers
+:People
+Criminals
+Private police
+Sales personnel
+:Things
+Handbags
+Purses
+Security systems
+
+Children taking swimming lessons at a pool
+:Events
+Children swimming
+Floating
+Kicking
+Physical education
+:Places
+Swimming pools
+:People
+Lifeguards
+Teachers
+:Things
+Bathing suits
+Goggles
+:Misc
+Air
+Teaching methods
+
+Children playing on a school playground during recess
+:Events
+Children playing outdoors
+Children swinging
+Hopscotch
+Ring-around-a-rosy
+Rope skipping
+School recesses
+Softball
+:Places
+Playgrounds
+Schools
+:People
+School children
+Softball players
+Teachers
+:Things
+Balls (Sporting goods)
+Ropes
+Seesaws
+Sliding boards
+Swings
+
+Cracking open a child's piggy bank with a hammer
+:Events
+Saving & investment
+:Things
+Children's allowances
+Coin banks
+Hammers
+Money
+:Misc
+Children & money
+
+Having a garage sale
+:Events
+Barter
+Secondhand sales
+Shopping
+:Places
+Driveways
+Garages
+Neighborhoods
+:People
+Neighbors
+:Things
+Advertisements
+Children's clothing & dress
+Clothing & dress
+Furniture
+Memorabilia
+
+A divorce settlement hearing
+:Events
+Divorce
+Judicial proceedings
+Marriage
+:Places
+Courthouses
+Courtrooms
+:People
+Divorced women
+Families
+Judges
+Lawyers
+:Misc
+Children's rights
+Cost & standard of living
+Custody of children
+Right of property
+
+A chimney sweep sweeping a chimney
+:Events
+Ash disposal
+Chimney sweeping
+:Places
+Roofs
+:People
+Chimney sweeps
+:Things
+Andirons
+Brooms & brushes
+Chimneypieces
+Chimneys
+Fire screens
+Fireplaces
+Mantels
+:Misc
+Smoke
+
+Working at a refugee camp in a famine stricken country
+:Events
+Droughts
+Famines
+Food relief
+Preventive medicine
+Starvation
+Vaccinations
+:Places
+Refugee camps
+:People
+Refugees
+:Things
+Charitable organizations
+Food
+International organizations
+Medicines
+:Misc
+Cholera
+Population control
+
+Opening presents around a Christmas tree
+:Events
+Holidays
+:Places
+Dwellings
+:People
+Families
+:Things
+Boxes
+Christmas cards
+Christmas decorations
+Christmas stockings
+Christmas trees
+Gifts
+Letters to Santa Claus
+Mistletoe
+Neckties
+Packaging
+Snow
+Toys
+:Misc
+Christianity
+Winter
+
+Going out to the woods to chop down a Christmas tree
+:Events
+Woodcutting
+:Places
+Forests
+:People
+Fathers & children
+:Things
+Axes
+Christmas trees
+Firs
+Pines
+Ropes
+Snow
+Tree limbs
+Tree stumps
+:Misc
+Winter
+
+Going to a Christian Sunday school
+:Events
+Children praying
+Religious education
+:Places
+Churches
+Sunday schools
+:People
+Clergy
+Nuns
+School children
+Teachers
+:Things
+Bibles
+:Misc
+Christianity
+Church & education
+
+Going to a religious elementary or secondary school
+:Events
+Children praying
+Religious education
+School discipline
+:Places
+Church schools
+Classrooms
+:People
+Nuns
+School children
+Students
+Teachers
+:Things
+Uniforms
+:Misc
+Christianity
+Church & education
+Conformity
+
+Lighting up and smoking a cigarette, cigar, or pipe
+:Events
+Coughing
+Smoking
+:Places
+Railroad smoking cars
+Smoking rooms
+:Things
+Cigarette papers
+Cigarettes
+Cigars
+Fire
+Matches
+Smoke
+Tobacco
+Tobacco pipes
+:Misc
+Match industry
+Tobacco habit
+Tobacco industry
+
+Going to a circus parade
+:Events
+Acrobatics
+Circus parades
+Juggling
+:Places
+Commercial streets
+:People
+Acrobats
+Circus performers
+Clowns
+Human curiosities
+:Things
+Elephants
+Unicycles
+
+Going to a city council meeting
+:Events
+Debates
+Voting
+:Places
+City & town halls
+:People
+City council members
+Mayors
+:Things
+Legislation
+:Misc
+City planning
+Municipal services
+Refuse disposal
+Taxes
+Urban beautification
+Urban growth
+Urban renewal
+
+Going to a town meeting
+:Events
+Debates
+Discussion
+Public speaking
+Town meetings
+Voting
+:Places
+City & town halls
+:People
+Municipal officials
+:Things
+Podiums
+
+An American civil rights demonstration
+:Events
+Civil disobedience
+Demonstrations
+Political parades & rallies
+Protest movements
+Public speaking
+:Places
+Capitols
+:People
+Activists
+Afro-Americans
+Civil rights leaders
+Dissenters
+:Things
+Banners
+:Misc
+Civil rights
+Opposition (Political science)
+
+Taking a driving test at the department of motor vehicles
+:Events
+Automobile driving
+Children driving
+Examinations
+Eye examinations
+Parking
+:Places
+Streets
+:People
+Teenagers
+:Things
+Automobiles
+Identification photographs
+Licenses
+Paperwork
+:Misc
+Civil service
+Driver education
+
+Brushing your teeth
+:Events
+Cleaning
+Dental hygiene
+:Places
+Bathrooms
+:Things
+Brooms & brushes
+Cosmetics & soap
+Dental equipment & supplies
+Mirrors
+Teeth
+
+Cleaning the leaves out of the gutters on a roof
+:Events
+Cleaning
+Domestic life
+Housework
+Raking (Sweeping)
+:Places
+Houses
+Roofs
+:Things
+Downspouts
+Gutters (Roofs)
+Ladders
+Leaves
+:Misc
+Autumn
+Sewerage
+
+Taking your clothes to the cleaners
+:Events
+Laundry
+:Places
+Cleaning establishments
+:Things
+Chemicals
+Clothing & dress
+Household soap
+Irons (Pressing)
+Plastics
+Tickets
+Washing machines
+:Misc
+Laundry workers' strikes
+
+Working as a lumberjack in the lumber industry
+:Events
+Clearing of land
+Woodcutting
+:Places
+Cutover lands
+Forests
+Mills
+Rivers
+Wooding stations
+:People
+Woodcutters
+:Things
+Axes
+Crosscut saws
+Logs
+Lumber
+Tree stumps
+Trees
+Trucks
+:Misc
+Conservation of natural resources
+Forest reserves
+Lumber industry
+
+Children playing in a tree house
+:Events
+Children playing outdoors
+Climbing
+Falling
+:Places
+Clubhouses
+Tree houses
+Trees
+:Things
+Ladders
+Ropes
+Tree limbs
+
+A lineman climbing up and working on a utility pole
+:Events
+Climbing
+Maintenance & repair
+:People
+Linemen
+:Things
+Electric lines
+Ladders
+Telecommunication cables
+Telecommunication lines
+Utility poles
+Wire
+:Misc
+Electric shocks
+Electricity
+
+Getting a health examination
+:Events
+Examinations
+Preventive medicine
+Vaccinations
+:Places
+Clinics
+Medical offices
+:People
+Health care personnel
+Nurses
+Physicians
+:Things
+Blood
+Cardiovascular system
+Diplomas
+Hammers
+Hearts
+Tongues
+Underwear
+:Misc
+Health
+
+Going through personal memorabilia 
+:Events
+Reminiscing
+:Places
+Attics
+Basements
+:Things
+Albums
+Boxes
+Clippings
+Love letters
+Memorabilia
+Photograph albums
+Photographs
+Scrapbooks
+Viewbooks
+
+Getting dressed in the morning
+:Events
+Children dressing
+:Places
+Bedrooms
+Boudoirs
+Closets
+:Things
+Clothes chests
+Clothing & dress
+Dressing tables
+Dressing & grooming equipment
+Mirrors
+Perfumes
+:Misc
+Individuality
+
+Getting caught in a rainstorm
+:Events
+Rain
+Rainbows
+Sewerage
+Storms
+:Places
+Shelters
+:Things
+Clouds
+Coats
+Convertible automobiles
+Hail
+Lightning
+Umbrellas
+
+Teaching an infant how to walk
+:Events
+Child rearing
+Crawling & creeping
+Falling
+Holding hands
+Human locomotion
+Walking
+:People
+Fathers & children
+Infants
+Mothers & children
+:Things
+Floor coverings
+Shoes
+:Misc
+Clumsiness
+
+Sightseeing in a horse-drawn carriage in the city
+:Events
+Whipping
+:Places
+Streets
+:People
+Coach drivers
+Passengers
+Sightseers
+:Things
+Carriages & coaches
+Horns (Communication devices)
+Horses
+Traffic congestion
+Whips
+
+A coach giving a locker room pep talk
+:Events
+Blaming
+Shouting
+:Places
+Locker rooms
+:People
+Athletes
+Coaching (Athletics)
+:Things
+Blackboards
+Chalk drawings
+:Misc
+Anger
+Optimism
+
+A soap box derby race
+:Events
+Automobile racing
+Children driving
+:Places
+Hills
+Streets
+:People
+Children
+:Things
+Coaster cars
+Karts (Midget cars)
+Wheels
+
+Putting on all of your winter outerwear
+:Events
+Children dressing
+Shaking
+:Places
+Closets
+:Things
+Boots
+Capes (Outerwear)
+Coats
+Fur garments
+Gloves
+Hats
+:Misc
+Cold
+Winter
+
+Going to a haunted house
+:Events
+Horror dramas
+Shaking
+:Places
+Haunted houses
+:Things
+Cobwebs
+Garlic
+Ghosts
+Spiders
+Spirit photographs
+Torches
+:Misc
+Cowardice
+Fear
+Night
+
+Going to a cockfighting match
+:Events
+Cockfighting
+Gambling
+Wagers
+:Places
+Basements
+:People
+Criminals
+Peasants
+:Things
+Birdcages
+Blood
+Chickens
+Feathers
+
+Having a tea party
+:Events
+Conversation
+Tea parties
+:Places
+Living rooms
+:People
+Guests
+Housewives
+Socialites
+:Things
+Coffee tables
+Sofas
+Tea
+Teapots
+:Misc
+Rumor
+
+Going to a funeral parlor for a viewing
+:Events
+Crying
+Funeral processions
+Grief
+Lifting & carrying
+Lying in state
+Prayer
+Undertaking
+:Places
+Morgues & mortuaries
+:People
+Dead persons
+Families
+Preachers
+:Things
+Coffins
+Flowers
+Hearses
+Mourning clothes
+Veils
+:Misc
+Human life cycle
+
+Making a wish at a wishing well
+:Events
+Wishing
+:Places
+Wishing wells
+:Things
+Coins
+Pails
+Ropes
+:Misc
+Magic
+
+Taking a dog for a walk
+:Events
+Walking
+:Places
+Parks
+Walkways
+:People
+Pedestrians
+:Things
+Chains
+Collars
+Dogs
+Feces
+Fire hydrants
+Pets
+Plastic bags
+Trees
+
+Registering for classes at a college or university
+:Events
+Queues
+Recording & registration
+:Places
+Universities & colleges
+:People
+College administrators
+Students
+:Things
+Computers
+Forms
+:Misc
+Anxiety
+Student aspirations
+
+Interviewing to be a student at a college or university
+:Events
+Interviews
+:Places
+Offices
+Universities & colleges
+Waiting rooms
+:People
+Alumni & alumnae
+College administrators
+Fathers & children
+Mothers & children
+Students
+:Things
+Documents
+Forms
+:Misc
+Anxiety
+Student aspirations
+
+An interior decorator planning a room
+:Events
+Interior decoration
+:Places
+Interiors
+:People
+Designers
+:Things
+Colors
+Decorations
+Floor coverings
+Furniture
+Interior design drawings
+Light
+Lighting
+Upholstery
+Wallpaper
+:Misc
+Circulation (Architecture)
+Interior decoration firms
+
+Going to see a comedian in a comedy club
+:Events
+Hand clapping
+Imitation
+Joking
+Laughter
+Musical revues & comedies
+Stereotyping
+Storytelling
+:Places
+Nightclubs
+:People
+Comedians
+:Things
+Public address systems
+
+Advertising using an airship or blimp
+:Events
+Advertising
+Aerial views
+Air travel
+:Places
+Clouds
+:People
+Air pilots
+:Things
+Advertisements
+Airships
+Mooring masts
+:Misc
+Publicity
+Slogans
+
+Clipping coupons out of magazines and newspapers
+:People
+Housewives
+:Things
+Advertisements
+Clippings
+Periodicals
+Premiums
+Scissors & shears
+:Misc
+Coupon stores
+Food industry
+Home economics
+
+A retirement party at work
+:Events
+Resignations
+Retirements
+Shaking hands
+:Places
+Commercial facilities
+:People
+Aged persons
+Employees
+Unemployed
+:Things
+Clocks & watches
+Pensions
+:Misc
+Age & employment
+Employment
+Social security
+
+Living in a nursing home
+:Events
+Community service
+Gerontology
+Institutional care
+Nursing
+Visiting
+:Places
+Nursing homes
+Rest homes
+:People
+Aged persons
+Grandparents
+Health care personnel
+Nurses
+Shut-ins
+:Things
+Medicines
+Wheelchairs
+:Misc
+Human life cycle
+Longevity
+Medicaid
+Medicare
+
+A child working on a newspaper route
+:Events
+Child labor
+Sunrises & sunsets
+:Places
+Neighborhoods
+Residential streets
+:People
+Delivery boys
+Newspaper carriers
+:Things
+Bicycles & tricycles
+Newspapers
+:Misc
+Age & employment
+
+Reading the newspaper
+:Events
+Reading
+:People
+Journalists
+:Things
+Advertisements
+Announcements
+Comics
+Crossword puzzles
+Editorial cartoons
+Newspapers
+Political cartoons
+:Misc
+Freedom of the press
+Journalism
+Newspaper industry
+
+A government investigation hearing
+:Events
+Governmental investigations
+Questioning
+:Places
+Capitols
+Conference rooms
+:People
+Legislators
+Press
+Scapegoats
+:Things
+Committees
+Legislation
+Legislative bodies
+:Misc
+Corruption
+Impeachments
+McCarthyism
+Political issues
+Public opinion
+Resignation from office
+
+Actions at a commodity exchange
+:Events
+Auctions
+Forecasting
+Raising hands
+:Places
+Commodity exchanges
+:People
+Stockbrokers
+:Things
+Bells
+Coats
+Contracts
+Prices
+Ticker tape
+:Misc
+Gold
+Grains
+Treasuries
+
+Taking the commuter train to work
+:Events
+Daydreaming
+Mass transit
+Reading
+:Places
+Subway stations
+Ticket offices
+Tunnels
+:People
+Commuters
+Newspaper vendors
+Passengers
+:Things
+Clocks & watches
+Schedules (Time plans)
+Subways
+Tickets
+:Misc
+Subway accidents
+
+Hiking on a nature trail
+:Events
+Foraging
+Hiking
+Walking
+:Places
+Forests
+Mountains
+Parks
+Scenic overlooks
+Trails & paths
+:Things
+Berries
+Boots
+Mushrooms
+Staffs (Sticks)
+Wildflowers
+:Misc
+Nature
+
+Being a part of the crew on a sailboat in a sailboat race
+:Events
+Sailboat racing
+Yacht racing
+:Places
+Bodies of water
+Yacht clubs
+:People
+Sailors
+:Things
+Buoys
+Clocks & watches
+Compasses
+Life preservers
+Ropes
+Sailboats
+Ship equipment & rigging
+Steering wheels
+Winds
+Yachts
+
+A composer writing a piece on a piano
+:Events
+Creation
+Writing
+:Places
+Music rooms
+:People
+Composers
+Pianists
+:Things
+Musical notation
+Pianos
+Writing materials
+:Misc
+Music publishing industry
+
+Children playing with home video games
+:Events
+Children playing
+Games
+:Places
+Playrooms
+:Things
+Computer graphics
+Computers
+Electronic music
+Sounds
+Televisions
+:Misc
+Laziness
+
+An engineer working with a computer design program
+:Events
+Creation
+Engineering
+:Places
+Factories
+Offices
+:People
+Engineers
+:Things
+Computers
+Computer-aided designs
+Design drawings
+Mechanical drawings
+Specifications
+Weights & measures
+:Misc
+Industry
+
+Using a computer for word processing
+:Events
+Printing
+Typewriting
+Writing
+:Places
+Offices
+:People
+Authors
+Office workers
+:Things
+Computers
+Desks
+Documents
+Fingers
+
+Being imprisoned in a concentration camp
+:Events
+Body marking
+Forced labor
+Starvation
+War
+:Places
+Concentration camps
+:People
+Ethnic groups
+Guards
+:Misc
+Military policy
+Racism
+
+Going to an orchestra concert at a concert hall
+:Events
+Concerts
+Hand clapping
+Music
+Whispering
+:Places
+Concert halls
+Ticket offices
+:People
+Audiences
+Conductors
+Musicians
+Socialites
+Upper class
+:Things
+Music stands
+Musical instruments
+Musical notation
+Orchestras
+Tickets
+Tuxedoes
+
+Going to the railroad station to catch a train
+:Events
+Arrivals & departures
+Circulation (Architecture)
+Customs inspections
+Farewells
+:Places
+Concourses
+Railroad passenger cars
+Railroad stations
+Ticket offices
+:People
+Passengers
+Railroad employees
+Railroad porters
+:Things
+Luggage
+Railroads
+Schedules (Time plans)
+Taxicabs
+Tickets
+:Misc
+Railroad companies
+
+Working at a road construction site
+:Events
+Road construction
+Traffic congestion
+:Places
+Roads
+Streets
+:People
+Construction workers
+:Things
+Barricades
+Concrete
+Graders (Earthmoving machinery)
+Helmets
+Retaining walls
+Road rollers
+Ruts
+Signal flags
+Traffic signs & signals
+:Misc
+Construction industry
+
+Buying a hot dog from a street vendor
+:Events
+Eating & drinking
+:Places
+Commercial streets
+:People
+Businessmen
+Food vendors
+:Things
+Beverages
+Condiments
+Frankfurters
+Vending stands
+
+Going to a restaurant for a meal
+:Events
+Eating & drinking
+Paying bills
+:Places
+Railroad dining cars
+Restaurants
+:People
+Cooks
+Restaurant workers
+Waiters
+Waitresses
+:Things
+Cash registers
+Condiments
+Dining tables
+Menus
+Silverware
+Table settings & decorations
+Tableware
+
+An open house at a house or a condominium
+:Events
+Deals
+House buying
+:Places
+Condominiums
+Houses
+Housing developments
+:People
+Guests
+Sales personnel
+:Things
+Business cards
+Cameras
+Mortgages
+:Misc
+Cost & standard of living
+Real estate business
+
+Giving a confession to a priest in a church
+:Events
+Confession
+Grief
+:Places
+Churches
+Confessionals
+:People
+Priests
+:Things
+Bibles
+:Misc
+Children misbehaving
+Christianity
+Deadly sins
+Ethics
+
+A police raid on a person's dwelling
+:Events
+Capture & imprisonment
+Confiscations
+Frisking
+Law enforcement
+Police raids
+Searching
+Surrenders
+Suspicion
+:Places
+Dwellings
+:People
+Criminals
+Police
+:Things
+Firearms
+Handcuffs
+:Misc
+Civil rights
+Drug abuse
+Gambling
+Illegal arms transfers
+
+Getting pulled over by the highway patrol
+:Events
+Capture & imprisonment
+Chasing
+Confiscations
+Police surveillance
+Racing automobiles
+Ticketing
+:Places
+Express highways
+:People
+Traffic police
+:Things
+Automobiles
+Documents
+Insurance certificates
+License plates
+Licenses
+Radar
+Trucks
+
+A military officer inspecting enlisted troops in attention
+:Events
+Marching
+Military inspections
+Military life
+Saluting
+:Places
+Drill halls
+Military camps
+:People
+Military officers
+Soldiers
+:Things
+Boots
+Military decorations
+Military uniforms
+Rifles
+:Misc
+Conformity
+
+Teenagers quarreling with their parents
+:Events
+Child rearing
+Confrontations
+Family violence
+Intergenerational relations
+Quarreling
+:People
+Fathers & children
+Mothers & children
+Teenagers
+:Misc
+Children's rights
+
+An employee having a confrontation with their boss
+:Events
+Confrontations
+Dismissal of employees
+Quarreling
+Resignations
+:Places
+Commercial facilities
+:People
+Businessmen
+Employee rights
+Employees
+:Misc
+Stress
+Wages
+Work ethic
+
+A peaceful protest of government military aggression
+:Events
+Demonstrations
+Protest movements
+:Places
+Capitols
+Universities & colleges
+:People
+Conscientious objectors
+Draft resisters
+Hippies
+Pacifists
+:Things
+Peace signs
+Protest posters
+:Misc
+Defense budgets
+Moral aspects of war
+Pacifism
+Peace
+
+Restoring an antique automobile in a home workshop
+:Events
+Conservation & restoration
+Metalworking
+Vehicle maintenance & repair
+Welding
+:Places
+Driveways
+Garages
+Workshops
+:People
+Hobbyists
+Mechanics (Persons)
+:Things
+Automobiles
+:Misc
+Nostalgia
+
+Restoring a landmark or historic building
+:Events
+Conservation & restoration
+Maintenance & repair
+Painting
+Remodeling
+:Places
+Historic buildings
+:People
+Architects
+Construction workers
+Historical societies
+:Things
+Architectural photographs
+Building materials
+Paints & varnishes
+:Misc
+Building deterioration
+History
+
+Irrigation of farmland in dry regions
+:Events
+Irrigation
+:Places
+Croplands
+Deserts
+:People
+Agricultural laborers
+:Things
+Aqueducts
+Canals
+Hoses
+Water pumps
+:Misc
+Conservation of natural resources
+
+A political debate between candidates for office
+:Events
+Debates
+Political elections
+Public affairs television programs
+Public appearances
+Public speaking
+:People
+Audiences
+Politicians
+:Things
+Podiums
+:Misc
+Conservatism
+Liberalism
+Negative campaigning
+Political issues
+Political platforms
+Public opinion
+
+Putting on and removing contact lenses
+:Events
+Cleaning
+Reflections
+:Places
+Bathrooms
+Mirrors
+:Things
+Contact lenses
+Eyeglasses
+Eyes
+Fingers
+:Misc
+Hygiene
+Vision disorders
+
+Going to the optometrists for an eye exam
+:Events
+Eye examinations
+Reading
+:Places
+Medical offices
+Opticians' shops
+:People
+Physicians
+:Things
+Alphabets (Writing systems)
+Contact lenses
+Eyeglasses
+Eyes
+Optical devices
+:Misc
+Optical industry
+Vision disorders
+
+Losing and searching for a contact lens
+:Events
+Crawling & creeping
+Searching
+:Places
+Floors
+:Things
+Contact lenses
+Eyes
+:Misc
+Blindness
+Despair
+
+Working as a chef in a restaurant
+:Events
+Cookery
+:Places
+Kitchens
+Restaurants
+:People
+Cooks
+Restaurant workers
+Waiters
+Waitresses
+:Things
+Cooking utensils
+Food
+Herbs
+Knives
+Menus
+Ovens
+Refrigerators
+Stoves
+:Misc
+Dietary laws
+Hygiene
+
+A convenience store/gas station robbery
+:Events
+Escapes
+Robberies
+Shooting
+Threats
+:Places
+Automobile service stations
+Convenience stores
+:People
+Criminals
+Sales personnel
+:Things
+Bags
+Cash registers
+Handguns
+Masks
+Money
+Safes
+Security systems
+
+Having dinner with your family at home
+:Events
+Conversation
+Eating & drinking
+:Places
+Dining rooms
+Kitchens
+:People
+Families
+:Things
+Dining tables
+Food
+Silverware
+Table settings & decorations
+Tableware
+:Misc
+Domestic life
+Nutrition
+
+Making copies at an office copy machine
+:Events
+Recycling
+:Places
+Office buildings
+:People
+Office workers
+:Things
+Books
+Copying machines
+Documents
+Paperwork
+Photocopies
+Reproductions
+Stationery
+:Misc
+Copyright
+
+Going to a winetasting event
+:Events
+Eating & drinking
+:Places
+Crates
+Liquor stores
+Wine cellars
+:People
+Sales personnel
+:Things
+Bottles
+Cheese
+Cork
+Crackers
+Drinking vessels
+Labels
+Price lists
+Wine
+:Misc
+Wine industry
+
+Having a Thanksgiving dinner celebration at home
+:Events
+Carving
+Holidays
+Prayer
+Visiting
+:Places
+Dining rooms
+:People
+Families
+:Things
+Cranberries
+Dining tables
+Knives
+Pies
+Turkeys
+:Misc
+Autumn
+Cornucopias
+Gratitude
+
+Staying in a hospital bed for recovery or illness
+:Events
+Coughing
+Examinations
+Healing
+Health care
+Nursing
+Pain
+Visiting
+:Places
+Hospital wards
+Hospitals
+:People
+Health care personnel
+Nurses
+Physicians
+Sick persons
+:Things
+Beds
+Flowers
+Medicines
+Televisions
+:Misc
+Boredom
+Diseases
+Health
+
+Giving someone a marriage proposal
+:Events
+Courtship
+Marriage proposals
+Romances
+:Places
+Lovers' lanes
+:People
+Couples
+Young adults
+:Things
+Diamonds
+Hands
+Rings
+:Misc
+Happiness
+Love
+Marriage
+
+Getting married in a courthouse by a justice of the peace
+:Events
+Marriage
+Weddings
+:Places
+Courthouses
+:People
+Brides
+Grooms (Weddings)
+Judges
+:Things
+Marriage certificates
+Marriage licenses
+:Misc
+Secularism
+
+A military court martial for offenses against military law
+:Events
+Courts martial & courts of inquiry
+Military discharges
+:Places
+Courtrooms
+Military headquarters
+:People
+Criminals
+Judges
+Military deserters
+Military personnel
+Military police
+:Misc
+Cowardice
+Ethics
+Justice
+Laws
+Military policy
+
+Sending flowers to a boyfriend or girlfriend
+:Events
+Courtship
+Romances
+:Places
+Doors & doorways
+Florist shops
+:People
+Couples
+Delivery boys
+:Things
+Bouquets
+Flowers
+Vases
+:Misc
+Love
+Surprise
+
+Pioneers on a westbound wagon train 
+:Events
+Transcontinental journeys
+Wagon trains
+Westward movement
+:Places
+Trails & paths
+:People
+Guides & scouts
+Indians of North America
+Pioneers
+:Things
+Covered wagons
+Horses
+:Misc
+Frontier & pioneer life
+
+A spy planting bugs and taking spy photos
+:Events
+Covert operations
+Deception
+Electronic surveillance
+Spying
+:Places
+Government facilities
+:People
+Government officials
+:Things
+Cameras
+Documents
+Gadgets
+:Misc
+Danger
+Military intelligence
+National security
+Secret service
+
+Milking cows at a dairy farm
+:Events
+Dairy farming
+Dairying
+Milking
+:Places
+Barns
+Farms
+:People
+Farmers
+:Things
+Cows
+Hoses
+Milk
+Pails
+Stools
+:Misc
+Dairy products industry
+Farm life
+
+Sitting down to pay the monthly bills
+:Events
+Paying bills
+:Things
+Credit cards
+Envelopes
+Money
+Postage stamps
+Wages
+:Misc
+Credit
+Debt
+Insurance companies
+Months
+Public utility companies
+Telephone companies
+
+Cremation of a dead body in a crematorium
+:Events
+Ash disposal
+Cremation
+Fire
+Funeral rites & ceremonies
+Undertaking
+:Places
+Crematoriums
+Morgues & mortuaries
+:Things
+Dead persons
+Furnaces
+Incinerators
+Urns
+:Misc
+Heat
+Human life cycle
+
+Serving a prison sentence
+:Events
+Prison education
+Reading
+Weight lifting
+:Places
+Prisons
+:People
+Criminals
+Guards
+Prisoners
+:Things
+Barbed wire
+Locks (Hardware)
+Prison uniforms
+:Misc
+Boredom
+Crimes
+Parole
+Solitude
+Time
+
+An investigator analyzing the scene of a crime
+:Events
+Criminal investigations
+:Places
+Sites
+:People
+Detectives
+Police
+Victims
+:Things
+Cameras
+Fingerprints
+Footprints
+Forensic photographs
+Hand lenses
+:Misc
+Crimes
+
+Police using a bug to collect evidence from a suspect
+:Events
+Criminal investigations
+Deception
+Discussion
+Electronic surveillance
+Police surveillance
+Sound recording
+:People
+Criminals
+Detectives
+Police
+:Things
+Sound recordings
+:Misc
+Crimes
+Frisking
+
+Police investigators on a stakeout of a suspect
+:Events
+Criminal investigations
+Eavesdropping
+Electronic surveillance
+Hiding
+Police surveillance
+Sound recording
+Spying
+:Places
+Dwellings
+:People
+Criminals
+Detectives
+Police
+:Things
+Binoculars
+Sound recordings
+:Misc
+Crimes
+
+A police interrogation of suspects or witnesses to a crime
+:Events
+Confession
+Criminal investigations
+Questioning
+Smoking
+:Places
+Police stations
+:People
+Criminals
+Detectives
+Informers
+Police
+:Things
+Cigarettes
+Smoke
+:Misc
+Civil rights
+Constitutional amendments
+Crimes
+Legal aid
+Tall tales
+
+Working with evidence in a police laboratory
+:Events
+Criminal investigations
+Testing
+:Places
+Laboratories
+Police stations
+:People
+Detectives
+Police
+:Things
+Blood
+Fingerprints
+Microscopes
+Plastic bags
+:Misc
+Crimes
+
+Going to a movie theater to see a film
+:Events
+Motion picture premieres
+:Places
+Motion picture theaters
+Ticket offices
+:People
+Actors
+Actresses
+Critics
+Motion picture audiences
+:Things
+Candy
+Carbonated beverages
+Marquees
+Motion picture devices
+Motion picture posters
+Motion pictures
+Popcorn
+Tickets
+:Misc
+Motion picture industry
+
+A small plane crop dusting a rural farm
+:Events
+Crop dusting
+Water pollution
+:Places
+Croplands
+Runways (Aeronautics)
+:People
+Air pilots
+:Things
+Biplanes
+Insects
+Plant parasites
+Plants
+Poisons
+
+Planting a crop at the beginning of the farming season
+:Events
+Crop rotation
+Farming
+Plowing
+:Places
+Croplands
+:People
+Agricultural laborers
+Farmers
+:Things
+Peat
+Plants
+Plows
+Scarecrows
+Seeds
+Spades
+Tractors
+:Misc
+Agricultural productivity
+Spring
+
+Buying a lottery ticket at a convenience store
+:Events
+Lotteries
+:Places
+Convenience stores
+:Things
+Crossed fingers
+Lottery tickets
+:Misc
+Anniversaries
+Birthdays
+Optimism
+Wealth
+
+White supremacists burning a cross at a home
+:Events
+Fires
+:People
+Afro-Americans
+Crowds
+Minorities
+:Things
+Costumes
+Crosses
+Fire
+Masks
+:Misc
+Conservatism
+Fear
+Race discrimination
+Racism
+
+Crossing guard assisting children at a crosswalk
+:Events
+Children walking
+Community service
+School safety patrols
+:Places
+Crosswalks
+Streets
+:People
+Pedestrians
+School children
+Traffic police
+:Things
+Signal lights
+Traffic signs & signals
+:Misc
+Traffic accidents
+Traffic regulations
+
+Capital punishment via crucifixion
+:Events
+Crucifixions
+Lifting & carrying
+Whipping
+:People
+Criminals
+Dead persons
+:Things
+Crosses
+Feet
+Hammers
+Hands
+:Misc
+Christianity
+Crown of thorns
+
+Putting up a dam to create a reservoir
+:Events
+Dam construction
+:Places
+Reservoirs
+Spillways
+Streams
+:People
+Engineers
+:Things
+Dams
+Engineering drawings
+Hydroelectric generators
+Water
+:Misc
+Conservation of natural resources
+Flood control
+Floods
+Hydroelectric power
+Water supply
+
+Going dancing at a discotheque or dance club
+:Events
+Electronic music
+Music
+Perspiration
+Rock & roll dancing
+:Places
+Dance halls
+Discotheques
+Nightclubs
+:People
+Disc jockeys
+Young adults
+:Things
+Dance floors
+High-fidelity sound systems
+Sound recordings
+
+Having a party at a house or apartment
+:Events
+Conversation
+Dance parties
+Music
+Rock & roll dancing
+:Places
+Dwellings
+:People
+Guests
+:Things
+Beverages
+High-fidelity sound systems
+Sound recordings
+:Misc
+Friendship
+Popularity
+Social life
+
+Going to a modern dance performance
+:Events
+Choreography
+Modern dancing
+:Places
+Stages (Platforms)
+Theaters
+:People
+Audiences
+Dancers
+:Things
+Dance posters
+High-fidelity sound systems
+Sound recordings
+Stage lighting
+
+Looking after children in a day care center
+:Events
+Babysitting
+Children drawing & painting
+Children playing
+Children sleeping
+Day care
+:People
+Children
+Working mothers
+:Things
+Crayon drawings
+Games
+:Misc
+Child rearing
+Children & safety
+
+Going to a lecture or academic talk
+:Events
+Daydreaming
+Public speaking
+Questioning
+:Places
+Classrooms
+Lecture halls
+:People
+Scholars
+Students
+Teachers
+:Things
+Podiums
+Transparencies
+:Misc
+Boredom
+
+Adjusting the time on a clock or watch
+:Events
+Standardization
+:Places
+Airplanes
+Boundaries
+:Things
+Clock towers
+Clocks & watches
+Longcase clocks
+:Misc
+Autumn
+Daylight savings
+Spring
+Time
+
+Hitting an animal while driving outside of a city
+:Events
+Dead animals
+Traffic accidents
+:Places
+Roads
+:Things
+Armadillos
+Automobiles
+Birds
+Blood
+Deer
+Pets
+Squirrels
+Trucks
+:Misc
+Grief
+Surprise
+
+Communication with deaf persons using sign language
+:Events
+Conversation
+Sign language
+Silence
+:People
+Deaf persons
+:Things
+Eyes
+Hands
+Hearing aids
+:Misc
+Deafness
+
+Lifesaving efforts in the emergency room of a hospital
+:Events
+Artificial respiration
+Death
+Emergency medical services
+:Places
+Emergency rooms
+Hospitals
+Operating rooms
+:People
+Health care personnel
+Nurses
+Physicians
+:Things
+Death certificates
+Deathbeds
+Hearts
+Hypodermic needles
+Medical equipment & supplies
+Medicines
+Physical restraints
+
+Applying for a loan at a bank
+:Events
+Banking
+Pleading (Begging)
+Usury
+:Places
+Banks
+:People
+Bankers
+:Things
+Forms
+Neckties
+:Misc
+Credit
+Debt
+Employment
+Paying bills
+Saving & investment
+
+Capital punishment via decapitation using a guillotine
+:Events
+Decapitations
+:Places
+Plazas
+:People
+Criminals
+Crowds
+Dead persons
+Executioners
+:Things
+Guillotines
+Heads (Anatomy)
+Ropes
+:Misc
+Revolutions
+
+Working as a disc jockey in a radio station
+:Events
+Advertisements
+Announcements
+Dedications
+Music
+Radio broadcasting
+:Places
+Radio stations
+:People
+Disc jockeys
+:Things
+Album covers
+High-fidelity sound systems
+Phonographs
+Radios
+Sound recordings
+:Misc
+Radio industry
+
+Congressional budget debates
+:Events
+Debates
+Legislation
+Tax reform
+Vetoes
+:Places
+Capitols
+:People
+Legislators
+Presidents
+:Misc
+Defense budgets
+Deficit financing
+Economic policy
+Government spending policy
+Government spending reductions
+Political patronage
+Presidents & the Congress
+Social security
+Special interests
+Taxes
+
+Activities at a political party's national convention
+:Events
+Political conventions
+Political elections
+Presidential elections
+Public affairs television programs
+Public speaking
+:People
+Celebrities
+Delegations
+Presidents
+Presidents' spouses
+Vice presidents
+:Things
+Political platforms
+:Misc
+Political parties
+
+Being tortured in hell in the afterlife
+:Events
+Death
+Punishment & torture
+:Places
+Hell
+:People
+Criminals
+Dead persons
+Devil
+:Things
+Demons
+Fire
+:Misc
+Christianity
+Deadly sins
+Heat
+Religion
+
+Going to the dentist's office for an appointment
+:Events
+Anesthesia
+Dental hygiene
+Dentistry
+Grinding
+Pain
+Radiography
+Toothaches
+:Places
+Dental offices
+:Things
+Chairs
+Dental equipment & supplies
+Hypodermic needles
+Medicines
+Mouths
+Radiographs
+Teeth
+:Misc
+Anxiety
+Cowardice
+Dental education
+Deterioration
+
+Border patrol police trying to catch illegal aliens
+:Events
+Deportations
+Hiding
+Police surveillance
+Running
+Searching
+:Places
+Boundaries
+:People
+Guards
+Illegal aliens
+Refugees
+:Things
+Barbed wire
+Searchlights
+Walls
+
+Playing basketball in a driveway or a park court
+:Events
+Basketball
+:Places
+Driveways
+Playgrounds
+:People
+Neighbors
+:Things
+Balls (Sporting goods)
+Baskets
+Garages
+:Misc
+Friendship
+
+A private detective following a person
+:Events
+Hiding
+Spying
+Surveillance
+Vigils
+:Places
+Shadows
+:People
+Detectives
+Spouses
+:Things
+Cameras
+Detective camera photographs
+:Misc
+Suspicion
+Walking
+
+Selling your soul to the devil
+:Events
+Document signings
+:Places
+Crossroads
+:People
+Devil
+Musicians
+:Things
+Contracts
+:Misc
+Blues music
+Despair
+Fame
+Power (Social sciences)
+Wealth
+
+Working as a secretary for a corporate executive
+:Events
+Typewriting
+:Places
+Office buildings
+Offices
+Reception rooms
+:People
+Businessmen
+Office workers
+:Things
+Coffee
+Coffeepots
+Dictating machines
+Documents
+Facsimile transmissions
+Intercommunication systems
+Letterheads
+Paperwork
+Schedules (Time plans)
+Stationery
+Telephones
+
+Going to a late-night truck stop
+:Events
+Parking
+Sleeping
+:Places
+Automobile service stations
+Diners (Restaurants)
+Parking lots
+:People
+Waitresses
+:Things
+Coffee
+Trucks
+:Misc
+Night
+
+Dissecting a frog in biology class in high school
+:Events
+Anatomy
+Biology
+Dissections
+Examinations
+Nausea
+:Places
+Classrooms
+:People
+Students
+Teachers
+:Things
+Dead animals
+Frogs
+Pins & needles
+Surgical instruments
+
+Scuba diving from a boat
+:Events
+Discovery & exploration
+Diving
+Skin diving
+Spear fishing
+Swimming
+Underwater photography
+:Places
+Boats
+Reefs
+Seas
+:Things
+Air
+Aquatic animals
+Counterbalances
+Diving suits
+Oxygen masks
+Spears
+Underwater photographs
+
+Going to a dog show
+:Events
+Animal grooming
+Animal training
+Dog shows
+:Places
+Exhibition buildings
+:Things
+Combs
+Dogs
+Family trees
+Trained animals
+
+Dogsledding through the snow
+:Events
+Dogsledding
+Travel
+:Places
+Trails & paths
+:Things
+Dog teams
+Ice
+Sleds & sleighs
+Snow
+Working dogs
+:Misc
+Winter
+
+Dogcatchers picking up abandoned dogs
+:Events
+Chasing
+Dogcatching
+Running
+:Places
+Animal shelters
+Animal welfare organizations
+:Things
+Cages
+Collars
+Dog licenses
+Dogs
+Pets
+:Misc
+Rabies
+
+Children playing with dolls
+:Events
+Children playing adults
+Children playing with dolls
+Ventriloquism
+:Places
+Playrooms
+:Things
+Dollhouses
+Dolls
+Stuffed animals (Toys)
+:Misc
+Fantasy
+
+Sitting around watching television at home
+:Events
+Advertisements
+Leisure
+Television broadcasting
+Television programs for children
+:Places
+Dens
+:Things
+Sofas
+Televisions
+Videodiscs
+:Misc
+Domestic life
+Laziness
+Television industry
+
+A burglar breaking into someone's house
+:Events
+Robberies
+Sounds
+Tiptoeing
+:Places
+Dwellings
+:People
+Criminals
+:Things
+Crowbars
+Dogs
+Door knobs
+Doors & doorways
+Fire escapes
+Keyholes
+Locks (Hardware)
+Security systems
+Windows
+:Misc
+Night
+
+Living in a college dormitory
+:Events
+Noise pollution
+Parties
+Reading
+Writing
+:Places
+Bedrooms
+Dormitories
+Universities & colleges
+:People
+Students
+:Things
+Beds
+Desks
+High-fidelity sound systems
+Posters
+:Misc
+Friendship
+
+Amateur drag racing at a traffic light on a city street
+:Events
+Drag racing
+:Places
+Streets
+:People
+Teenagers
+:Things
+Hot rods
+Smoke
+Tires
+Traffic signs & signals
+:Misc
+Competition (Psychology)
+Traffic regulations
+
+Going to a drive-in restaurant
+:Events
+Eating & drinking
+Roller skating
+:Places
+Drive-in restaurants
+:People
+Skaters
+Waiters
+Waitresses
+:Things
+Automobiles
+Condiments
+Food
+Intercommunication systems
+Trays
+
+Going to a drive-in theater
+:Events
+Horror dramas
+:Places
+Drive-in theaters
+:People
+Couples
+:Things
+Automobiles
+Candy
+Motion picture devices
+Motion pictures
+Popcorn
+:Misc
+Night
+
+People smoking marijuana for recreation
+:Events
+Children smoking
+Drug abuse
+Floating
+Hallucinations & illusions
+Smoking
+:Places
+Universities & colleges
+:People
+Hippies
+Juvenile delinquents
+Students
+Young adults
+:Things
+Marijuana
+Smoke
+Tobacco pipes
+Water pipes (Smoking)
+:Misc
+Surrealism
+
+Going to the pharmacist to fill a prescription
+:Events
+Health care
+:Places
+Drugstores
+:People
+Pharmacists
+Sick persons
+:Things
+Bottles
+Cotton
+Medicines
+Pills
+:Misc
+Drug abuse
+Pharmaceutical industry
+
+Duck hunting near a pond
+:Events
+Country life
+Duck shooting
+:Places
+Lakes & ponds
+:Things
+Decoys (Hunting)
+Ducks
+Hunting dogs
+Kazoos
+Rifles
+
+A fencing competition
+:Events
+Action & adventure dramas
+Dueling
+Fencing
+Fighting
+Jumping
+:Places
+Gymnasiums
+:People
+Fencers
+Referees
+:Things
+Clocks & watches
+Daggers & swords
+Masks
+Signal lights
+Wire
+:Misc
+Competition (Psychology)
+
+A pistol duel between two aristocratic men
+:Events
+Dueling
+Gunfights
+Homicides
+Shooting
+Walking
+:Places
+Dueling grounds
+:People
+Upper class
+:Things
+Handguns
+:Misc
+Competition (Psychology)
+
+A gunfighting duel in western town
+:Events
+Dueling
+Homicides
+Shooting
+Westerns
+:Places
+Dueling grounds
+Plazas
+:People
+Cowboys
+Criminals
+Sheriffs
+:Things
+Handguns
+:Misc
+Cowardice
+Gunfights
+
+Being imprisoned in the dungeon of a castle
+:Events
+Punishment & torture
+Starvation
+:Places
+Castles & palaces
+Dungeons
+:People
+Prisoners
+:Things
+Chains
+Cobwebs
+Punishment devices
+Rats
+Shackles
+Skeletons
+
+Making, hiding, and searching for Easter eggs
+:Events
+Dyeing
+Hiding
+Holidays
+Searching
+:People
+Children
+:Things
+Baskets
+Colors
+Crayon drawings
+Easter cards
+Easter eggs
+Eggs
+:Misc
+Christianity
+
+Having your ears pierced in order to wear earrings
+:Events
+Pain
+:Places
+Jewelry stores
+:People
+Girls
+:Things
+Blood
+Earrings
+Ears
+Pins & needles
+Wounds & injuries
+
+Health and safety inspectors checking an establishment
+:Events
+Food adulteration & inspection
+Investigation
+Measuring
+:Places
+Eating & drinking facilities
+:People
+Government employees
+:Things
+Food
+:Misc
+Consumer protection
+Government regulation
+Health
+Hygiene
+
+Watching a solar eclipse
+:Events
+Eclipses
+Light
+:Things
+Clouds
+Eyes
+Moon
+Pinhole camera photographs
+Pins & needles
+Shadows
+Sun
+:Misc
+Astronomy
+End of the world
+
+Calling a tow truck because of car trouble
+:Events
+Towing
+:People
+Mechanics (Persons)
+:Things
+Automobile equipment & supplies
+Automobiles
+Chains
+Electric batteries
+Flat tires
+Gasoline engines
+Wreckers (Vehicles)
+
+Building a electronic device on a circuit board
+:Events
+Electric shocks
+Handicraft
+:Places
+Workshops
+:People
+Hobbyists
+:Things
+Electric batteries
+Electrical systems drawings
+Electronic apparatus & appliances
+Light bulbs
+Transistors
+Wire
+:Misc
+Electricity
+Electronic industry
+
+An execution by electrocution in the electric chair
+:Events
+Electric shocks
+Electrocutions
+Executions
+Last rites
+:Places
+Prisons
+:People
+Audiences
+Criminals
+Dead persons
+Executioners
+Priests
+Prisoners
+:Things
+Chairs
+Physical restraints
+
+Young people getting married by eloping 
+:Events
+Elopements
+Marriage
+Weddings
+:People
+Brides
+Grooms (Weddings)
+Young adults
+:Things
+Marriage certificates
+Marriage licenses
+:Misc
+Surprise
+
+Elves making toys in Santa's workshop
+:Events
+Carpentry
+Singing
+:Places
+Workshops
+:People
+Elves
+:Things
+Christmas decorations
+Christmas stockings
+Christmas trees
+Gifts
+Letters to Santa Claus
+Snow
+Toys
+:Misc
+Toy industry
+Winter
+
+Immigrants coming to a new country
+:Events
+Deportations
+Emigration & immigration
+Interviews
+Recording & registration
+:Places
+Boundaries
+Immigration stations
+:People
+Aliens
+Exiles
+Immigrants
+Refugees
+:Things
+Identification photographs
+Paperwork
+Registers
+:Misc
+Employment
+Family
+Names
+Nationalism
+
+Planting trees in an open space
+:Events
+Digging
+Forestry
+Gardening
+Tree planting ceremonies
+:Places
+Forests
+Meadows
+Plains
+Prairies
+:Things
+Gardening equipment & supplies
+Holes
+Shovels
+Trees
+:Misc
+Ecology
+Erosion
+Erosion protection works
+
+A hurricane attacking a coastal town
+:Events
+Disasters
+Evacuations
+Hurricanes
+Pier & wharf failures
+Rain
+Typhoons
+Winds
+:Places
+Abandoned buildings
+Capes (Coasts)
+Cities & towns
+Oceans
+Piers & wharves
+Waterfronts
+:People
+Law enforcement officers
+:Misc
+Civil defense
+Safety
+
+Media reporters covering an event
+:Events
+Broadcasting
+Events
+Interviews
+Photojournalism
+Sound recording
+Writing
+:Places
+Sites
+:People
+Photojournalists
+Reporters
+:Things
+Cameras
+Writing materials
+:Misc
+Lighting
+
+Getting evicted from an apartment by the landlord
+:Events
+Evictions
+Lease & rental services
+:Places
+Apartment houses
+Apartments
+:People
+Landlord & tenant
+:Things
+Contracts
+Locks (Hardware)
+:Misc
+Housing
+
+Performing an exorcism of a possessed person
+:Events
+Exorcism
+:People
+Priests
+Sick persons
+:Things
+Bibles
+Crosses
+Demons
+:Misc
+Christianity
+
+Going on a mountain climbing expedition
+:Events
+Expeditions & surveys
+Mountaineering
+Panoramic views
+:Places
+Mountains
+Passes (Landforms)
+:People
+Explorers
+Guides & scouts
+:Things
+Axes
+Boots
+Expedition photographs
+Ice
+Mountain goats
+Oxygen masks
+Ropes
+Snow
+:Misc
+Cold
+Danger
+
+Working at a particle accelerator laboratory
+:Events
+Experiments
+Physics
+:Places
+Circular buildings
+Particle accelerators
+Tunnels
+:People
+Physicists
+:Things
+Magnets
+Scientific equipment
+
+Being abducted by space aliens
+:Events
+Experiments
+Interplanetary voyages
+Kidnappings
+Surgery
+:Places
+Forests
+Unidentified flying objects
+:Things
+Electronic apparatus & appliances
+Extraterrestrial life
+:Misc
+Night
+Tall tales
+
+Going to the plastic surgeon for elective cosmetic surgery
+:Events
+Anesthesia
+Face lifts
+Surgery
+:Places
+Clinics
+Operating rooms
+:People
+Actresses
+Beauty contestants
+:Things
+Breasts
+Faces
+Fat
+Human body
+Noses
+:Misc
+Contentment
+Obesity
+
+Researching a family history for genealogical study
+:Places
+Archives
+Historical societies
+:People
+Grandparents
+:Things
+Birth certificates
+Death certificates
+Family trees
+Marriage certificates
+Newspapers
+:Misc
+History
+Recording & registration
+
+Going to a farmer's market
+:Events
+Farmers' markets
+:Places
+Parking lots
+Plazas
+:People
+Farmers
+Food vendors
+Peasants
+Vending stands
+:Things
+Farm produce
+Flowers
+Fruit
+Preserves
+Spices
+Vegetables
+
+Going to a hoedown on a farm
+:Events
+Folk music
+Hayrides
+Hoedowns (Parties)
+Square dancing
+:Places
+Barns
+Farmhouses
+Farms
+:People
+Farmers
+:Things
+Banjos
+Hay
+Violins
+Washboards
+
+Going to a fast food restaurant
+:Events
+Eating & drinking
+Queues
+:Places
+Fast food restaurants
+:People
+Restaurant workers
+:Things
+Bags
+Carbonated beverages
+Cash registers
+Intercommunication systems
+Packaging
+Sandwiches
+Trays
+:Misc
+Health
+Standardization
+
+Going on a hunger strike for some political issue
+:Events
+Fasts
+Publicity
+Reducing
+Starvation
+:Places
+Prisons
+:People
+Activists
+Political prisoners
+:Things
+Food
+Water
+:Misc
+Passive resistance
+Peace
+Political issues
+
+Getting a polishing from a shoe shiner
+:Events
+Cleaning
+Shoe shining
+:Places
+Airports
+Bus terminals
+Business districts
+Railroad stations
+:People
+Businessmen
+Shoe shiners
+:Things
+Chairs
+Feet
+Newspapers
+Shoes
+Stools
+Towels
+
+Trying on new shoes at a shoe store
+:Events
+Measuring
+Pain
+Shoemaking
+Walking
+:Places
+Shoe stores
+:People
+Shoemakers
+:Things
+Boots
+Feet
+Footwear
+Hosiery
+Shoes
+:Misc
+Shoe industry
+Shoestring industry
+
+Running in a marathon
+:Events
+Cheering
+Marathon running
+Perspiration
+Running
+Running races
+:Places
+Streets
+:People
+Runners (Sports)
+Sports spectators
+:Things
+Clocks & watches
+Feet
+Legs
+Shoes
+:Misc
+Fatigue
+Health
+Time
+
+Taking a ferry across between two land masses
+:Events
+Ocean travel
+:Places
+Islands
+Marine terminals
+Piers & wharves
+Seas
+:People
+Commuters
+Passengers
+Ship captains
+:Things
+Automobiles
+Ferries
+Schedules (Time plans)
+
+A photographer working in a darkroom
+:Events
+Photography
+:Places
+Bathrooms
+Photographic studios
+Portable darkrooms
+:People
+Photographers
+:Things
+Chemicals
+Negatives
+Photographs
+:Misc
+Light
+
+Working as a ranger at a national park
+:Events
+Fire prevention
+Forestry
+Search & rescue operations
+:Places
+Fire lookout stations
+National parks & reserves
+:People
+Rangers
+:Things
+Binoculars
+Campfires
+Jeep automobiles
+Radiophones
+
+Firemen waiting for emergency calls at a fire station
+:Events
+Leisure
+:Places
+Fire stations
+:People
+Fire fighters
+:Things
+Fire alarms
+Fire engines & equipment
+Fireboats
+Working dogs
+:Misc
+Boredom
+Preparedness
+
+Buying firearms from a gun dealer
+:Events
+Recording & registration
+Shooting
+:Places
+Pawnshops
+:People
+Collectors
+Criminals
+Ex-convicts
+Hobbyists
+:Things
+Bullets
+Firearms
+Identification photographs
+Licenses
+:Misc
+Firearms control
+Firearms industry
+Gunsmithing
+Safety
+
+Fighting a forest fire
+:Events
+Conservation of natural resources
+Fire prevention
+Forest fires
+Heat
+Winds
+:Places
+Firebreaks
+Forests
+National parks & reserves
+:People
+Fire fighters
+Rangers
+:Things
+Fire engines & equipment
+Helicopters
+:Misc
+Temperature
+
+Watching a Independence day fireworks celebration
+:Events
+Celebrations
+Concerts
+Explosions
+Holidays
+Sounds
+:Places
+Parks
+:People
+Families
+:Things
+Blankets
+Firecrackers
+Fireworks
+Orchestras
+:Misc
+Autonomy
+Night
+
+Setting up and caring for a home aquarium
+:Events
+Animal feeding
+:Places
+Dens
+Living rooms
+Pet shops
+:Things
+Air pumps
+Animal housing
+Aquariums
+Fish
+Pets
+Rocks
+Water
+Water pumps
+Water tanks
+
+Working on a commercial fishing vessel
+:Events
+Fishing industry
+Shellfish industry
+:Places
+Decks (Ships)
+Seas
+:People
+Fishermen
+:Things
+Fish
+Fishing boats
+Fishing nets
+Fishing weirs
+Freezers
+Hoisting machinery
+Ice
+:Misc
+Conservation of natural resources
+
+Raising and lowering a flag on a flagpole
+:Events
+Flag salutes
+:Places
+Educational facilities
+Government facilities
+:Things
+Flagpoles
+Flags
+Ropes
+:Misc
+Patriotism
+Pledges of allegiance
+
+Going to a speakeasy during prohibition
+:Events
+Charleston (Dance)
+Jazz
+Smuggling
+:Places
+Basements
+Speakeasies
+:People
+Big bands
+Criminals
+Flappers
+Gangs
+Jazz singers
+:Things
+Alcoholic beverages
+Speakeasy cards
+:Misc
+Organized crime
+Prohibition
+
+Going to a flea market
+:Events
+Barter
+Bazaars
+Flea markets
+Secondhand sales
+Shopping
+:Places
+Parking lots
+Plazas
+:People
+Crowds
+Peddlers
+:Things
+Merchandise displays
+Vending stands
+
+Pilots training in a flight simulator
+:Events
+Flight testing
+Flight training
+Rehearsals
+:People
+Air pilots
+Students
+:Things
+Computer graphics
+Computers
+Dashboards
+Steering wheels
+:Misc
+Aeronautics
+Preparedness
+Teaching methods
+
+Working in a home garden
+:Events
+Gardening
+Leisure
+Recreation
+:Places
+Backyards
+Garden rooms
+Gardens
+:People
+Aged persons
+Hobbyists
+:Things
+Flower pots
+Flowers
+Gardening equipment & supplies
+Gloves
+Herbs
+Plant containers
+Plants
+Seeds
+Straw hats
+Topiary work
+Weeds
+Wheelbarrows
+:Misc
+Horticulture
+Retirements
+
+Going on a diet to lose weight
+:Events
+Calisthenics
+Fasts
+Physical fitness
+Reducing
+Starvation
+Weight loss
+:People
+Fashion models
+:Things
+Fat
+Food
+Scales
+:Misc
+Gluttony
+Nutrition
+Obesity
+
+Being an entertainer in a king's court
+:Events
+Juggling
+Storytelling
+Sword swallowing
+:Places
+Castles & palaces
+Reception rooms
+:People
+Bards
+Fools & jesters
+Kings
+Knights
+Minstrels
+Queens
+Troubadours
+:Things
+Daggers & swords
+Fools' caps
+Thrones
+:Misc
+Tall tales
+
+Watching a big football game on television
+:Events
+Cheering
+Football
+Leisure
+Television broadcasting
+:Places
+Dens
+:People
+Football players
+Men
+Sports spectators
+:Things
+Beer
+Popcorn
+Pretzels
+Televisions
+:Misc
+Friendship
+
+Waiting in the reception area of a medical office
+:Places
+Dental offices
+Medical offices
+Reception rooms
+:People
+Health care personnel
+Nurses
+Office workers
+Sick persons
+:Things
+Forms
+Periodicals
+:Misc
+Anxiety
+Boredom
+Time
+
+Warfare on the front line of a military battle
+:Events
+Campaigns & battles
+Explosions
+Military retreats
+Shooting
+Trench warfare
+Troop movements
+War
+:Places
+Battlefields
+Foxholes
+:People
+Casualties
+Soldiers
+War correspondents
+:Things
+Armies
+Camouflage (Military science)
+Chevaux-de-frise
+Gun turrets
+Mines (Warfare)
+Mortars (Ordnance)
+Obstacles (Military science)
+Rockets
+:Misc
+Courage
+Cowardice
+
+Peddling tonics in a traveling medicine show
+:Events
+Deception
+Fraud
+Healing
+Medicine shows
+Selling
+:Places
+Markets
+Plazas
+:People
+Actors
+Actresses
+Peddlers
+Quacks
+Sick persons
+Spectators
+:Things
+Patent medicines
+
+A press conference with some government official
+:Events
+Broadcasting
+Muckraking
+Press conferences
+Questioning
+Raising hands
+Sound recording
+Writing
+:Places
+Conference rooms
+:People
+Government officials
+Press
+Reporters
+:Things
+Cameras
+Lighting
+Podiums
+Writing materials
+:Misc
+Freedom of information
+
+Freighthopping to and from a train
+:Events
+Freighthopping
+Hiding
+Jumping
+:Places
+Loading docks
+Railroad freight cars
+Railroad stations
+:People
+Railroad employees
+Runaway children
+Stowaways
+Tramps
+:Things
+Crates
+Mouth organs
+Railroads
+
+Fundraising by canvassing door-to-door for donations
+:Events
+Canvassing
+Fund raising
+Knocking
+Salutations
+:Places
+Doors & doorways
+:People
+Philanthropists
+:Things
+Gifts
+Money
+:Misc
+Charitable organizations
+Charity
+Philanthropy
+
+Telemarketers and fundraisers making phone calls
+:Events
+Fund raising
+Salutations
+Selling
+:People
+Peddlers
+:Things
+Telephone directories
+Telephones
+:Misc
+Charitable organizations
+Newspaper industry
+Obstinacy
+Telephone companies
+
+Playing a game of chess
+:Events
+Chess
+Contests
+Thinking
+:Places
+Dens
+Living rooms
+Parks
+:Things
+Clocks & watches
+Game boards
+Game pieces
+
+Committing suicide by jumping off the ledge of a building
+:Events
+Death
+Falling
+Jumping
+Suicides
+:Places
+Office buildings
+:People
+Businessmen
+Fire fighters
+Mentally ill persons
+Spectators
+:Things
+Gargoyles
+Megaphones
+Windows
+:Misc
+Depression (Mental state)
+
+Flying a hang-glider off a cliff
+:Events
+Aerial views
+Air travel
+Running
+:Places
+Cliffs
+Mountains
+:Things
+Gliders
+Goggles
+Helmets
+Winds
+
+Working as a jeweler making jewelry
+:Events
+Jewelry making
+Lapidary work
+Metalworking
+:Places
+Jewelry stores
+:Things
+Diamonds
+Gems
+Gold
+Goldwork
+Hand lenses
+Inscriptions
+Jewelry
+Monocles
+Showcases
+Silver
+
+Panning for gold in a river
+:Events
+Frontier & pioneer life
+Gold rushes
+Prospecting
+Wading
+:Places
+Streams
+:People
+Pioneers
+:Things
+Gold
+Mules
+Pack animals
+Prospecting equipment & supplies
+:Misc
+Westerns
+Westward movement
+
+Riding in a gondola in a city's canals
+:Places
+Canals
+Landing floats
+Piers & wharves
+:People
+Couples
+Gondoliers
+Passengers
+Sightseers
+:Things
+Gondolas
+Pedestrian bridges
+:Misc
+Romances
+
+Going to an African-American Christian religious service
+:Events
+Dance
+Gospel music
+Hand clapping
+Religious services
+:Places
+Churches
+:People
+Afro-Americans
+Evangelists
+Gospel singers
+:Things
+Bands
+Bibles
+Choirs (Music)
+Organs
+:Misc
+Christianity
+
+A tutor giving personal attention to a student
+:Events
+Children reading & writing
+Education
+Reading
+Writing
+:Places
+Classrooms
+Libraries (Rooms)
+Studies (Rooms)
+:People
+Governesses
+Scholars
+Students
+Teachers
+:Things
+Books
+Desks
+Writing materials
+:Misc
+Preparedness
+Teaching methods
+
+A graffiti vandal painting in the night
+:Events
+Autographing
+Hiding
+Painting
+Vandalism
+:Places
+Alleys
+Subway stations
+Subways
+:People
+Artists
+Gangs
+Juvenile delinquents
+Police
+:Things
+Billboards
+Graffiti
+Paints & varnishes
+Symbols
+Walls
+:Misc
+Night
+
+Mass executions as part of a genocide or war
+:Events
+Executions
+Genocide
+Gravedigging
+:Places
+Concentration camps
+Holes
+:People
+Executioners
+Firing squads
+Prisoners of war
+:Things
+Graves
+:Misc
+War crimes
+
+A bachelor party for before a wedding
+:Places
+Hotels
+Nightclubs
+:People
+Bachelors
+Dancers
+Grooms (Weddings)
+Nudes
+:Things
+Alcoholic beverages
+Erotic films
+:Misc
+Friendship
+Weddings
+
+Playing rock and roll music with friends
+:Events
+Singing
+:Places
+Basements
+Garages
+:People
+Musicians
+Teenagers
+Young adults
+:Things
+Drums
+Guitars
+Musical instruments
+Public address systems
+Rock groups
+
+Assembling warships off the coast of another country
+:Events
+Military mobilizations
+Naval operations
+Naval warfare
+Threats
+:Places
+Capes (Coasts)
+Territorial waters
+Waterfronts
+:People
+Marines
+Navies
+:Things
+Gun turrets
+Mines (Warfare)
+Warships
+:Misc
+International security
+Preparedness
+
+Women going to the powder room
+:Events
+Conversation
+Grooming
+:Places
+Rest rooms
+Restaurants
+:People
+Women
+:Things
+Cosmetics & soap
+Handbags
+Mirrors
+Purses
+Queues
+:Misc
+Rumor
+
+Airplane mechanics inspecting and maintaining airplanes
+:Events
+Vehicle maintenance & repair
+:Places
+Hangars
+:People
+Mechanics (Persons)
+:Things
+Airplane engines
+Airplane equipment
+Airplanes
+Fuel
+Hoisting machinery
+:Misc
+Airline industry strikes
+Safety
+
+An execution by hanging from a rope
+:Events
+Hangings
+Last rites
+Strangling
+Westerns
+:People
+Cowboys
+Criminals
+Dead persons
+Executioners
+Priests
+Prisoners
+Sheriffs
+Spectators
+:Things
+Heads (Anatomy)
+Nooses
+Pails
+Ropes
+Trees
+
+Navigating a private boat in and out of a harbor
+:Events
+Launchings
+Mooring
+Navigation
+Rowing
+:Places
+Harbors
+Marine terminals
+Piers & wharves
+Waterfronts
+:People
+Fishermen
+Sailors
+:Things
+Anchors
+Boat clubs
+Motorboats
+Rowboats
+Sailboats
+Trucks
+
+Retrieving and moving organs from an organ donor
+:Events
+Accidents
+Emergency medical services
+Surgery
+:Places
+Hospitals
+Operating rooms
+:People
+Dead persons
+Physicians
+:Things
+Ambulances
+Hearts
+Helicopters
+Human body
+Ice
+Licenses
+Surgical instruments
+
+Coast guard search & rescue operations
+:Events
+Drowning
+Lifesaving
+Marine accidents
+Search & rescue operations
+Searching
+:Places
+Seas
+:People
+Lifeguards
+:Things
+Helicopters
+Life preservers
+Lifeboats
+Motorboats
+Searchlights
+
+Working as a shepherd of a flock of sheep
+:Events
+Herding
+Sheep shearing
+:Places
+Hills
+Meadows
+:People
+Shepherdesses
+Shepherds
+:Things
+Scissors & shears
+Sheep
+Staffs (Sticks)
+Wool
+Working dogs
+:Misc
+Wool industry
+
+Working as a shepherd of a flock of goats
+:Events
+Dairy farming
+Dairying
+Milking
+:Places
+Hills
+Meadows
+Mountains
+:People
+Goatherds
+:Things
+Goats
+Herding
+Staffs (Sticks)
+Working dogs
+
+Bears hibernating for the winter
+:Events
+Hibernation
+Sleeping
+:Places
+Caves
+:Things
+Bears
+:Misc
+Temperature
+Winter
+
+Burial in an egyptian pyramid
+:Events
+Funeral rites & ceremonies
+:Places
+Deserts
+Pyramids
+:People
+Kings
+Servants
+Slaves
+:Things
+Hieroglyphics
+Jewelry
+Mummies
+Sarcophagi
+Sphinxes
+Treasure-trove
+:Misc
+Cursing
+
+A city celebrating Founder' Day commemorations
+:Events
+Anniversaries
+Founders' Day commemorations
+Historical pageants
+Historical reenactments
+Parades & processions
+:Places
+Cities & towns
+Commercial streets
+Plazas
+:Things
+Banners
+:Misc
+Historical societies
+History
+
+Hitchhiking on a road between towns
+:Events
+Automobile travel
+Hitchhiking
+Transcontinental journeys
+Transportation
+Walking
+:Places
+Cities & towns
+Roads
+:People
+Runaway children
+Young adults
+:Things
+Automobiles
+Fingers
+Trucks
+
+Playing a game of ice hockey
+:Events
+Cheering
+Fighting
+Ice hockey
+Ice skating
+:Places
+Ice skating rinks
+Lakes & ponds
+Stadiums
+:People
+Athletes
+Referees
+Sports spectators
+:Things
+Hockey masks
+Ice
+:Misc
+Winter
+
+Exchanging gifts and cards for St. Valentine's Day
+:Events
+Courtship
+Holidays
+:People
+Couples
+:Things
+Candy
+Flowers
+Gifts
+Love letters
+Valentines
+:Misc
+Love
+
+Canning and preserving fruit and vegetables
+:Events
+Country life
+Home economics
+Home food processing
+:Places
+Kitchens
+:People
+Housewives
+:Things
+Cans
+Fruit
+Kettles
+Preserves
+Vegetables
+
+Murdering someone by poisoning their drink
+:Events
+Eating & drinking
+Homicides
+:Things
+Beverages
+Drinking vessels
+Poisons
+:Misc
+Deception
+Distress
+Revenge
+Suspicion
+
+Swearing to tell the truth in a courtroom
+:Events
+Oaths
+Raising hands
+:Places
+Courthouses
+Courtrooms
+:People
+Bailiffs
+:Things
+Bibles
+Hands
+:Misc
+Gods
+Honesty
+Truth
+
+Taking a vacation on a cruise ship
+:Events
+Ballroom dancing
+Eating & drinking
+Honeymoons
+Leisure
+Motion sickness
+Ocean travel
+Recreation
+Vacations
+:Places
+Decks (Ships)
+Islands
+Ocean liners
+Oceans
+:People
+Couples
+Passengers
+Porters
+Ship captains
+Tourists
+:Things
+Lifeboats
+Shuffleboard
+
+Sea navigation through a thick fog
+:Events
+Blindness
+Fog
+Navigation
+Ship accidents
+:Places
+Bodies of water
+Vessels
+:People
+Ship captains
+:Things
+Bells
+Compasses
+Horns (Communication devices)
+:Misc
+Danger
+
+Going to the race track to bet on horse races
+:Events
+Cheering
+Gambling
+Horse racing
+Horseback riding
+Wagers
+:Places
+Racetracks (Horse racing)
+Stables
+:People
+Jockeys
+Sports spectators
+:Things
+Binoculars
+Gates
+Race horses
+
+Signing in and out of work with a punch clock
+:Places
+Commercial facilities
+Industrial facilities
+:People
+Employees
+Working class
+:Things
+Cards
+Clocks & watches
+Punched card systems
+:Misc
+Hours of labor
+Wages
+
+A tornado striking a residential area
+:Events
+Civil defense
+Disasters
+Forecasting
+Radio broadcasting
+Tornadoes
+Warnings
+Winds
+:Places
+Basements
+Shelters
+:People
+Reporters
+:Things
+Houses
+Maps
+Mobile homes
+Radios
+Shutters
+
+Vacationing on a tropical island
+:Events
+Honeymoons
+Hula dancing
+Leisure
+Luaus
+Recreation
+Vacations
+:Places
+Beaches
+Cabanas
+Resorts
+:People
+Couples
+Tourists
+:Things
+Alcoholic beverages
+Fruit
+Leis
+Sun
+
+Going to a competitive track meet
+:Events
+Running
+Track athletics
+:Places
+Athletic fields
+Stadiums
+:People
+Athletes
+Runners (Sports)
+Sports spectators
+:Things
+Clocks & watches
+Handguns
+Medals
+Shoes
+:Misc
+Time
+World records
+
+Buying drugs from a drug dealer
+:Events
+Deals
+Drug abuse
+Selling
+Smuggling
+:Places
+Slums
+:People
+Criminals
+Gangs
+:Things
+Hypodermic needles
+Narcotics
+Plastic bags
+:Misc
+Black market
+Organized crime
+Police surveillance
+
+An athlete tending to an sprain or minor injury
+:Events
+Accidents
+Wounds & injuries
+:Places
+Locker rooms
+Sports & recreation facilities
+:People
+Athletes
+:Things
+Arms (Anatomy)
+Back (Anatomy)
+Feet
+Hands
+Ice
+Legs
+Plastic bags
+Splints (Surgery)
+:Misc
+Pain
+
+Ice fishing in on a frozen lake
+:Events
+Ice crossings
+Ice fishing
+:Places
+Glaciers
+Ice floes
+Icebergs
+Igloos
+Lakes & ponds
+:People
+Fishermen
+Indians of North America
+:Things
+Fish
+Fishing lures
+Fishing & hunting gear
+Holes
+Ice
+:Misc
+Cold
+
+Ice skating outside in the winter
+:Events
+Children playing in snow
+Ice skating
+:Places
+Ice skating rinks
+Lakes & ponds
+:People
+Skaters
+:Things
+Ice
+Shoes
+:Misc
+Winter
+
+Nautical navigating in arctic waters
+:Events
+Navigation
+Ocean travel
+Ship accidents
+:Places
+Seas
+:People
+Ship captains
+:Things
+Aerial photographs
+Glaciers
+Ice floes
+Icebergs
+Iceboats
+Ice-breaking vessels
+Maps
+:Misc
+Danger
+
+Building and living in an igloo
+:Events
+Building construction
+Carving
+:Places
+Glaciers
+Ice floes
+Icebergs
+Igloos
+:People
+Indians of North America
+:Things
+Campfires
+Ice
+Ice sculpture
+Knives
+Snow
+:Misc
+Cold
+
+Working as a revolutionary in a third world country
+:Events
+Counterrevolutions
+Covert operations
+Illegal arms transfers
+National liberation movements
+Rebellions
+Revolutions
+Sabotage
+Underground movements
+:Places
+Capitols
+Military camps
+:People
+Counterrevolutionaries
+Dictators
+Guerrillas
+Military regimes
+Rebels
+Revolutionaries
+:Things
+Arms & armament
+:Misc
+Rearmament
+
+Filing an income tax return
+:Events
+Paying bills
+:Places
+Law offices
+Post offices
+:People
+Lawyers
+:Things
+Envelopes
+Forms
+Income taxes
+Wages
+:Misc
+Laziness
+Tax exemptions
+Tax reform
+
+Making a will to allocate in inheritance
+:Events
+Document signings
+Inheritance & sucession
+:Places
+Law offices
+:People
+Aged persons
+Families
+Lawyers
+:Things
+Wealth
+Wills
+:Misc
+Death
+Inheritance & transfer taxes
+
+Going to a fraternity for a meeting
+:Events
+Discussion
+Initiation rites
+Meetings
+Pledges of allegiance
+:Places
+Fraternities & sororities
+Universities & colleges
+:People
+Students
+
+Putting on a military officer's uniform
+:Events
+Military life
+Military parades & ceremonies
+:Places
+Officers' quarters
+:People
+Military officers
+:Things
+Daggers & swords
+Hats
+Insignia
+Medals
+Military decorations
+Military uniforms
+National emblems
+
+Living in an insane asylum
+:Events
+Escapes
+Institutional care
+Psychiatry
+:Places
+Mental institutions
+:People
+Mentally ill persons
+Physicians
+:Things
+Medicines
+Physical restraints
+:Misc
+Mental health
+Mental states
+
+Two automobiles getting in a fender-bender accident
+:Events
+Automobile driving
+Blaming
+Quarreling
+Traffic accidents
+:Places
+Streets
+:People
+Traffic police
+:Things
+Automobiles
+Broken glass
+Insurance
+Insurance certificates
+Traffic signs & signals
+Wreckers (Vehicles)
+:Misc
+Anger
+Traffic regulations
+
+United Nations peace keeping forces patrolling a city
+:Events
+Arms control
+Civil wars
+Intervention (International law)
+Law enforcement
+Military assistance
+Military occupations
+:Places
+Cities & towns
+:People
+International police
+:Things
+Arms & armament
+:Misc
+Foreign participation in war
+International security
+Military regimes
+Peace
+Treaty violations
+
+Working in an inventor's workshop
+:Events
+Creation
+Handicraft
+:Places
+Workshops
+:People
+Hobbyists
+Inventors
+:Things
+Design drawings
+Gadgets
+Inventions
+Scientific equipment
+Transistors
+Wire
+:Misc
+Patents
+
+Poaching elephants as part of the ivory trade
+:Events
+Big game hunting
+Elephant hunting
+Poaching
+Shooting
+:Places
+Plains
+Prairies
+:Things
+Dead animals
+Elephants
+Rifles
+Saws
+Tusks
+:Misc
+Ivory
+
+Playing in a jazz band at a club
+:Events
+Creation
+Jazz
+:Places
+Nightclubs
+:People
+Composers
+Jazz singers
+Musicians
+Pianists
+:Things
+Bands
+Brass instruments
+Musical instruments
+Pianos
+Songs
+
+Putting together a jigsaw puzzle
+:Events
+Searching
+:Places
+Dens
+Living rooms
+:Things
+Boxes
+Colors
+Eyes
+Jigsaw puzzles
+Pictures
+Tables
+:Misc
+Recreation
+
+Getting three wishes from a genie in a lamp
+:Events
+Cleaning
+Wishing
+:People
+Jinns
+:Things
+Fables
+Fairy tales
+Lamps
+Smoke
+:Misc
+Fame
+Love
+Magic
+Power (Social sciences)
+Prosperity
+Wealth
+
+Going to a junkyard to drop off junk or search for something
+:Events
+Recycling
+Refuse disposal
+Searching
+:Places
+Junkyards
+:Things
+Automobile equipment & supplies
+Bulldozers
+Dump trucks
+Hoisting machinery
+Refuse
+Salvage
+
+Touching a pregnant woman to feel kicking
+:Events
+Human locomotion
+Kicking
+Pregnancy
+:People
+Pregnant women
+Spouses
+:Things
+Hands
+Human body
+:Misc
+Nausea
+
+Kidnapping a child from a public place
+:Events
+Children crying
+Kidnappings
+Shouting
+:Places
+Parks
+Playgrounds
+:People
+Children
+Criminals
+:Things
+Candy
+
+Making pottery and clay artifacts
+:Events
+Modeling (Sculpture)
+Painting
+Spinning
+:Places
+Artists' studios
+Potteries
+:People
+Hobbyists
+:Things
+Kilns
+Paints & varnishes
+Pottery
+Urns
+Vases
+:Misc
+Pottery industry
+
+Going to a kindergarten class
+:Events
+Children drawing & painting
+Children playing
+Children sleeping
+Storytelling
+:Places
+Classrooms
+Kindergartens
+:People
+Children
+Teachers
+:Things
+Crayon drawings
+Games
+
+A king knighting a subject
+:Events
+Knighting
+Pledges of allegiance
+:Places
+Castles & palaces
+:People
+Kings
+Knights
+:Things
+Armor
+Coats of arms
+Daggers & swords
+:Misc
+Chivalry
+
+Going to a seance to contact to spirits
+:Events
+Holding hands
+Knocking
+Levitation
+Seances
+Witchcraft
+:Places
+Dining rooms
+:People
+Dead persons
+Ghosts
+Quacks
+Witches
+Wizards
+:Things
+Crystal balls
+Dining tables
+Memorabilia
+Ouija boards
+Tarot cards
+
+Sending a package through the mail
+:Events
+Postal service
+Shipping
+:Places
+Post offices
+:People
+Postal service employees
+:Things
+Boxes
+Labels
+Mailboxes
+Packaging
+Postage stamps
+Wanted posters
+:Misc
+Postal service rates
+
+Workers picketing during a strike outside a business
+:Events
+Sabotage
+Shouting
+Strikes
+:People
+Employees
+Labor leaders
+Labor unions
+Pickets
+:Things
+Signs
+:Misc
+Anger
+Employee rights
+Industrial arbitration
+Wages
+
+Working as a building window washer
+:Events
+Window cleaning
+:Places
+Skyscrapers
+:Things
+Hoisting machinery
+Ladders
+Pails
+Pulleys
+Ropes
+Windows
+:Misc
+Danger
+Safety
+
+Surveying a piece of land for records or construction
+:Events
+Measuring
+Real estate development
+Surveying
+:Places
+Land
+:People
+Surveyors
+:Things
+Measured drawings
+Site plans
+Surveying equipment
+:Misc
+Civil engineering
+Construction industry
+Real estate business
+
+Waiting at the deathbed of a dying elderly person
+:Events
+Crying
+Death
+Last rites
+:Places
+Bedrooms
+Deathbeds
+:People
+Aged persons
+Dead persons
+Families
+Priests
+:Misc
+Longevity
+Sadness
+
+Taking your dirty clothes to the laundromat
+:Events
+Cleaning
+Laundry
+:Places
+Apartments
+Laundries (Rooms & spaces)
+:Things
+Baskets
+Clothing & dress
+Coin operated machines
+Coins
+Household soap
+Washing machines
+
+Reading a book for leisure at home
+:Events
+Leisure
+Reading
+:Places
+Dens
+Libraries (Rooms)
+Studies (Rooms)
+:Things
+Books
+Chairs
+Eyeglasses
+Lamps
+:Misc
+Literacy
+Literature
+
+Working as a lighthouse keeper
+:Places
+Capes (Coasts)
+Lighthouses
+Waterfronts
+:People
+Lighthouse keepers
+:Things
+Beacons
+Signal lights
+Stairways
+:Misc
+Navigation
+
+Working at a military medical camp
+:Events
+Military discharges
+Military medicine
+Surgery
+:Places
+Military hospitals
+Operating rooms
+:People
+Amputees
+Nurses
+Physicians
+Soldiers
+Unknown soldiers
+War casualties
+:Things
+Blood
+Helicopters
+Litters
+Surgical instruments
+:Misc
+Medical aspects of war
+
+Going skiing in the mountains
+:Events
+Falling
+Ski jumping
+Skiing
+:Places
+Mountains
+Ski lodges
+:Things
+Boots
+Flags
+Gloves
+Goggles
+Hoisting machinery
+Ice
+Ropes
+Snow
+:Misc
+Winter
+
+City employees working in the sewer
+:Events
+Civil service
+Maintenance & repair
+:Places
+Manholes
+Sewers
+Streets
+:Things
+Lanterns
+Manhole covers
+Pipelines
+Pipes
+Septic tanks
+:Misc
+Public utility companies
+Sanitation
+Sewerage
+Waterworks
+
+Getting a manicure at a beauty salon
+:Events
+Manicuring
+Painting
+:Places
+Beauty shops
+:People
+Women
+:Things
+Brooms & brushes
+Fingers
+Paints & varnishes
+Scissors & shears
+
+Shopping through a mail-order catalog
+:Events
+Postal service
+:Places
+Mail-order businesses
+Warehouses
+:People
+Sales personnel
+:Things
+Credit cards
+Manufacturers' catalogs
+Packaging
+Products
+Sales catalogs
+Telephones
+:Misc
+Postal service rates
+
+Practicing martial arts with a group
+:Events
+Dueling
+Martial arts
+Meditation
+Oriental hand-to-hand fighting
+:Places
+Gymnasiums
+:People
+Apprentices
+:Things
+Belts (Clothing)
+:Misc
+Philosophy
+Preparedness
+Self-defense
+
+A wrestling or martial arts competition
+:Events
+Dueling
+Fighting
+Martial arts
+Oriental hand-to-hand fighting
+Wrestling
+:Places
+Gymnasiums
+:People
+Referees
+Wrestlers
+:Things
+Belts (Clothing)
+Clocks & watches
+:Misc
+Competition (Psychology)
+
+Going to a masquerade or a Halloween party
+:Events
+Holidays
+Masquerades
+Parties
+:Places
+Ballrooms
+:Things
+Costumes
+Masks
+:Misc
+Impersonation
+
+Getting fitted for a suit or a dress
+:Events
+Measuring
+Sewing
+Tailoring
+:Places
+Tailor shops
+:People
+Seamstresses
+Tailors
+:Things
+Ball dresses
+Coats
+Evening gowns
+Pins & needles
+Sewing equipment & supplies
+Sewing machines
+Textiles
+Trousers
+Tuxedoes
+Wedding costume
+:Misc
+Clothing industry
+
+Medical students going on hospital rounds with a doctor
+:Events
+Examinations
+Health care
+Medical education
+Questioning
+:Places
+Hospital wards
+Hospitals
+:People
+Apprentices
+Physicians
+Sick persons
+Students
+:Things
+Documents
+Medicines
+
+A police standoff or gunfight with a surrounded criminal
+:Events
+Deals
+Escapes
+Gunfights
+Police shootings
+Prisoner exchanges
+Sharpshooting
+Surrenders
+:People
+Criminals
+Police
+Prisoners
+:Things
+Firearms
+Megaphones
+
+A military officer enlisting or registering men for service
+:Events
+Draft
+Recruiting & enlistment
+War rallies
+:Places
+Schools
+:People
+Conscientious objectors
+Draft resisters
+Men
+Military officers
+Soldiers
+:Misc
+Military organizations
+Military service
+Patriotism
+
+Working as a bicycle messenger in a big city
+:Events
+Cycling
+Traffic congestion
+:Places
+Office buildings
+Streets
+:People
+Delivery boys
+Letter carriers
+Messengers
+:Things
+Bicycles & tricycles
+Boxes
+Correspondence
+Helmets
+:Misc
+Traffic accidents
+Traffic regulations
+
+Doing research in a library
+:Events
+Reading
+Searching
+Whispering
+:Places
+Archives
+Libraries
+Reading rooms
+:People
+Librarians
+Scholars
+Students
+Teachers
+:Things
+Books
+Encyclopedias & dictionaries
+Microfiches
+Microfilms
+Periodicals
+
+Using a microwave oven
+:Events
+Cookery
+Ionizing radiation
+:Places
+Kitchens
+:People
+Bachelors
+Working mothers
+:Things
+Coffee
+Food
+Microwave ovens
+Plastics
+Porcelain
+:Misc
+Metals
+
+Writing a person's memoirs in their old age
+:Events
+Confession
+Reminiscing
+Writing
+:People
+Aged persons
+Celebrities
+:Things
+Writing materials
+:Misc
+Events
+History
+Human life cycle
+Middle age
+Wisdom
+Youth
+
+Eating in a military mess hall
+:Events
+Bread & soup lines
+Military cookery
+:Places
+Mess halls
+Military camps
+:People
+Military personnel
+:Things
+Potatoes
+Tableware
+Tin cups
+Trays
+Vats
+:Misc
+Standardization
+
+A strategic air strike of military targets
+:Events
+Aerial bombings
+Air operations
+Explosions
+War
+:Places
+Armories
+Magazines (Military buildings)
+Military depots
+Military facilities
+Runways (Aeronautics)
+:People
+Military air pilots
+:Things
+Aerial photographs
+Bombers
+Bombs
+Rockets
+War damage
+:Misc
+Military intelligence
+
+Going to a military school for a military education
+:Events
+Military education
+Military training
+School discipline
+:People
+Cadets
+Military personnel
+:Things
+Military uniforms
+:Misc
+Military art & science
+Military tactics
+Teaching methods
+
+Military reconnaissance of an enemy territories
+:Events
+Military reconnaissance
+Searching
+Spying
+War
+:Places
+Boundaries
+:People
+Military air pilots
+Military scouts
+:Things
+Aerial photographs
+Artificial satellites
+Fighter planes
+Radar
+:Misc
+Military intelligence
+
+Test firing conventional or nuclear weapons
+:Events
+Explosions
+Nuclear weapons testing
+Ordnance testing
+:Places
+Caves
+Deserts
+Military reservations
+:People
+Military personnel
+Scientists
+:Things
+Bombs
+Mushroom clouds
+Nuclear weapons
+Rockets
+:Misc
+Ordnance industry
+
+Military boot camp training of new recruits
+:Events
+Calisthenics
+Marching
+Military maneuvers
+Military training
+Perspiration
+Running
+War games
+:Places
+Drill halls
+Military camps
+:People
+Cadets
+:Things
+Rifles
+:Misc
+Hairstyles
+Physical fitness
+Standardization
+
+Being a war prisoner in enemy territory
+:Events
+Punishment & torture
+Questioning
+Starvation
+War
+:Places
+Dungeons
+Military camps
+:People
+Missing in action
+Prisoners of war
+Soldiers
+:Things
+Punishment devices
+:Misc
+War prisoners' organizations
+
+A violent protest or riot by civilians
+:Events
+Demonstrations
+Protest movements
+Riot control
+Riots
+Shouting
+Vandalism
+:Places
+Business districts
+Capitols
+:People
+Dissenters
+Police
+Revolutionaries
+:Things
+Molotov cocktails
+Nightsticks
+Rocks
+Tear gas
+:Misc
+Opposition (Political science)
+
+Traveling through a jungle
+:Events
+Hiking
+:Places
+Trails & paths
+Tropical forests
+Wetlands
+:People
+Explorers
+Guides & scouts
+Indigenous peoples
+Missionaries
+:Things
+Boots
+Mosquitos
+Snakes
+Vines
+:Misc
+Malaria
+Nature
+
+Renting a movie to watch at home
+:Events
+Leisure
+Televisions
+:Places
+Lease & rental services
+:Things
+Boxes
+Membership cards
+Motion picture posters
+Motion pictures
+:Misc
+Motion picture industry
+
+A government motorcade going through city streets
+:Events
+Motorcades
+Traffic congestion
+:Places
+Government facilities
+Streets
+:People
+Government officials
+Secret service
+Traffic police
+:Things
+Barricades
+Limousines
+
+Riding in a motorcycle gang
+:Events
+Noise pollution
+:Places
+Leather goods stores
+Roads
+:People
+Gangs
+:Things
+Beards
+Boots
+Motorcycles
+Whiskey
+:Misc
+Leather industry
+
+Taking a private music lesson from a music teacher
+:Events
+Children playing musical instruments
+Music
+Music education
+:Places
+Music rooms
+:People
+Apprentices
+Musicians
+Students
+Teachers
+:Things
+Music stands
+Musical instruments
+Musical notation
+:Misc
+Teaching methods
+
+Going to a musical instrument store
+:Events
+Children playing musical instruments
+Noise pollution
+:Places
+Music stores
+:People
+Musicians
+:Things
+High-fidelity sound systems
+Music
+Musical instrument cases
+Musical instruments
+Musical notation
+Public address systems
+:Misc
+Music publishing industry
+Musical instrument industry
+
+Going to an outdoor music festival
+:Events
+Concerts
+Music festivals
+Outdoor cookery
+Picnics
+:Places
+Bandstands
+Open-air theaters
+Parks
+Pedestrian malls
+:People
+Crowds
+Food vendors
+Music ensembles
+:Things
+Blankets
+Outdoor furniture
+Refuse
+Vending stands
+
+Exploring for new lands on a sailing ship
+:Events
+Discovery & exploration
+Map making
+Navigation
+Ocean travel
+Starvation
+Voyages around the world
+:Places
+Islands
+Sailing ships
+Seas
+Waterfronts
+:People
+Explorers
+Sailors
+Shellbacks
+Ship captains
+:Things
+Limes
+Maps
+:Misc
+Mutinies
+
+A presidential inauguration
+:Events
+Hand clapping
+National songs
+Oaths
+Presidential inaugurations
+Public speaking
+:Places
+Capitols
+:People
+Legislators
+Legislators' spouses
+Presidents
+Presidents' spouses
+Supreme Court justices
+Vice presidents
+:Things
+Music ensembles
+:Misc
+Presidential elections
+Presidential terms of office
+
+Disaster relief and assistance efforts
+:Events
+Clothing relief
+Disaster relief
+Disasters
+Emergency medical services
+Food relief
+Natural disasters
+:Places
+Emergency housing
+Relief ships
+Ruins
+:People
+Disaster victims
+Governors
+Reporters
+:Things
+Insurance
+:Misc
+Insurance companies
+
+A naval battle between two warring countries
+:Events
+Aerial bombings
+Air warfare
+Campaigns & battles
+Explosions
+Naval warfare
+Scuttling of warships
+Submarine warfare
+:Places
+Naval yards & naval stations
+Seas
+:People
+Fighter pilots
+Navies
+:Things
+Fighter planes
+Gun turrets
+Lifeboats
+Submarines
+Torpedoes
+Warships
+
+Newspaper trucks making morning deliveries
+:Events
+Sunrises & sunsets
+:Places
+Bookstores
+Business districts
+Commercial streets
+Kiosks
+Neighborhoods
+Newspaper carriers
+Residential streets
+:People
+Newspaper vendors
+:Things
+Newspapers
+Trucks
+Vending machines
+:Misc
+Newspaper industry
+
+Managing a nuclear power plant
+:Events
+Nuclear power
+Radioactivity
+:Places
+Nuclear power plants
+Nuclear submarines
+:People
+Engineers
+Physicists
+:Things
+Boilers
+Radioactive wastes
+Steam engines
+Water pumps
+:Misc
+Heat
+
+Conducting an underwater scientific investigation
+:Events
+Experiments
+Oceanography
+Underwater photography
+:Places
+Boats
+Seas
+:People
+Scientists
+:Things
+Aquatic animals
+Diving suits
+Oxygen masks
+Underwater photographs
+:Misc
+Natural phenomena
+
+Working as a businessman in an office for a corporation
+:Places
+Business enterprises
+Office buildings
+Offices
+:People
+Businessmen
+Office workers
+:Things
+Documents
+Neckties
+Office equipment & supplies
+Office furniture
+Paperwork
+Telephones
+Writing materials
+
+Drilling for oil at an oil field
+:Events
+Boring
+:Places
+Deserts
+Plains
+Prairies
+:Things
+Barrels
+Drilling & boring machinery
+Oil wells
+Storage tanks
+:Misc
+Petroleum industry
+Petroleum leases
+
+Going to an olympic summer games competition
+:Events
+Gymnastics
+International competition
+Track athletics
+:Places
+Athletic fields
+Gymnasiums
+Stadiums
+:People
+Americans in foreign countries
+Athletes
+:Things
+Olympic flame
+:Misc
+Summer
+World records
+
+Going to an open-air theatrical production
+:Events
+Bowing
+Open-air theatrical productions
+Pageants
+:Places
+Open-air theaters
+:People
+Actors
+Actresses
+Children performing in theatrical productions
+Theater audiences
+Theatrical producers & directors
+:Things
+Costumes
+Electric generators
+Public address systems
+Stage lighting
+Tickets
+
+Going to an opera performance
+:Events
+Hand clapping
+Operas & operettas
+Singing
+Whispering
+:Places
+Lobbies
+Opera houses
+Stages (Platforms)
+Ticket offices
+:People
+Audiences
+Opera singers
+Socialites
+Upper class
+:Things
+Binoculars
+Costumes
+Hand lenses
+Orchestras
+Stage lighting
+Stage props
+Tickets
+Tuxedoes
+:Misc
+Obesity
+
+Hand-picking fruit in an orchard by consumers
+:Events
+Foraging
+Harvesting
+:Places
+Farms
+Orchards
+:People
+Consumers
+:Things
+Baskets
+Fruit
+Ladders
+Trees
+:Misc
+Fruit industry
+
+Working as a street musician
+:Events
+Performances
+Songs
+:Places
+Commercial streets
+Subway stations
+:People
+Organ grinders
+Street musicians
+:Things
+Coins
+Monkeys
+Musical instrument cases
+Musical instruments
+Tin cups
+
+Diving for shellfish at the seashore
+:Events
+Foraging
+Oystering
+Pearl fishing
+Skin diving
+:Places
+Seas
+Waterfronts
+:Things
+Aquatic animals
+Bags
+Knives
+Shellfish
+
+Waiting in a hospital waiting room during a surgery
+:Events
+Crying
+Pacing
+Prayer
+:Places
+Hospitals
+Waiting rooms
+:People
+Families
+:Misc
+Anxiety
+Surgery
+Worry
+
+An actor performing a pantomime 
+:Events
+Mumming
+Pantomimes
+Silence
+:Places
+Commercial streets
+:People
+Actors
+Actresses
+:Things
+Cosmetics & soap
+Tin cups
+
+Putting your car in a commercial parking garage
+:Events
+Automobile driving
+Parking
+:Places
+One-way streets
+Parking garages
+Parking lots
+:Things
+Automobiles
+Gates
+Inclined planes
+
+A car thief stealing a parked vehicle
+:Events
+Robberies
+:Places
+Parking garages
+Parking lots
+:People
+Criminals
+Victims
+:Things
+Automobiles
+Keyholes
+Locks (Hardware)
+Security systems
+Wire
+
+Going to a pawnshop to hock some valuable items
+:Events
+Secondhand sales
+Usury
+:Places
+Pawnshops
+:People
+Poor persons
+:Things
+Clocks & watches
+High-fidelity sound systems
+Jewelry
+Musical instruments
+:Misc
+Debt
+Poverty
+
+Children making a meal in the kitchen
+:Events
+Children cooking
+Children playing adults
+:Places
+Kitchens
+:Things
+Bread
+Ladders
+Peanut butter
+Preserves
+Sandwiches
+:Misc
+Fires
+Working mothers
+
+Peasants rebelling against the aristocracy
+:Events
+Fires
+Peasant rebellions
+Shouting
+Starvation
+:People
+Crowds
+Peasants
+Poor persons
+Rebels
+Revolutionaries
+Rulers
+Upper class
+:Things
+Pitchforks
+Torches
+
+Trains making connections in railroad yards
+:Events
+Railroad switching
+Shipping
+:Places
+Railroad roundhouses
+Railroad shops & yards
+:People
+Railroad employees
+:Things
+Loading docks
+Pedestrian bridges
+Railroad freight cars
+Railroad locomotives
+Railroad signal towers
+Railroad signals
+Railroad tracks
+Railroads
+
+Going on an arctic expedition
+:Events
+Blizzards
+Dogsledding
+Expeditions & surveys
+:Places
+Glaciers
+Icebergs
+:People
+Explorers
+Guides & scouts
+:Things
+Dog teams
+Expedition photographs
+Flags
+Fur coats
+Ice-breaking vessels
+Penguins
+Polar bears
+Seals (Animals)
+Sleds & sleighs
+:Misc
+Cold
+
+Signing an important contract for goods or services
+:Events
+Autographing
+Deals
+Document signings
+:Places
+Law offices
+:People
+Businessmen
+Lawyers
+:Things
+Contracts
+Initials
+Pens
+
+The life-cycle of a person
+:Events
+Births
+Death
+Education
+Marriage
+Occupations
+:Places
+Birthplaces
+Dwellings
+:People
+Families
+People
+:Misc
+Human life cycle
+
+Working on a submarine
+:Events
+Navigation
+Radar
+:Places
+Seas
+Submarines
+:People
+Ship captains
+:Things
+Mines (Warfare)
+Paravanes
+Periscopes
+Torpedo boats
+Torpedoes
+:Misc
+Submarine warfare
+
+Working as an exterminator
+:Events
+Crawling & creeping
+Pest control
+Ratcatching
+:Places
+Kitchens
+:People
+Ratcatchers
+:Things
+Cans
+Flypaper
+Insects
+Lanterns
+Mousetraps
+Poisons
+Rodents
+
+Canvassing a neighborhood to collect petition signatures
+:Events
+Canvassing
+Document signings
+Knocking
+:Places
+Doors & doorways
+Neighborhoods
+:People
+Activists
+Neighbors
+:Things
+Pens
+Petitions
+:Misc
+Ballots
+Political issues
+Public opinion
+Solidarity
+
+Drilling for oil at an offshore oil rig
+:Events
+Underwater drilling
+:Places
+Seas
+:Things
+Barrels
+Beacons
+Buoys
+Drilling & boring machinery
+Oil wells
+Pipelines
+Storage tanks
+Tankers
+:Misc
+Petroleum industry
+Water pollution
+
+Having your film developed at a photography store
+:Places
+Photography stores
+:People
+Photographers
+Sightseers
+Tourists
+:Things
+Chemicals
+Negatives
+Photographic apparatus & supplies
+Photographic prints
+Photographs
+Portable darkrooms
+:Misc
+Photography industry
+
+A witness describing a suspect to a police sketch artist
+:Events
+Criminal investigations
+Drawing
+:Places
+Police stations
+:People
+Artists
+Victims
+:Things
+Drawings
+Sketchbooks
+Sketches
+:Misc
+Faces
+Physical characteristics
+
+Going to a physical therapy session at a clinic
+:Events
+Human locomotion
+Massage
+Pain
+Physical therapy
+:Places
+Clinics
+:People
+Health care personnel
+:Things
+Human body
+Orthopedic braces
+Wheelchairs
+
+A pickpocket stealing from someone on a city street
+:Events
+Robberies
+:Places
+Business districts
+Commercial streets
+Pedestrian malls
+Sidewalks
+:People
+Crowds
+Pedestrians
+Pickpockets
+:Things
+Clocks & watches
+Credit cards
+Purses
+:Misc
+Surprise
+
+Playing games in a penny arcade or video arcade
+:Events
+Children playing
+Games
+:Places
+Penny arcades
+:Things
+Coin operated machines
+Coins
+Computer graphics
+Electronic music
+Pinball machines
+Sounds
+
+Children working a lemonade stand
+:Events
+Child labor
+:Places
+Neighborhoods
+Residential streets
+:People
+Child laborers
+:Things
+Beverages
+Drinking vessels
+Lemons
+Pitchers
+Sugar
+Vending stands
+:Misc
+Age & employment
+Children & money
+
+Working as a pizza delivery person
+:Events
+Automobile driving
+Knocking
+:Places
+Doors & doorways
+Neighborhoods
+Residential streets
+Restaurants
+:People
+Delivery boys
+Restaurant workers
+:Things
+Maps
+Pizza
+
+A space probe examining a planet
+:Events
+Experiments
+Interplanetary voyages
+Investigation
+Space flight
+:Places
+Planets
+:Things
+Artificial satellites
+Computers
+Robots
+Rockets
+Rocks
+Space photographs
+
+Having a card game with friends at home
+:Events
+Card games
+Gambling
+Smoking
+:Places
+Recreation rooms
+:Things
+Beverages
+Cigars
+Money
+Playing cards
+Tables
+:Misc
+Credit
+Friendship
+
+Working as a plumber to fix pipes
+:Events
+Maintenance & repair
+:Places
+Basements
+Bathrooms
+Plumbing stores
+:Things
+Metalwork
+Pipes
+Plumbing fixtures
+Plumbing systems
+Wrenches
+:Misc
+Plumbing industry
+
+Getting drive-through service at a bank
+:Events
+Banking
+:Places
+Banks
+:People
+Bankers
+:Things
+Automobiles
+Intercommunication systems
+Money
+Pneumatic tubes
+
+Writing a poem
+:Events
+Creation
+Plays on words
+Poetry
+Writing
+:People
+Poets
+:Things
+Encyclopedias & dictionaries
+Writing materials
+:Misc
+Grammar
+Mental states
+Nursery rhymes
+
+Playing in a polo match
+:Events
+Horseback riding
+Polo
+:Places
+Athletic fields
+:People
+Athletes
+:Things
+Balls (Sporting goods)
+Boots
+Chisels & mallets
+Horses
+Saddles
+
+Transporting mail via the pony express
+:Events
+Frontier & pioneer life
+Pony express
+:Places
+Post offices
+:People
+Postal service employees
+:Things
+Correspondence
+Horses
+Stagecoaches
+:Misc
+Telegraph
+
+Sitting on a rocking chair on a porch smoking a pipe
+:Events
+Frontier & pioneer life
+Leisure
+Retirements
+Smoking
+:Places
+Porches
+:People
+Aged persons
+Pioneers
+:Things
+Rocking chairs
+Tobacco pipes
+
+Roasting a pig over a fire pit
+:Events
+Barbecues
+Celebrations
+Outdoor cookery
+:Places
+Farms
+:Things
+Apples
+Charcoal
+Fire
+Pork
+Smoke
+Swine
+
+Going to a photo studio for a portrait photograph
+:Events
+Lighting
+Photography
+Posing
+Smiling
+:Places
+Photographic studios
+:People
+Photographers
+:Things
+Cameras
+Photographic apparatus & supplies
+Portrait photographs
+Portrait prints
+Portraits
+Studio props
+:Misc
+Photography industry
+
+Working with a stamp collection
+:Events
+Recreation
+:People
+Collectors
+Hobbyists
+:Things
+Albums
+Envelopes
+Hand lenses
+Postage stamps
+:Misc
+History
+Postal service rates
+
+Stockbrokers trading at a stock exchange
+:Events
+Auctions
+Forecasting
+Gambling
+Raising hands
+Shouting
+:Places
+Stock exchanges
+Stock market
+:People
+Stockbrokers
+:Things
+Bells
+Computers
+Price lists
+Prices
+Refuse
+Stock certificates
+Telephones
+Ticker tape
+:Misc
+Business enterprises
+Saving & investment
+
+Working as a printer
+:Events
+Printing
+Typesetting
+:People
+Printers
+:Things
+Alphabets (Writing systems)
+Books
+Letterpress works
+Periodicals
+Printing blocks
+Printing plates
+Printing presses
+:Misc
+Printers' unions
+Printing industry
+
+An artist making artistic prints
+:Events
+Printmaking
+:Places
+Artists' studios
+:People
+Artists
+:Things
+Colors
+Printmaking equipment
+Prints
+Woodcuts
+
+Working in prison as a prison laborer
+:Events
+Assembly-line methods
+Forced labor
+:Places
+Prisons
+:People
+Prison laborers
+:Things
+License plates
+Products
+:Misc
+Free trade & protection
+Prison reform
+Wage-price policy
+
+A riot in a prison
+:Events
+Prison riots
+Riot control
+Violence
+:Places
+Prisons
+:People
+Guards
+Prisoners
+:Misc
+Civil rights
+Prison reform
+
+Writing a personal letter to a friend or family member
+:Events
+Writing
+:Things
+Correspondence
+Envelopes
+Greeting cards
+Mailboxes
+Postage stamps
+Postcards
+Proofs before letters
+Seals
+Writing materials
+:Misc
+Interpersonal relations
+
+Visiting a wise man on a mountain top
+:Events
+Meditation
+Philosophy
+Pilgrimages
+Questioning
+Thinking
+:Places
+Mountains
+Shrines
+:People
+Philosophers
+Spiritual leaders
+:Misc
+Proverbs
+Wisdom
+
+A couple going to see a marriage councilor
+:Events
+Blaming
+Confrontations
+Quarreling
+Therapy
+:Places
+Conference rooms
+:People
+Social workers
+Spouses
+:Things
+Pointing fingers
+:Misc
+Anger
+Interpersonal relations
+Marriage
+
+Producing a talk-radio program
+:Events
+Advertisements
+Discussion
+Public affairs radio programs
+Radio broadcasting
+:Places
+Radio stations
+:People
+Guests
+Pundits
+:Things
+Radios
+Telephone switchboards
+:Misc
+Radio industry
+
+Playing a game of tug of war
+:Events
+Falling
+Pulling
+Tug of war
+:People
+Strong men
+:Things
+Mud
+Ropes
+:Misc
+Competition (Psychology)
+Cooperation
+
+Going to a puppet show
+:Events
+Laughter
+Puppet shows
+Ventriloquism
+:Places
+Theaters
+:People
+Actors
+Actresses
+Children
+:Things
+Puppets
+:Misc
+Fantasy
+
+Working as a ventriloquist
+:Events
+Joking
+Laughter
+Musical revues & comedies
+Ventriloquism
+:Places
+Nightclubs
+:People
+Comedians
+:Things
+Drinking vessels
+Hands
+Puppets
+
+An outbreak of the plague in a city
+:Events
+Mass burials
+Plague
+Preventive medicine
+Quarantines
+:People
+Sick persons
+:Things
+Fire
+Masks
+Rats
+:Misc
+Population control
+
+Sewing and quilting as a hobby
+:Events
+Leisure
+Quilting
+Quilting bees
+Sewing
+:People
+Hobbyists
+Housewives
+:Things
+Pattern books
+Pins & needles
+Quilts
+Sewing equipment & supplies
+Sewing machines
+Thread
+
+A jewish religious ceremony in a synagogue
+:Events
+Prayer
+Religious services
+Sabbaths
+:Places
+Synagogues
+Tabernacles
+:People
+Rabbis
+Talmudists
+:Things
+Bibles
+Pews
+:Misc
+Religion
+Religious calendars
+Zionism
+
+Going to a rowing regatta
+:Events
+Rowing
+Rowing races
+Shouting
+Team rowing
+:Places
+Lakes & ponds
+Rivers
+:People
+Rowers
+:Things
+Boathouses
+Racing shells
+
+Going on a whitewater rafting trip
+:Events
+Floating
+Portages
+Rafting (Sports)
+Shooting rapids
+:Places
+Rapids
+Streams
+Valleys
+Waterfalls
+:People
+Guides & scouts
+:Things
+Helmets
+Life preservers
+Rafts
+Rocks
+
+A railroad collision or derailment
+:Events
+Railroad accidents
+Railroad switching
+Traffic accidents
+:Places
+Railroad crossings
+Railroad signal towers
+:People
+Pedestrians
+:Things
+Automobiles
+Livestock
+Railroad signals
+Railroad tracks
+Railroads
+:Misc
+Railroad construction & maintenance
+
+Santa Claus coming down the chimney to deliver gifts
+:Places
+Chimneys
+Roofs
+:People
+Fictitious characters
+:Things
+Christmas stockings
+Christmas trees
+Gifts
+Reindeer
+Sleds & sleighs
+Toys
+:Misc
+Holidays
+Letters to Santa Claus
+Night
+
+Remodeling the interior of a building
+:Events
+Interior decoration
+Remodeling
+:Places
+Interiors
+:People
+Architects
+Construction workers
+Designers
+:Things
+Blueprints
+Design drawings
+Floor coverings
+Light fixtures
+Plumbing fixtures
+:Misc
+Then & now comparisons
+
+Riding in a rickshaw in an oriental city
+:Events
+Pulling
+Running
+Transportation
+:Places
+Commercial streets
+:People
+Americans in foreign countries
+Coach drivers
+Crowds
+Passengers
+:Things
+Rickshaws
+
+Working in a high technology research lab
+:Events
+Engineering
+Science
+:Places
+Research facilities
+:People
+Engineers
+Scholars
+Scientists
+:Things
+Computers
+Electrical systems drawings
+Gadgets
+Robots
+Scientific equipment
+:Misc
+Technocracy
+
+Riding on a roller coaster
+:Events
+Queues
+Raising hands
+Shouting
+:Places
+Amusement parks
+:People
+Passengers
+Teenagers
+Young adults
+:Things
+Karts (Midget cars)
+Roller coasters
+:Misc
+Cowardice
+Fear
+
+Running for exercise or recreation
+:Events
+Perspiration
+Running
+:Places
+Parks
+Sidewalks
+Trails & paths
+:People
+Pedestrians
+Runners (Sports)
+:Things
+Radios
+Shoes
+:Misc
+Physical fitness
+
+Sacrificing a person or an animal to the gods
+:Events
+Rites & ceremonies
+Sacrifices
+:Places
+Temples
+Volcanoes
+:People
+Captives
+Ceremonial dancers
+Girls
+Indigenous peoples
+Spiritual leaders
+Tribal chiefs
+:Things
+Blood
+Cattle
+Knives
+Sheep
+:Misc
+Gods
+
+Caring for horses in a stable
+:Events
+Animal grooming
+Saddlery
+:Places
+Horse farms
+Horse herding
+Stables
+:People
+Upper class
+:Things
+Brooms & brushes
+Horses
+Horseshoes
+Pitchforks
+Saddles
+
+Putting valuables in a safe-deposit box
+:Places
+Banks
+:People
+Bankers
+Guards
+:Things
+Bonds (Financial records)
+Certificates
+Documents
+Jewelry
+Keyholes
+Keys (Hardware)
+Locks (Hardware)
+Safe-deposit boxes
+Wills
+:Misc
+Fire-resistive construction
+
+A salvage operation for a sunken ship
+:Events
+Marine accidents
+Salvage
+Shipwrecks
+Vehicle maintenance & repair
+:Places
+Seas
+:People
+Sailors
+:Things
+Hoisting machinery
+Pumps
+Ropes
+Ship equipment & rigging
+Vessels
+
+Checking into a sanatorium to treat an illness
+:Events
+Health care
+:Places
+Hospital wards
+Sanatoriums
+:People
+Health care personnel
+Sick persons
+:Misc
+Alcoholism
+Despair
+Diseases
+Drug abuse
+Tuberculosis
+
+Going to the fishmarket
+:Events
+Food adulteration & inspection
+Packaging
+:Places
+Seafood stores
+:People
+Fishermen
+:Things
+Aquariums
+Fish
+Freezers
+Ice
+Knives
+Scales
+Shellfish
+Shells
+Showcases
+
+Working as a domestic servant
+:Events
+Automobile driving
+Cleaning
+Cookery
+Home economics
+Housework
+Laundry
+:Places
+Servants' quarters
+:People
+Chauffeurs
+Cooks
+Servants
+Upper class
+Women domestics
+
+Sexual harassment in the workplace
+:Events
+Leering
+Lust
+Sexism
+Sexual harassment
+Swearing
+Winking
+:Places
+Commercial facilities
+:People
+Employees
+Women
+:Things
+Buttocks
+Hands
+:Misc
+Relations between the sexes
+
+Going surfing in the ocean
+:Events
+Surfing
+Swimming
+:Places
+Beaches
+Oceans
+:People
+Swimmers
+:Things
+Diving suits
+Jellyfishes
+Rocks
+Sharks
+:Misc
+Tidal waves
+
+A shotgun wedding ceremony
+:Events
+Marriage
+Shotgun weddings
+Threats
+:Places
+Courthouses
+:People
+Brides
+Fathers & children
+Grooms (Weddings)
+Judges
+Pregnant women
+:Things
+Rifles
+
+Working in a slaughter house
+:Events
+Meat cutting
+Slaughtering
+:Places
+Stockyards
+:People
+Laborers
+:Things
+Blood
+Dead animals
+Freezers
+Hides & skins
+Livestock
+Meat
+:Misc
+Kosher food industry
+Meat industry
+
+Working as a slave on a southern plantation
+:Events
+Blues music
+Slavery
+Whipping
+:Places
+Plantations
+Slave quarters
+:People
+Afro-Americans
+Plantation owners
+Slaves
+:Things
+Whips
+:Misc
+Abolition movement
+Slave trade
+
+A snake charmer playing a flute
+:Events
+Dance
+Snake charming
+:Places
+Commercial streets
+:People
+Street entertainers
+:Things
+Baskets
+Flutes
+Snake venom
+Snakes
+
+Being bitten by a poisonous snake
+:Events
+Animal attacks
+Dizziness
+:Places
+Deserts
+Forests
+Tropical forests
+:People
+Sick persons
+:Things
+Bites & stings
+Legs
+Medicines
+Snake venom
+Snakes
+Teeth
+:Misc
+Fear
+
+Shoveling snow in the winter
+:Events
+Lifting & carrying
+Snow removal
+:Places
+Driveways
+Sidewalks
+:Things
+Back (Anatomy)
+Shovels
+Snow
+:Misc
+Winter
+
+Going to a soccer game
+:Events
+Cheering
+Hugging
+Kicking
+Riots
+Running
+Soccer
+Violence
+:Places
+Athletic fields
+Stadiums
+:People
+Referees
+:Things
+Balls (Sporting goods)
+Flags
+Nets
+:Misc
+Riot control
+
+Asking someone out on a date
+:Events
+Conversation
+Courtship
+Romances
+:People
+Couples
+:Things
+Schedules (Time plans)
+Telephones
+:Misc
+Anxiety
+Friendship
+Love
+Relations between the sexes
+Social life
+
+Working with a speech therapist
+:Events
+Sounds
+Speech therapy
+:Places
+Clinics
+:People
+Mentally ill persons
+Social workers
+:Things
+Mouths
+Tongues
+:Misc
+Birth defects
+Communication
+Voice disorders
+
+Making yarn or string with a spinning wheel
+:Events
+Spinning
+:People
+Laborers
+:Things
+Fibers
+Spinning apparatus
+Spinning machinery
+Wheels
+Yarn
+:Misc
+Clothing industry
+Knitting
+Textile industry
+
+Working as a referee at a sporting event
+:Events
+Coaching (Athletics)
+Raising hands
+Signals & signaling
+Sports
+Sports officiating
+Surveillance
+Whistling
+:Places
+Sports & recreation facilities
+:People
+Athletes
+Referees
+Sports spectators
+:Things
+Eyes
+
+Traveling in a stagecoach between cities
+:Events
+Travel
+:Places
+Cities & towns
+Roads
+:People
+Coach drivers
+Passengers
+:Things
+Horse teams
+Horses
+Luggage
+Stagecoaches
+
+Crossing a river or stream along a trail
+:Events
+Sliding
+Wading
+:Places
+Fords (Stream crossings)
+Streams
+Trails & paths
+:Things
+Shoes
+Stepping stones
+:Misc
+Clumsiness
+
+Making alcohol using a still
+:Things
+Alcoholic beverages
+Fire
+Gin
+Pipes
+Stills (Distilleries)
+Sugar
+Vats
+Whiskey
+:Misc
+Distilling industries
+Prohibition
+
+Talking to a financial planner
+:Events
+Forecasting
+:People
+Capitalists & financiers
+Stockbrokers
+:Things
+Pensions
+Social security
+Wages
+:Misc
+Money
+Retirements
+Saving & investment
+Wealth
+
+Operations at a water pumping and purifying station
+:Events
+Civil engineering
+Civil service
+:Places
+Pumping stations
+Reservoirs
+Sewers
+Waste disposal facilities
+Waterworks
+:Things
+Bacteria
+Chemicals
+Microorganisms
+Pumps
+Storage tanks
+Streams
+Water tanks
+Water towers
+:Misc
+Sanitation
+Water pollution
+
+Window shopping in a shopping district
+:Events
+Shopping
+:Places
+Business districts
+Sidewalks
+Storefronts
+Stores & shops
+:People
+Sales personnel
+:Things
+Mannequins
+Show windows
+Window displays
+
+A sumo wrestling competition
+:Events
+Martial arts
+Sumo
+:Places
+Gymnasiums
+:People
+Referees
+Sumo wrestlers
+:Misc
+Obesity
+
+Going to a tanning salon
+:Events
+Sunbathing
+Sunburns
+Tanning
+:Places
+Beauty shops
+Sunspaces
+:People
+Nudes
+:Things
+Eye patches
+Lamps
+Stickers
+:Misc
+Heat
+Winter
+
+Getting a tattoo in a tattoo parlor
+:Places
+Tattoo parlors
+:People
+Artists
+Gangs
+:Things
+Arms (Anatomy)
+Colors
+Hearts
+Names
+Symbols
+Tattoos
+
+Having a dinner party with friends
+:Events
+Celebrations
+Conversation
+Eating & drinking
+Parties
+Toasting
+:Places
+Dining rooms
+:People
+Guests
+:Things
+Dining tables
+Food
+Table settings & decorations
+Tableware
+Wine
+:Misc
+Friendship
+
+Competing or practicing for an archery competition
+:Events
+Archery
+Pulling
+Thinking
+Tournaments
+Winds
+:Things
+Arrows
+Bows (Archery)
+Targets (Sports)
+
+Having a romantic stay at a bed & breakfast
+:Events
+Country life
+Honeymoons
+Romances
+Vacations
+:Places
+Breakfast rooms
+Lodging houses
+Suites
+Taverns (Inns)
+:People
+Couples
+Hotel employees
+:Things
+Fireplaces
+
+Taking a city taxicab
+:Events
+Eavesdropping
+Raising hands
+Whistling
+:Places
+Airports
+Hotels
+Streets
+:People
+Aliens
+Passengers
+Taxicab drivers
+:Things
+Luggage
+Radiophones
+Taxicabs
+
+Working as a taxidermist
+:Events
+Modeling (Sculpture)
+Plasterwork
+Sewing
+Taxidermy
+:Places
+Hunting & fishing clubs
+:Things
+Airbrush works
+Dead animals
+Deer
+Fish
+Hides & skins
+Hunting trophies
+Pins & needles
+Thread
+:Misc
+Fishing
+Hunting
+
+A japanese tea ceremony
+:Events
+Entertaining
+Tea ceremonies
+:Places
+Alcoves
+Teahouses
+:Things
+Fireplaces
+Flowers
+Kettles
+Scrolls
+Tea
+Teapots
+:Misc
+Buddhism
+
+Using a computer for Internet access
+:Events
+Conversation
+Discussion
+International communication
+:Things
+Computer graphics
+Computers
+Correspondence
+Telephone lines
+:Misc
+Technocracy
+Telecommunications industry
+
+Communicating via telegraph devices
+:Events
+Electricity
+:Places
+Telegraph offices
+:People
+Reporters
+:Things
+Telecommunication cables
+Telegrams
+Telegraph
+Telegraph lines
+Teletypewriters
+Ticker tape
+Utility poles
+:Misc
+Newspaper industry
+Telegraph industry
+
+Working as a superhero
+:Events
+Disasters
+Levitation
+Power (Social sciences)
+Rescue work
+:Places
+Telephone booths
+:People
+Criminals
+Strong men
+Superheroes
+Victims
+Villains
+:Things
+Costumes
+Gadgets
+Masks
+
+Playing a game of tennis
+:Events
+Chasing
+Children playing tennis
+Running
+Silence
+Tennis
+:Places
+Parks
+Tennis courts
+:People
+Referees
+Sports spectators
+Tennis players
+:Things
+Balls (Sporting goods)
+Nets
+
+Going to a spa for therapeutic baths
+:Events
+Bathing
+Massage
+Physical therapy
+Wading
+:Places
+Health resorts
+Therapeutic baths
+:People
+Aged persons
+Masseurs
+:Things
+Mineral waters
+Springs
+Towels
+:Misc
+Heat
+
+Pioneers going to a trading post
+:Events
+Barter
+Frontier & pioneer life
+Fur trade
+Selling
+:Places
+Trading posts
+:People
+Indians of North America
+Pioneers
+:Things
+Equipment
+Hides & skins
+
+Going to see a travel agent
+:Events
+Travel
+:Places
+Ticket offices
+Visitors' centers
+:People
+Tourists
+:Things
+Maps
+Schedules (Time plans)
+Tickets
+Travel posters
+:Misc
+Tourist trade
+Transportation
+
+Living as a vampire
+:Events
+Reflections
+:Places
+Castles & palaces
+:People
+Vampires
+Victims
+:Things
+Bats
+Blood
+Capes (Outerwear)
+Coffins
+Crosses
+Garlic
+Mirrors
+Wolves
+:Misc
+Longevity
+Night
+
+A vaudeville show
+:Events
+Vaudeville shows
+:Places
+Beer halls
+Theaters
+:People
+Acrobats
+Comedians
+Dancers
+Magicians
+Pantomimes
+Singers
+Theater audiences
+:Things
+Stages (Platforms)
+Trained animals
+
+Working in a veterans hospital
+:Events
+Health care
+:Places
+Military hospitals
+:People
+Disabled veterans
+Medical personnel
+Veterans
+:Misc
+Medical aspects of war
+Veterans' benefits
+Veterans' organizations
+Veterans' rights
+
+Working as a veterinarian
+:Events
+Animal treatment
+Veterinary medicine
+:Places
+Veterinary hospitals
+:People
+Physicians
+:Things
+Animal attacks
+Animals
+Dead animals
+Pets
+Veterinary drugs
+
+A volcanic eruption
+:Events
+Ash disposal
+Fires
+Sounds
+Volcanic eruptions
+:Places
+Mountains
+Volcanoes
+:Things
+Smoke
+Volcanic rock
+:Misc
+Heat
+
+Pirates executing someone by making them walk the plank
+:Events
+Falling
+Mutinies
+Walking the plank
+:Places
+Oceans
+Sailing ships
+:People
+Pirates
+Ship captains
+:Things
+Lumber
+Physical restraints
+Ropes
+Sharks
+
+War crime trials after the end of a war
+:Events
+War crime trials
+War crimes
+:People
+Informers
+Judges
+Military officers
+Victims
+:Things
+Forensic photographs
+:Misc
+Atrocities
+Executions
+Grief
+
+An army invading a city in an enemy country
+:Events
+Civil defense
+Fires
+Marching
+Military occupations
+Surrenders
+War
+War destruction & pillage
+:Places
+Banks
+Government facilities
+Treasuries
+:People
+Prisoners of war
+Soldiers
+:Things
+Art objects
+:Misc
+War damage
+
+Working as a night watchman in a building
+:Events
+Sleeping
+Sounds
+Surveillance
+Vigils
+:Places
+Commercial facilities
+:People
+Guards
+Watchmen
+:Things
+Keys (Hardware)
+Lanterns
+Security systems
+Televisions
+:Misc
+Boredom
+
+Going water skiing on a lake
+:Events
+Falling
+Pulling
+Signals & signaling
+Swimming
+Water skiing
+:Places
+Lakes & ponds
+:People
+Children playing in water
+:Things
+Boat engines
+Life preservers
+Motorboats
+Ropes
+
+Going to a water slide
+:Events
+Floating
+Sliding
+:Places
+Hills
+Stairways
+Swimming pools
+Water slides
+:People
+Children playing in water
+:Things
+Bathing suits
+Water pumps
+
+Getting water from a well or a pump
+:Events
+Lifting & carrying
+Pulling
+:Places
+Wells
+:People
+Water carriers
+:Things
+Hoisting machinery
+Pails
+Ropes
+Water
+Water pumps
+Yokes
+:Misc
+Water pollution
+Water supply
+
+Hunting whales on a whaling ship
+:Events
+Shooting
+Whaling
+:Places
+Fishing boats
+Oceans
+Territorial waters
+:Things
+Blood
+Extinct animals
+Hoisting machinery
+Nets
+Ropes
+Spears
+Whales
+:Misc
+Fishing industry
+Freedom of the seas
+Wildlife conservation
+
+Being caught in a ocean storm
+:Events
+Hurricanes
+Lightning
+Motion sickness
+Rain
+Ship accidents
+Shipwrecks
+Storms
+Typhoons
+Waterspouts
+Whirlpools
+:Places
+Oceans
+:People
+Sailors
+:Things
+Ship equipment & rigging
+Ships
+

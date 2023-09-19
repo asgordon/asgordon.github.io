@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Commonsense Activity Resource Page</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div id="content">
+      <img src="images/counting.png" />
+      <p><a href="index.html">Andrew S. Gordon</a></p>
+      <h2>The Commonsense Activity Resource Page</h2>
+      <h4>Cataloging the activities that everyone knows about</h4>
+
+      <h3>1. Overview </h3>
+      <p>As a graduate student at Northwestern University, I decided to catalog the full breadth of activities that everyone knows about. These commonsense activities included all of the contexts of human behavior that we all have expectations about, such as eating in a restaurant, flying on a passenger airplane, and casting a vote at a polling station. Theoretically, these activities have been described using the term "scripts", but early research in this area was never able to identify more than a handful of examples. My aim was to identify activities on an extremely large scale, and the 768 activity representations in the resulting catalog remains the largest collection in existence today. </p>
+
+      <p> Rather than attempting to construct traditional formal representations of activities, I authored these representations using simple frame structure. Each activity frame consisted of a short English discriptor, and contained references to the places where the activity took place, the people that participated in the activity, the physical things that were involved, the events or actions that comprised the activity, and the miscellaneous abstract concepts that were related to the activity in some way. Each reference to place, people, thing, event, or idea in these representations was a term from a controlled vocabulary, the Library of Congress Thesaurus for Graphic Materials. The breadth of the LCTGM is extremely broad, having been developed over the course of decades of indexing millions of photographs. The success of this knowledge representation effort is largely due to the methodology that was employed. In short, I analyzed each term in the LCTGM to identify the activities in which the term should be thought of as a component. For each candidate activity that was postulated, the LCTGM was consulted to determine whether enough of the remaining concepts of the activity were captured by other controlled terms. In cases where the LCTGM was rich in component concepts, these candidate activities were added to the collection, and otherwise they were discarded. The effect of this approach was to capitalize on the breadth of the LCTGM to make the knowledge representation effort tractiable while still achieving a very broad scale. </p>
+
+      <p> A comparison of this collection of activities to other large-scale knowledge representation efforts (CYC, WordNet, ThoughtTreasure) was done by Erik Meuller, and is described in the following report: </p>
+      <p>Mueller, Erik T. (1999) A database and lexicon for ThoughtTreasure. Available at <A HREF="http://cogprints.org/555/">cogprints.org</A>.</p>
+
+      <h3>2. Publications</h3>
+
+      <p>Several publications are available that describe the collection of activities and the applications in which it was used. The JASIST article in 2001 is the definitive reference to the work, whereas the full list of activities can be found in my 1999 Ph.D. dissertation.     </p>
+
+      <ul class="publist">
+        <li>Gordon, Andrew S. (2001) Browsing Image Collections with Representations of Commonsense Activities. Journal of the American Society for Information Science and Technology, 52(11):925-929. <a href="publications/JASIST01.PDF">pdf</a> </li>
+        <li>Gordon, Andrew S. (1999) The Design of Knowledge-rich Browsing Interfaces for Retrieval in Digital Libraries. Northwestern University Ph.D. Dissertation, Department of Computer Science. <a href="publications/Dissertation.PDF">pdf</a></li>
+        <li>Gordon, Andrew S. and Domeshek, Eric A. (1998) Deja Vu: A Knowledge-Rich Interface for Retrieval in Digital Libraries. 1998 International Conference on Intelligent User Interfaces, San Francisco, CA, January 6-9, 1998. <a href="publications/IUI98.PDF">pdf</a></li>
+      </ul>
+
+      <h3>3. Downloads</h3>
+      <p>Provided here are several resources that may be useful to researchers interested in large-scale representations of commonsense activities. The activity representations that are made available here remain (C) copyright 1999 by Andrew S. Gordon, as they were first published in their entirety in my doctoral dissertation. All rights are reserved. If you have an interest in incorporating these representations into your work, please contact me directly.</p>
+
+      <ul>
+        <li><a href="downloads/Activities.txt">768 Commonsense Activity Represenations</A> (184k)<br />
+          In ASCII text format. </li>
+        <li><a href="downloads/Lctgm.txt">Library of Congress Thesaurus for Graphic Materials</A> (1.2M)<br />
+          Outdated version used to create the original activity representations, in ASCII format. </li>
+        <li><a href="downloads/Lctgm2wn.txt">Mappings from LCTGM terms to WordNet 1.6</A> (220k)<br />
+          Early experimental results of an automated mapping utility. </li>
+      </ul>
+
+      <h3>4. Applications</h3>
+
+      <p>The potential applications of this collection of commonsense activities are numerous. To date, two types of applications have been explored.</p>
+      <ul>
+        <li>Browsing image collections<br />
+          As described in the publications, the first application of this collection of activities was in support of a browsing interface for photograph retrieval. Since the component terms of these activities were from the LCTGM - which is used to index millions of photographs - the value of this application was clear. The early prototype system, called Deja Vu, ran under Microsoft Windows, and is probably still sitting on some CD-ROM in my office. If you have an interest in working with this software, please contact me. </li>
+        <li>Automated story indexing<br />
+          The stories that we tell each other in our daily lives rely heavily on shared expectations about their contexts. The vast majority of stories have contexts that are about commonsense activities, and therefore these activities can serve as extremely useful indexes for story retrieval. Early work I did at IBM TJ Watson explored the use of these activity representations for the automated indexing of stories in text documents. Precision/recall performance of this approach did not compare favorably with machine-learning based approaches. An unpublished report on this work is available. </li>
+      </ul>
+
+    </div>
+  </body>
+</html>

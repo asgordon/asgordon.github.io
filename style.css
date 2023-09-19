@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { font-family: Helvetica, Arial, sans-serif; line-height: 1.5em; background-color:white; color:#333; font-size: 1em; }
+
+body, p, td, th, ul, ol, h3, h4, div, li, dt, dd { margin: 0; padding: 0;}
+
+p {margin: 0 0 0.5em 0; text-align: justify; }
+
+a {text-decoration:underline; color:#900; }
+
+a:visited {color: #710; }
+
+h1 { margin: 0em 0em 0.5em 0em; font-size:1.6em; }
+
+h2 { margin: 1em 0em 0.5em 0em; font-size:1.4em; }
+
+h3 { margin: 1em 0em 0.5em 0em; font-size:1.2em; }
+
+h4 { margin: 1em 0em 0.5em 0em; font-size:1.0em; }
+
+ul, ol { margin-left: 1.5em; padding-left: 0; }
+
+li { margin-bottom:0.5em; text-align: justify; }
+ 
+#banner {margin:auto; width: 760px;  }
+
+#content {margin:auto; width:760px; padding-bottom: 20em; }
+
+/* Homepage specific */
+
+#headshot {  }
+
+#contact { position: absolute; bottom: 0; left: 255px; }
+
+#card { position: relative; margin-bottom: 1em; }
+
+#bio { text-align: justify; }
+
+#links {margin-top: -1em; }
+
+#links dt { position: relative; left: 0; top: 1.5em; width: 5em; font-weight: bold; }
+
+#links dd { border-left: 1px solid #000; margin: 0 0 0 6em; padding: 0 0 0 .5em; }
+
+#publications p {text-indent: -1em; padding-left: 1em; text-align: justify; }
+
+#publications h3 { margin: 1em 0em 0.5em 0em; font-size:1.2em; text-align: center; }
+
+/* Auxiliary pages */
+
+ul.publist li {text-indent: -1em; padding-left: 1em; }
